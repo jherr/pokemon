@@ -572,26 +572,6 @@
     }
   },
   {
-    "id": 29,
-    "name": {
-      "english": "Nidoran",
-      "japanese": "ニドラン♀",
-      "chinese": "尼多兰",
-      "french": "Nidoran♀"
-    },
-    "type": [
-      "Poison"
-    ],
-    "base": {
-      "hp": 55,
-      "attack": 47,
-      "defense": 52,
-      "special_attack": 40,
-      "special_defense": 40,
-      "speed": 41
-    }
-  },
-  {
     "id": 30,
     "name": {
       "english": "Nidorina",
