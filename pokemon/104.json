@@ -1,0 +1,20 @@
+{
+  "id": 104,
+  "name": {
+    "english": "Cubone",
+    "japanese": "カラカラ",
+    "chinese": "卡拉卡拉",
+    "french": "Osselait"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 95,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 35
+  }
+}

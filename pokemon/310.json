@@ -1,0 +1,20 @@
+{
+  "id": 310,
+  "name": {
+    "english": "Manectric",
+    "japanese": "ライボルト",
+    "chinese": "雷电兽",
+    "french": "Élecsprint"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 105,
+    "special_defense": 60,
+    "speed": 105
+  }
+}

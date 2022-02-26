@@ -1,0 +1,20 @@
+{
+  "id": 700,
+  "name": {
+    "english": "Sylveon",
+    "japanese": "ニンフィア",
+    "chinese": "仙子伊布",
+    "french": "Nymphali"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 110,
+    "special_defense": 130,
+    "speed": 60
+  }
+}

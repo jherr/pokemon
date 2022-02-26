@@ -1,0 +1,20 @@
+{
+  "id": 383,
+  "name": {
+    "english": "Groudon",
+    "japanese": "グラードン",
+    "chinese": "固拉多",
+    "french": "Groudon"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "special_attack": 100,
+    "special_defense": 90,
+    "speed": 90
+  }
+}

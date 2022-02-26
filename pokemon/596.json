@@ -1,0 +1,21 @@
+{
+  "id": 596,
+  "name": {
+    "english": "Galvantula",
+    "japanese": "デンチュラ",
+    "chinese": "电蜘蛛",
+    "french": "Mygavolt"
+  },
+  "type": [
+    "Bug",
+    "Electric"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 77,
+    "defense": 60,
+    "special_attack": 97,
+    "special_defense": 60,
+    "speed": 108
+  }
+}

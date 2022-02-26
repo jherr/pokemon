@@ -1,0 +1,21 @@
+{
+  "id": 724,
+  "name": {
+    "english": "Decidueye",
+    "japanese": "ジュナイパー",
+    "chinese": "狙射树枭",
+    "french": "Archéduc"
+  },
+  "type": [
+    "Grass",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 107,
+    "defense": 75,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 70
+  }
+}

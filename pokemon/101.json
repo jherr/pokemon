@@ -1,0 +1,20 @@
+{
+  "id": 101,
+  "name": {
+    "english": "Electrode",
+    "japanese": "マルマイン",
+    "chinese": "顽皮雷弹",
+    "french": "Électrode"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 150
+  }
+}

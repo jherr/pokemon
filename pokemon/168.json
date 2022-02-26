@@ -1,0 +1,21 @@
+{
+  "id": 168,
+  "name": {
+    "english": "Ariados",
+    "japanese": "アリアドス",
+    "chinese": "阿利多斯",
+    "french": "Migalos"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 40
+  }
+}

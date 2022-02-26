@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "name": {
+    "english": "Arcanine",
+    "japanese": "ウインディ",
+    "chinese": "风速狗",
+    "french": "Arcanin"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "special_attack": 100,
+    "special_defense": 80,
+    "speed": 95
+  }
+}

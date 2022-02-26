@@ -1,0 +1,20 @@
+{
+  "id": 351,
+  "name": {
+    "english": "Castform",
+    "japanese": "ポワルン",
+    "chinese": "飘浮泡泡",
+    "french": "Morphéo"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 70
+  }
+}

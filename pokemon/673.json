@@ -1,0 +1,20 @@
+{
+  "id": 673,
+  "name": {
+    "english": "Gogoat",
+    "japanese": "ゴーゴート",
+    "chinese": "坐骑山羊",
+    "french": "Chevroum"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 123,
+    "attack": 100,
+    "defense": 62,
+    "special_attack": 97,
+    "special_defense": 81,
+    "speed": 68
+  }
+}

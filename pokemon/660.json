@@ -1,0 +1,21 @@
+{
+  "id": 660,
+  "name": {
+    "english": "Diggersby",
+    "japanese": "ホルード",
+    "chinese": "掘地兔",
+    "french": "Excavarenne"
+  },
+  "type": [
+    "Normal",
+    "Ground"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 56,
+    "defense": 77,
+    "special_attack": 50,
+    "special_defense": 77,
+    "speed": 78
+  }
+}

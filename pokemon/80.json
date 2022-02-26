@@ -1,0 +1,21 @@
+{
+  "id": 80,
+  "name": {
+    "english": "Slowbro",
+    "japanese": "ヤドラン",
+    "chinese": "呆壳兽",
+    "french": "Flagadoss"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "special_attack": 100,
+    "special_defense": 80,
+    "speed": 30
+  }
+}

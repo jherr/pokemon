@@ -1,0 +1,21 @@
+{
+  "id": 251,
+  "name": {
+    "english": "Celebi",
+    "japanese": "セレビィ",
+    "chinese": "时拉比",
+    "french": "Celebi"
+  },
+  "type": [
+    "Psychic",
+    "Grass"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100
+  }
+}

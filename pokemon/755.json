@@ -1,0 +1,21 @@
+{
+  "id": 755,
+  "name": {
+    "english": "Morelull",
+    "japanese": "ネマシュ",
+    "chinese": "睡睡菇",
+    "french": "Spododo"
+  },
+  "type": [
+    "Grass",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 55,
+    "special_attack": 65,
+    "special_defense": 75,
+    "speed": 15
+  }
+}

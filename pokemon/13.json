@@ -1,0 +1,21 @@
+{
+  "id": 13,
+  "name": {
+    "english": "Weedle",
+    "japanese": "ビードル",
+    "chinese": "独角虫",
+    "french": "Aspicot"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special_attack": 20,
+    "special_defense": 20,
+    "speed": 50
+  }
+}

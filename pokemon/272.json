@@ -1,0 +1,21 @@
+{
+  "id": 272,
+  "name": {
+    "english": "Ludicolo",
+    "japanese": "ルンパッパ",
+    "chinese": "乐天河童",
+    "french": "Ludicolo"
+  },
+  "type": [
+    "Water",
+    "Grass"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 70
+  }
+}

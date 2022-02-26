@@ -1,0 +1,21 @@
+{
+  "id": 637,
+  "name": {
+    "english": "Volcarona",
+    "japanese": "ウルガモス",
+    "chinese": "火神蛾",
+    "french": "Pyrax"
+  },
+  "type": [
+    "Bug",
+    "Fire"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 60,
+    "defense": 65,
+    "special_attack": 135,
+    "special_defense": 105,
+    "speed": 100
+  }
+}

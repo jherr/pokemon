@@ -1,0 +1,20 @@
+{
+  "id": 115,
+  "name": {
+    "english": "Kangaskhan",
+    "japanese": "ガルーラ",
+    "chinese": "袋兽",
+    "french": "Kangourex"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 80,
+    "speed": 90
+  }
+}

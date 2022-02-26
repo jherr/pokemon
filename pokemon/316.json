@@ -1,0 +1,20 @@
+{
+  "id": 316,
+  "name": {
+    "english": "Gulpin",
+    "japanese": "ゴクリン",
+    "chinese": "溶食兽",
+    "french": "Gloupti"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 43,
+    "defense": 53,
+    "special_attack": 43,
+    "special_defense": 53,
+    "speed": 40
+  }
+}

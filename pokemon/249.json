@@ -1,0 +1,21 @@
+{
+  "id": 249,
+  "name": {
+    "english": "Lugia",
+    "japanese": "ルギア",
+    "chinese": "洛奇亚",
+    "french": "Lugia"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "special_attack": 90,
+    "special_defense": 154,
+    "speed": 110
+  }
+}

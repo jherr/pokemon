@@ -1,0 +1,20 @@
+{
+  "id": 729,
+  "name": {
+    "english": "Brionne",
+    "japanese": "オシャマリ",
+    "chinese": "花漾海狮",
+    "french": "Otarlette"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 69,
+    "defense": 69,
+    "special_attack": 91,
+    "special_defense": 81,
+    "speed": 50
+  }
+}

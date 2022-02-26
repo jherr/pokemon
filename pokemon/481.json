@@ -1,0 +1,20 @@
+{
+  "id": 481,
+  "name": {
+    "english": "Mesprit",
+    "japanese": "エムリット",
+    "chinese": "艾姆利多",
+    "french": "Créfollet"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 105,
+    "special_attack": 105,
+    "special_defense": 105,
+    "speed": 80
+  }
+}

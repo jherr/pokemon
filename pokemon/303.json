@@ -1,0 +1,21 @@
+{
+  "id": 303,
+  "name": {
+    "english": "Mawile",
+    "japanese": "クチート",
+    "chinese": "大嘴娃",
+    "french": "Mysdibule"
+  },
+  "type": [
+    "Steel",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 85,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 50
+  }
+}

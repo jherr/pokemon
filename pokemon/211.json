@@ -1,0 +1,21 @@
+{
+  "id": 211,
+  "name": {
+    "english": "Qwilfish",
+    "japanese": "ハリーセン",
+    "chinese": "千针鱼",
+    "french": "Qwilfish"
+  },
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 85,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 85
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 88,
+  "name": {
+    "english": "Grimer",
+    "japanese": "ベトベター",
+    "chinese": "臭泥",
+    "french": "Tadmorv"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 25
+  }
+}

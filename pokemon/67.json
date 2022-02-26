@@ -1,0 +1,20 @@
+{
+  "id": 67,
+  "name": {
+    "english": "Machoke",
+    "japanese": "ゴーリキー",
+    "chinese": "豪力",
+    "french": "Machopeur"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 50,
+    "special_defense": 60,
+    "speed": 45
+  }
+}

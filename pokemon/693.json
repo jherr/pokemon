@@ -1,0 +1,20 @@
+{
+  "id": 693,
+  "name": {
+    "english": "Clawitzer",
+    "japanese": "ブロスター",
+    "chinese": "钢炮臂虾",
+    "french": "Gamblast"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 71,
+    "attack": 73,
+    "defense": 88,
+    "special_attack": 120,
+    "special_defense": 89,
+    "speed": 59
+  }
+}

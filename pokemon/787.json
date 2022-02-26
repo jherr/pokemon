@@ -1,0 +1,21 @@
+{
+  "id": 787,
+  "name": {
+    "english": "Tapu Bulu",
+    "japanese": "カプ・ブルル",
+    "chinese": "卡璞・哞哞",
+    "french": "Tokopisco"
+  },
+  "type": [
+    "Grass",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 75
+  }
+}

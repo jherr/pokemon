@@ -1,0 +1,20 @@
+{
+  "id": 262,
+  "name": {
+    "english": "Mightyena",
+    "japanese": "グラエナ",
+    "chinese": "大狼犬",
+    "french": "Grahyèna"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 70
+  }
+}

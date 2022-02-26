@@ -1,0 +1,20 @@
+{
+  "id": 800,
+  "name": {
+    "english": "Necrozma",
+    "japanese": "ネクロズマ",
+    "chinese": "奈克洛兹玛",
+    "french": "Magearna"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 97,
+    "attack": 107,
+    "defense": 101,
+    "special_attack": 127,
+    "special_defense": 89,
+    "speed": 79
+  }
+}

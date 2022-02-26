@@ -1,0 +1,20 @@
+{
+  "id": 312,
+  "name": {
+    "english": "Minun",
+    "japanese": "マイナン",
+    "chinese": "负电拍拍",
+    "french": "Négapi"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 75,
+    "special_defense": 85,
+    "speed": 95
+  }
+}

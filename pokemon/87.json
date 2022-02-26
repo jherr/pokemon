@@ -1,0 +1,21 @@
+{
+  "id": 87,
+  "name": {
+    "english": "Dewgong",
+    "japanese": "ジュゴン",
+    "chinese": "白海狮",
+    "french": "Lamantine"
+  },
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 95,
+    "speed": 70
+  }
+}

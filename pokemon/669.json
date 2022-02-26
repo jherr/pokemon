@@ -1,0 +1,20 @@
+{
+  "id": 669,
+  "name": {
+    "english": "Flabébé",
+    "japanese": "フラベベ",
+    "chinese": "花蓓蓓",
+    "french": "Flabébé"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 39,
+    "special_attack": 61,
+    "special_defense": 79,
+    "speed": 42
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 661,
+  "name": {
+    "english": "Fletchling",
+    "japanese": "ヤヤコマ",
+    "chinese": "小箭雀",
+    "french": "Passerouge"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 43,
+    "special_attack": 40,
+    "special_defense": 38,
+    "speed": 62
+  }
+}

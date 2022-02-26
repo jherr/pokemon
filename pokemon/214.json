@@ -1,0 +1,21 @@
+{
+  "id": 214,
+  "name": {
+    "english": "Heracross",
+    "japanese": "ヘラクロス",
+    "chinese": "赫拉克罗斯",
+    "french": "Scarhino"
+  },
+  "type": [
+    "Bug",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 125,
+    "defense": 75,
+    "special_attack": 40,
+    "special_defense": 95,
+    "speed": 85
+  }
+}

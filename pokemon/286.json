@@ -1,0 +1,21 @@
+{
+  "id": 286,
+  "name": {
+    "english": "Breloom",
+    "japanese": "キノガッサ",
+    "chinese": "斗笠菇",
+    "french": "Chapignon"
+  },
+  "type": [
+    "Grass",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 70
+  }
+}

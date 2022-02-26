@@ -1,0 +1,20 @@
+{
+  "id": 641,
+  "name": {
+    "english": "Tornadus",
+    "japanese": "トルネロス",
+    "chinese": "龙卷云",
+    "french": "Boréas"
+  },
+  "type": [
+    "Flying"
+  ],
+  "base": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "special_attack": 125,
+    "special_defense": 80,
+    "speed": 111
+  }
+}

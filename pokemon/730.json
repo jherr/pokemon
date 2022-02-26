@@ -1,0 +1,21 @@
+{
+  "id": 730,
+  "name": {
+    "english": "Primarina",
+    "japanese": "アシレーヌ",
+    "chinese": "西狮海壬",
+    "french": "Oratoria"
+  },
+  "type": [
+    "Water",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 74,
+    "defense": 74,
+    "special_attack": 126,
+    "special_defense": 116,
+    "speed": 60
+  }
+}

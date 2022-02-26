@@ -1,0 +1,20 @@
+{
+  "id": 154,
+  "name": {
+    "english": "Meganium",
+    "japanese": "メガニウム",
+    "chinese": "大竺葵",
+    "french": "Méganium"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 100,
+    "special_attack": 83,
+    "special_defense": 100,
+    "speed": 80
+  }
+}

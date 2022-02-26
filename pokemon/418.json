@@ -1,0 +1,20 @@
+{
+  "id": 418,
+  "name": {
+    "english": "Buizel",
+    "japanese": "ブイゼル",
+    "chinese": "泳圈鼬",
+    "french": "Mustébouée"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 35,
+    "special_attack": 60,
+    "special_defense": 30,
+    "speed": 85
+  }
+}

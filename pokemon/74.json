@@ -1,0 +1,21 @@
+{
+  "id": 74,
+  "name": {
+    "english": "Geodude",
+    "japanese": "イシツブテ",
+    "chinese": "小拳石",
+    "french": "Racaillou"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 20
+  }
+}

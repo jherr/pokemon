@@ -1,0 +1,21 @@
+{
+  "id": 257,
+  "name": {
+    "english": "Blaziken",
+    "japanese": "バシャーモ",
+    "chinese": "火焰鸡",
+    "french": "Braségali"
+  },
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "special_attack": 110,
+    "special_defense": 70,
+    "speed": 80
+  }
+}

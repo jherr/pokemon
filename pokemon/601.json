@@ -1,0 +1,20 @@
+{
+  "id": 601,
+  "name": {
+    "english": "Klinklang",
+    "japanese": "ギギギアル",
+    "chinese": "齿轮怪",
+    "french": "Cliticlic"
+  },
+  "type": [
+    "Steel"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 115,
+    "special_attack": 70,
+    "special_defense": 85,
+    "speed": 90
+  }
+}

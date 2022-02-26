@@ -1,0 +1,21 @@
+{
+  "id": 391,
+  "name": {
+    "english": "Monferno",
+    "japanese": "モウカザル",
+    "chinese": "猛火猴",
+    "french": "Chimpenfeu"
+  },
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 64,
+    "attack": 78,
+    "defense": 52,
+    "special_attack": 78,
+    "special_defense": 52,
+    "speed": 81
+  }
+}

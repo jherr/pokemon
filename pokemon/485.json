@@ -1,0 +1,21 @@
+{
+  "id": 485,
+  "name": {
+    "english": "Heatran",
+    "japanese": "ヒードラン",
+    "chinese": "席多蓝恩",
+    "french": "Heatran"
+  },
+  "type": [
+    "Fire",
+    "Steel"
+  ],
+  "base": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 106,
+    "special_attack": 130,
+    "special_defense": 106,
+    "speed": 77
+  }
+}

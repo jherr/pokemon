@@ -1,0 +1,20 @@
+{
+  "id": 56,
+  "name": {
+    "english": "Mankey",
+    "japanese": "マンキー",
+    "chinese": "猴怪",
+    "french": "Férosinge"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "special_attack": 35,
+    "special_defense": 45,
+    "speed": 70
+  }
+}

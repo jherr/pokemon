@@ -1,0 +1,21 @@
+{
+  "id": 281,
+  "name": {
+    "english": "Kirlia",
+    "japanese": "キルリア",
+    "chinese": "奇鲁莉安",
+    "french": "Kirlia"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 38,
+    "attack": 35,
+    "defense": 35,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 50
+  }
+}

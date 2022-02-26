@@ -1,0 +1,20 @@
+{
+  "id": 600,
+  "name": {
+    "english": "Klang",
+    "japanese": "ギギアル",
+    "chinese": "齿轮组",
+    "french": "Clic"
+  },
+  "type": [
+    "Steel"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 95,
+    "special_attack": 70,
+    "special_defense": 85,
+    "speed": 50
+  }
+}

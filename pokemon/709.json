@@ -1,0 +1,21 @@
+{
+  "id": 709,
+  "name": {
+    "english": "Trevenant",
+    "japanese": "オーロット",
+    "chinese": "朽木妖",
+    "french": "Desséliande"
+  },
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 76,
+    "special_attack": 65,
+    "special_defense": 82,
+    "speed": 56
+  }
+}

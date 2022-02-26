@@ -1,0 +1,21 @@
+{
+  "id": 21,
+  "name": {
+    "english": "Spearow",
+    "japanese": "オニスズメ",
+    "chinese": "烈雀",
+    "french": "Piafabec"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "special_attack": 31,
+    "special_defense": 31,
+    "speed": 70
+  }
+}

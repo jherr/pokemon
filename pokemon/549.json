@@ -1,0 +1,20 @@
+{
+  "id": 549,
+  "name": {
+    "english": "Lilligant",
+    "japanese": "ドレディア",
+    "chinese": "裙儿小姐",
+    "french": "Fragilady"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 75,
+    "special_attack": 110,
+    "special_defense": 75,
+    "speed": 90
+  }
+}

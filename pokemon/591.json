@@ -1,0 +1,21 @@
+{
+  "id": 591,
+  "name": {
+    "english": "Amoonguss",
+    "japanese": "モロバレル",
+    "chinese": "败露球菇",
+    "french": "Gaulet"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 114,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 80,
+    "speed": 30
+  }
+}

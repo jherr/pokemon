@@ -1,0 +1,21 @@
+{
+  "id": 527,
+  "name": {
+    "english": "Woobat",
+    "japanese": "コロモリ",
+    "chinese": "滚滚蝙蝠",
+    "french": "Chovsourir"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 45,
+    "defense": 43,
+    "special_attack": 55,
+    "special_defense": 43,
+    "speed": 72
+  }
+}

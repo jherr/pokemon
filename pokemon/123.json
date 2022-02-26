@@ -1,0 +1,21 @@
+{
+  "id": 123,
+  "name": {
+    "english": "Scyther",
+    "japanese": "ストライク",
+    "chinese": "飞天螳螂",
+    "french": "Insécateur"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 105
+  }
+}

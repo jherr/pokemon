@@ -1,0 +1,20 @@
+{
+  "id": 186,
+  "name": {
+    "english": "Politoed",
+    "japanese": "ニョロトノ",
+    "chinese": "蚊香蛙皇",
+    "french": "Tarpaud"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 70
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 545,
+  "name": {
+    "english": "Scolipede",
+    "japanese": "ペンドラー",
+    "chinese": "蜈蚣王",
+    "french": "Brutapode"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 89,
+    "special_attack": 55,
+    "special_defense": 69,
+    "speed": 112
+  }
+}

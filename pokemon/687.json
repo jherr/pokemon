@@ -1,0 +1,21 @@
+{
+  "id": 687,
+  "name": {
+    "english": "Malamar",
+    "japanese": "カラマネロ",
+    "chinese": "乌贼王",
+    "french": "Sepiatroce"
+  },
+  "type": [
+    "Dark",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 86,
+    "attack": 92,
+    "defense": 88,
+    "special_attack": 68,
+    "special_defense": 75,
+    "speed": 73
+  }
+}

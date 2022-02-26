@@ -1,0 +1,21 @@
+{
+  "id": 62,
+  "name": {
+    "english": "Poliwrath",
+    "japanese": "ニョロボン",
+    "chinese": "蚊香泳士",
+    "french": "Tartard"
+  },
+  "type": [
+    "Water",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 70,
+    "special_defense": 90,
+    "speed": 70
+  }
+}

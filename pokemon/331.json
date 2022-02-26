@@ -1,0 +1,20 @@
+{
+  "id": 331,
+  "name": {
+    "english": "Cacnea",
+    "japanese": "サボネア",
+    "chinese": "刺球仙人掌",
+    "french": "Cacnea"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 40,
+    "special_attack": 85,
+    "special_defense": 40,
+    "speed": 35
+  }
+}

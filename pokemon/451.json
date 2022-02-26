@@ -1,0 +1,21 @@
+{
+  "id": 451,
+  "name": {
+    "english": "Skorupi",
+    "japanese": "スコルピ",
+    "chinese": "钳尾蝎",
+    "french": "Rapion"
+  },
+  "type": [
+    "Poison",
+    "Bug"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 90,
+    "special_attack": 30,
+    "special_defense": 55,
+    "speed": 65
+  }
+}

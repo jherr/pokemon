@@ -1,0 +1,21 @@
+{
+  "id": 269,
+  "name": {
+    "english": "Dustox",
+    "japanese": "ドクケイル",
+    "chinese": "毒粉蛾",
+    "french": "Papinox"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 70,
+    "special_attack": 50,
+    "special_defense": 90,
+    "speed": 65
+  }
+}

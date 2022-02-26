@@ -1,0 +1,20 @@
+{
+  "id": 470,
+  "name": {
+    "english": "Leafeon",
+    "japanese": "リーフィア",
+    "chinese": "叶伊布",
+    "french": "Phyllali"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 110,
+    "defense": 130,
+    "special_attack": 60,
+    "special_defense": 65,
+    "speed": 95
+  }
+}

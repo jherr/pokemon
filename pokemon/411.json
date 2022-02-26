@@ -1,0 +1,21 @@
+{
+  "id": 411,
+  "name": {
+    "english": "Bastiodon",
+    "japanese": "トリデプス",
+    "chinese": "护城龙",
+    "french": "Bastiodon"
+  },
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 52,
+    "defense": 168,
+    "special_attack": 47,
+    "special_defense": 138,
+    "speed": 30
+  }
+}

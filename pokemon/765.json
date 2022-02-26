@@ -1,0 +1,21 @@
+{
+  "id": 765,
+  "name": {
+    "english": "Oranguru",
+    "japanese": "ヤレユータン",
+    "chinese": "智挥猩",
+    "french": "Gouroutan"
+  },
+  "type": [
+    "Normal",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 80,
+    "special_attack": 90,
+    "special_defense": 110,
+    "speed": 60
+  }
+}

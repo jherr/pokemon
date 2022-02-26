@@ -1,0 +1,21 @@
+{
+  "id": 92,
+  "name": {
+    "english": "Gastly",
+    "japanese": "ゴース",
+    "chinese": "鬼斯",
+    "french": "Fantominus"
+  },
+  "type": [
+    "Ghost",
+    "Poison"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 35,
+    "defense": 30,
+    "special_attack": 100,
+    "special_defense": 35,
+    "speed": 80
+  }
+}

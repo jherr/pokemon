@@ -1,0 +1,21 @@
+{
+  "id": 785,
+  "name": {
+    "english": "Tapu Koko",
+    "japanese": "カプ・コケコ",
+    "chinese": "卡璞・鸣鸣",
+    "french": "Tokopiyon"
+  },
+  "type": [
+    "Electric",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 85,
+    "special_attack": 95,
+    "special_defense": 75,
+    "speed": 130
+  }
+}

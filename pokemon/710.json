@@ -1,0 +1,21 @@
+{
+  "id": 710,
+  "name": {
+    "english": "Pumpkaboo",
+    "japanese": "バケッチャ",
+    "chinese": "南瓜精",
+    "french": "Pitrouille"
+  },
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 66,
+    "defense": 70,
+    "special_attack": 44,
+    "special_defense": 55,
+    "speed": 41
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 355,
+  "name": {
+    "english": "Duskull",
+    "japanese": "ヨマワル",
+    "chinese": "夜巡灵",
+    "french": "Skelénox"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 20,
+    "attack": 40,
+    "defense": 90,
+    "special_attack": 30,
+    "special_defense": 90,
+    "speed": 25
+  }
+}

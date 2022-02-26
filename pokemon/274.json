@@ -1,0 +1,21 @@
+{
+  "id": 274,
+  "name": {
+    "english": "Nuzleaf",
+    "japanese": "コノハナ",
+    "chinese": "长鼻叶",
+    "french": "Pifeuil"
+  },
+  "type": [
+    "Grass",
+    "Dark"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 40,
+    "special_attack": 60,
+    "special_defense": 40,
+    "speed": 60
+  }
+}

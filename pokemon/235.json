@@ -1,0 +1,20 @@
+{
+  "id": 235,
+  "name": {
+    "english": "Smeargle",
+    "japanese": "ドーブル",
+    "chinese": "图图犬",
+    "french": "Queulorior"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 20,
+    "defense": 35,
+    "special_attack": 20,
+    "special_defense": 45,
+    "speed": 75
+  }
+}

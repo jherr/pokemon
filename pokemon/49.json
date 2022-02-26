@@ -1,0 +1,21 @@
+{
+  "id": 49,
+  "name": {
+    "english": "Venomoth",
+    "japanese": "モルフォン",
+    "chinese": "摩鲁蛾",
+    "french": "Aéromite"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 90,
+    "special_defense": 75,
+    "speed": 90
+  }
+}

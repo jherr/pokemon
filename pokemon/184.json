@@ -1,0 +1,21 @@
+{
+  "id": 184,
+  "name": {
+    "english": "Azumarill",
+    "japanese": "マリルリ",
+    "chinese": "玛力露丽",
+    "french": "Azumarill"
+  },
+  "type": [
+    "Water",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 80,
+    "speed": 50
+  }
+}

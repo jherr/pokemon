@@ -1,0 +1,21 @@
+{
+  "id": 308,
+  "name": {
+    "english": "Medicham",
+    "japanese": "チャーレム",
+    "chinese": "恰雷姆",
+    "french": "Charmina"
+  },
+  "type": [
+    "Fighting",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 80
+  }
+}

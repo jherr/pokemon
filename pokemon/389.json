@@ -1,0 +1,21 @@
+{
+  "id": 389,
+  "name": {
+    "english": "Torterra",
+    "japanese": "ドダイトス",
+    "chinese": "土台龟",
+    "french": "Torterra"
+  },
+  "type": [
+    "Grass",
+    "Ground"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 109,
+    "defense": 105,
+    "special_attack": 75,
+    "special_defense": 85,
+    "speed": 56
+  }
+}

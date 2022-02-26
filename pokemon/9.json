@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "name": {
+    "english": "Blastoise",
+    "japanese": "カメックス",
+    "chinese": "水箭龟",
+    "french": "Tortank"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "special_attack": 85,
+    "special_defense": 105,
+    "speed": 78
+  }
+}

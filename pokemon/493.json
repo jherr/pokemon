@@ -1,0 +1,20 @@
+{
+  "id": 493,
+  "name": {
+    "english": "Arceus",
+    "japanese": "アルセウス",
+    "chinese": "阿尔宙斯",
+    "french": "Arceus"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 120,
+    "attack": 120,
+    "defense": 120,
+    "special_attack": 120,
+    "special_defense": 120,
+    "speed": 120
+  }
+}

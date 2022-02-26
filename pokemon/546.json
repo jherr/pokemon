@@ -1,0 +1,21 @@
+{
+  "id": 546,
+  "name": {
+    "english": "Cottonee",
+    "japanese": "モンメン",
+    "chinese": "木棉球",
+    "french": "Doudouvet"
+  },
+  "type": [
+    "Grass",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 27,
+    "defense": 60,
+    "special_attack": 37,
+    "special_defense": 50,
+    "speed": 66
+  }
+}

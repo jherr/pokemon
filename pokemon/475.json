@@ -1,0 +1,21 @@
+{
+  "id": 475,
+  "name": {
+    "english": "Gallade",
+    "japanese": "エルレイド",
+    "chinese": "艾路雷朵",
+    "french": "Gallame"
+  },
+  "type": [
+    "Psychic",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 125,
+    "defense": 65,
+    "special_attack": 65,
+    "special_defense": 115,
+    "speed": 80
+  }
+}

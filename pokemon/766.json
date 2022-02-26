@@ -1,0 +1,20 @@
+{
+  "id": 766,
+  "name": {
+    "english": "Passimian",
+    "japanese": "ナゲツケサル",
+    "chinese": "投掷猴",
+    "french": "Quartermac"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 90,
+    "special_attack": 40,
+    "special_defense": 60,
+    "speed": 80
+  }
+}

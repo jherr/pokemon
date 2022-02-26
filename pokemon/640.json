@@ -1,0 +1,21 @@
+{
+  "id": 640,
+  "name": {
+    "english": "Virizion",
+    "japanese": "ビリジオン",
+    "chinese": "毕力吉翁",
+    "french": "Viridium"
+  },
+  "type": [
+    "Grass",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 91,
+    "attack": 90,
+    "defense": 72,
+    "special_attack": 90,
+    "special_defense": 129,
+    "speed": 108
+  }
+}

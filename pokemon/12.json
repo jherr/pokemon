@@ -1,0 +1,21 @@
+{
+  "id": 12,
+  "name": {
+    "english": "Butterfree",
+    "japanese": "バタフリー",
+    "chinese": "巴大蝶",
+    "french": "Papilusion"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 70
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 284,
+  "name": {
+    "english": "Masquerain",
+    "japanese": "アメモース",
+    "chinese": "雨翅蛾",
+    "french": "Maskadra"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 62,
+    "special_attack": 100,
+    "special_defense": 82,
+    "speed": 80
+  }
+}

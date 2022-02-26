@@ -1,0 +1,21 @@
+{
+  "id": 462,
+  "name": {
+    "english": "Magnezone",
+    "japanese": "ジバコイル",
+    "chinese": "自爆磁怪",
+    "french": "Magnézone"
+  },
+  "type": [
+    "Electric",
+    "Steel"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 60
+  }
+}

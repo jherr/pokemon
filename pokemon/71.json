@@ -1,0 +1,21 @@
+{
+  "id": 71,
+  "name": {
+    "english": "Victreebel",
+    "japanese": "ウツボット",
+    "chinese": "大食花",
+    "french": "Empiflor"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special_attack": 100,
+    "special_defense": 70,
+    "speed": 70
+  }
+}

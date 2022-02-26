@@ -1,0 +1,21 @@
+{
+  "id": 696,
+  "name": {
+    "english": "Tyrunt",
+    "japanese": "チゴラス",
+    "chinese": "宝宝暴龙",
+    "french": "Ptyranidur"
+  },
+  "type": [
+    "Rock",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 58,
+    "attack": 89,
+    "defense": 77,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 48
+  }
+}

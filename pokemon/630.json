@@ -1,0 +1,21 @@
+{
+  "id": 630,
+  "name": {
+    "english": "Mandibuzz",
+    "japanese": "バルジーナ",
+    "chinese": "秃鹰娜",
+    "french": "Vaututrice"
+  },
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 105,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 80
+  }
+}

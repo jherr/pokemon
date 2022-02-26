@@ -1,0 +1,21 @@
+{
+  "id": 776,
+  "name": {
+    "english": "Turtonator",
+    "japanese": "バクガメス",
+    "chinese": "爆焰龟兽",
+    "french": "Togedemaru"
+  },
+  "type": [
+    "Fire",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 78,
+    "defense": 135,
+    "special_attack": 91,
+    "special_defense": 85,
+    "speed": 36
+  }
+}

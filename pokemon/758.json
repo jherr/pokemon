@@ -1,0 +1,21 @@
+{
+  "id": 758,
+  "name": {
+    "english": "Salazzle",
+    "japanese": "エンニュート",
+    "chinese": "焰后蜥",
+    "french": "Malamandre"
+  },
+  "type": [
+    "Poison",
+    "Fire"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 64,
+    "defense": 60,
+    "special_attack": 111,
+    "special_defense": 60,
+    "speed": 117
+  }
+}

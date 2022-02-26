@@ -1,0 +1,20 @@
+{
+  "id": 25,
+  "name": {
+    "english": "Pikachu",
+    "japanese": "ピカチュウ",
+    "chinese": "皮卡丘",
+    "french": "Pikachu"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 55,
+    "defense": 40,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 90
+  }
+}

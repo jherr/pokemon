@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "name": {
+    "english": "Voltorb",
+    "japanese": "ビリリダマ",
+    "chinese": "霹雳电球",
+    "french": "Voltorbe"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 100
+  }
+}

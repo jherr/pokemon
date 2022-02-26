@@ -1,0 +1,21 @@
+{
+  "id": 439,
+  "name": {
+    "english": "Mime Jr.",
+    "japanese": "マネネ",
+    "chinese": "魔尼尼",
+    "french": "Mime Jr"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 20,
+    "attack": 25,
+    "defense": 45,
+    "special_attack": 70,
+    "special_defense": 90,
+    "speed": 60
+  }
+}

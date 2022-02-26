@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "name": {
+    "english": "Charizard",
+    "japanese": "リザードン",
+    "chinese": "喷火龙",
+    "french": "Dracaufeu"
+  },
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special_attack": 109,
+    "special_defense": 85,
+    "speed": 100
+  }
+}

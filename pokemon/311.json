@@ -1,0 +1,20 @@
+{
+  "id": 311,
+  "name": {
+    "english": "Plusle",
+    "japanese": "プラスル",
+    "chinese": "正电拍拍",
+    "french": "Posipi"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 40,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 95
+  }
+}

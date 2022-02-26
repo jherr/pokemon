@@ -1,0 +1,21 @@
+{
+  "id": 473,
+  "name": {
+    "english": "Mamoswine",
+    "japanese": "マンムー",
+    "chinese": "象牙猪",
+    "french": "Mammochon"
+  },
+  "type": [
+    "Ice",
+    "Ground"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 60,
+    "speed": 80
+  }
+}

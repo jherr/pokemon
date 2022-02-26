@@ -1,0 +1,21 @@
+{
+  "id": 18,
+  "name": {
+    "english": "Pidgeot",
+    "japanese": "ピジョット",
+    "chinese": "大比鸟",
+    "french": "Roucarnage"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 101
+  }
+}

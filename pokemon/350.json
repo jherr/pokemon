@@ -1,0 +1,20 @@
+{
+  "id": 350,
+  "name": {
+    "english": "Milotic",
+    "japanese": "ミロカロス",
+    "chinese": "美纳斯",
+    "french": "Milobellus"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 60,
+    "defense": 79,
+    "special_attack": 100,
+    "special_defense": 125,
+    "speed": 81
+  }
+}

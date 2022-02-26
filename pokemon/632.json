@@ -1,0 +1,21 @@
+{
+  "id": 632,
+  "name": {
+    "english": "Durant",
+    "japanese": "アイアント",
+    "chinese": "铁蚁",
+    "french": "Fermite"
+  },
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "base": {
+    "hp": 58,
+    "attack": 109,
+    "defense": 112,
+    "special_attack": 48,
+    "special_defense": 48,
+    "speed": 109
+  }
+}

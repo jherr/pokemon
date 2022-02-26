@@ -1,0 +1,21 @@
+{
+  "id": 187,
+  "name": {
+    "english": "Hoppip",
+    "japanese": "ハネッコ",
+    "chinese": "毽子草",
+    "french": "Granivol"
+  },
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 35,
+    "defense": 40,
+    "special_attack": 35,
+    "special_defense": 55,
+    "speed": 50
+  }
+}

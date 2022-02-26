@@ -1,0 +1,21 @@
+{
+  "id": 171,
+  "name": {
+    "english": "Lanturn",
+    "japanese": "ランターン",
+    "chinese": "电灯怪",
+    "french": "Lanturn"
+  },
+  "type": [
+    "Water",
+    "Electric"
+  ],
+  "base": {
+    "hp": 125,
+    "attack": 58,
+    "defense": 58,
+    "special_attack": 76,
+    "special_defense": 76,
+    "speed": 67
+  }
+}

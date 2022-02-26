@@ -1,0 +1,21 @@
+{
+  "id": 306,
+  "name": {
+    "english": "Aggron",
+    "japanese": "ボスゴドラ",
+    "chinese": "波士可多拉",
+    "french": "Galeking"
+  },
+  "type": [
+    "Steel",
+    "Rock"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 50
+  }
+}

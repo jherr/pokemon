@@ -1,0 +1,20 @@
+{
+  "id": 525,
+  "name": {
+    "english": "Boldore",
+    "japanese": "ガントル",
+    "chinese": "地幔岩",
+    "french": "Géolithe"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 105,
+    "special_attack": 50,
+    "special_defense": 40,
+    "speed": 20
+  }
+}

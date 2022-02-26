@@ -1,0 +1,20 @@
+{
+  "id": 531,
+  "name": {
+    "english": "Audino",
+    "japanese": "タブンネ",
+    "chinese": "差不多娃娃",
+    "french": "Nanméouïe"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 103,
+    "attack": 60,
+    "defense": 86,
+    "special_attack": 60,
+    "special_defense": 86,
+    "speed": 50
+  }
+}

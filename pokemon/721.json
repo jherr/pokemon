@@ -1,0 +1,21 @@
+{
+  "id": 721,
+  "name": {
+    "english": "Volcanion",
+    "japanese": "ボルケニオン",
+    "chinese": "波尔凯尼恩",
+    "french": "Volcanion"
+  },
+  "type": [
+    "Fire",
+    "Water"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 120,
+    "special_attack": 130,
+    "special_defense": 90,
+    "speed": 70
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 705,
+  "name": {
+    "english": "Sliggoo",
+    "japanese": "ヌメイル",
+    "chinese": "黏美儿",
+    "french": "Colimucus"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 75,
+    "defense": 53,
+    "special_attack": 83,
+    "special_defense": 113,
+    "speed": 60
+  }
+}

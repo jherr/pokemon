@@ -1,0 +1,20 @@
+{
+  "id": 254,
+  "name": {
+    "english": "Sceptile",
+    "japanese": "ジュカイン",
+    "chinese": "蜥蜴王",
+    "french": "Jungko"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 65,
+    "special_attack": 105,
+    "special_defense": 85,
+    "speed": 120
+  }
+}

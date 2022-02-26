@@ -1,0 +1,20 @@
+{
+  "id": 754,
+  "name": {
+    "english": "Lurantis",
+    "japanese": "ラランテス",
+    "chinese": "兰螳花",
+    "french": "Floramantis"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 80,
+    "special_defense": 90,
+    "speed": 45
+  }
+}

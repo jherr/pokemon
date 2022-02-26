@@ -1,0 +1,21 @@
+{
+  "id": 727,
+  "name": {
+    "english": "Incineroar",
+    "japanese": "ガオガエン",
+    "chinese": "炽焰咆哮虎",
+    "french": "Félinferno"
+  },
+  "type": [
+    "Fire",
+    "Dark"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "special_attack": 80,
+    "special_defense": 90,
+    "speed": 60
+  }
+}

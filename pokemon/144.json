@@ -1,0 +1,21 @@
+{
+  "id": 144,
+  "name": {
+    "english": "Articuno",
+    "japanese": "フリーザー",
+    "chinese": "急冻鸟",
+    "french": "Artikodin"
+  },
+  "type": [
+    "Ice",
+    "Flying"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "special_attack": 95,
+    "special_defense": 125,
+    "speed": 85
+  }
+}

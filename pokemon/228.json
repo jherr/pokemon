@@ -1,0 +1,21 @@
+{
+  "id": 228,
+  "name": {
+    "english": "Houndour",
+    "japanese": "デルビル",
+    "chinese": "戴鲁比",
+    "french": "Malosse"
+  },
+  "type": [
+    "Dark",
+    "Fire"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 30,
+    "special_attack": 80,
+    "special_defense": 50,
+    "speed": 65
+  }
+}

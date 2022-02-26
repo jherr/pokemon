@@ -1,0 +1,21 @@
+{
+  "id": 290,
+  "name": {
+    "english": "Nincada",
+    "japanese": "ツチニン",
+    "chinese": "土居忍士",
+    "french": "Ningale"
+  },
+  "type": [
+    "Bug",
+    "Ground"
+  ],
+  "base": {
+    "hp": 31,
+    "attack": 45,
+    "defense": 90,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 40
+  }
+}

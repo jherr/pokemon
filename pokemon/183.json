@@ -1,0 +1,21 @@
+{
+  "id": 183,
+  "name": {
+    "english": "Marill",
+    "japanese": "マリル",
+    "chinese": "玛力露",
+    "french": "Marill"
+  },
+  "type": [
+    "Water",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 20,
+    "defense": 50,
+    "special_attack": 20,
+    "special_defense": 50,
+    "speed": 40
+  }
+}

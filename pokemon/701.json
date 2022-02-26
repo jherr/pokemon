@@ -1,0 +1,21 @@
+{
+  "id": 701,
+  "name": {
+    "english": "Hawlucha",
+    "japanese": "ルチャブル",
+    "chinese": "摔角鹰人",
+    "french": "Brutalibré"
+  },
+  "type": [
+    "Fighting",
+    "Flying"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 92,
+    "defense": 75,
+    "special_attack": 74,
+    "special_defense": 63,
+    "speed": 118
+  }
+}

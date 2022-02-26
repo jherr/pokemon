@@ -1,0 +1,21 @@
+{
+  "id": 176,
+  "name": {
+    "english": "Togetic",
+    "japanese": "トゲチック",
+    "chinese": "波克基古",
+    "french": "Togetic"
+  },
+  "type": [
+    "Fairy",
+    "Flying"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 85,
+    "special_attack": 80,
+    "special_defense": 105,
+    "speed": 40
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 294,
+  "name": {
+    "english": "Loudred",
+    "japanese": "ドゴーム",
+    "chinese": "吼爆弹",
+    "french": "Ramboum"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 84,
+    "attack": 71,
+    "defense": 43,
+    "special_attack": 71,
+    "special_defense": 43,
+    "speed": 48
+  }
+}

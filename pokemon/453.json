@@ -1,0 +1,21 @@
+{
+  "id": 453,
+  "name": {
+    "english": "Croagunk",
+    "japanese": "グレッグル",
+    "chinese": "不良蛙",
+    "french": "Cradopaud"
+  },
+  "type": [
+    "Poison",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 48,
+    "attack": 61,
+    "defense": 40,
+    "special_attack": 61,
+    "special_defense": 40,
+    "speed": 50
+  }
+}

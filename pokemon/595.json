@@ -1,0 +1,21 @@
+{
+  "id": 595,
+  "name": {
+    "english": "Joltik",
+    "japanese": "バチュル",
+    "chinese": "电电虫",
+    "french": "Statitik"
+  },
+  "type": [
+    "Bug",
+    "Electric"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 47,
+    "defense": 50,
+    "special_attack": 57,
+    "special_defense": 50,
+    "speed": 65
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 472,
+  "name": {
+    "english": "Gliscor",
+    "japanese": "グライオン",
+    "chinese": "天蝎王",
+    "french": "Scorvol"
+  },
+  "type": [
+    "Ground",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 125,
+    "special_attack": 45,
+    "special_defense": 75,
+    "speed": 95
+  }
+}

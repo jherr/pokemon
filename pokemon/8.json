@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "name": {
+    "english": "Wartortle",
+    "japanese": "カメール",
+    "chinese": "卡咪龟",
+    "french": "Carabaffe"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 80,
+    "speed": 58
+  }
+}

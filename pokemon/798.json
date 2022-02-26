@@ -1,0 +1,21 @@
+{
+  "id": 798,
+  "name": {
+    "english": "Kartana",
+    "japanese": "カミツルギ",
+    "chinese": "纸御剑",
+    "french": "Engloutyran"
+  },
+  "type": [
+    "Grass",
+    "Steel"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 181,
+    "defense": 131,
+    "special_attack": 59,
+    "special_defense": 31,
+    "speed": 109
+  }
+}

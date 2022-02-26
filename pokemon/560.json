@@ -1,0 +1,21 @@
+{
+  "id": 560,
+  "name": {
+    "english": "Scrafty",
+    "japanese": "ズルズキン",
+    "chinese": "头巾混混",
+    "french": "Baggaïd"
+  },
+  "type": [
+    "Dark",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 115,
+    "special_attack": 45,
+    "special_defense": 115,
+    "speed": 58
+  }
+}

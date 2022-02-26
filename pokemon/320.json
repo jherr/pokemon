@@ -1,0 +1,20 @@
+{
+  "id": 320,
+  "name": {
+    "english": "Wailmer",
+    "japanese": "ホエルコ",
+    "chinese": "吼吼鲸",
+    "french": "Wailmer"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 130,
+    "attack": 70,
+    "defense": 35,
+    "special_attack": 70,
+    "special_defense": 35,
+    "speed": 60
+  }
+}

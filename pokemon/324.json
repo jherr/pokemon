@@ -1,0 +1,20 @@
+{
+  "id": 324,
+  "name": {
+    "english": "Torkoal",
+    "japanese": "コータス",
+    "chinese": "煤炭龟",
+    "french": "Chartor"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 140,
+    "special_attack": 85,
+    "special_defense": 70,
+    "speed": 20
+  }
+}

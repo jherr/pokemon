@@ -1,0 +1,21 @@
+{
+  "id": 140,
+  "name": {
+    "english": "Kabuto",
+    "japanese": "カブト",
+    "chinese": "化石盔",
+    "french": "Kabuto"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 80,
+    "defense": 90,
+    "special_attack": 55,
+    "special_defense": 45,
+    "speed": 55
+  }
+}

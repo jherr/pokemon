@@ -1,0 +1,20 @@
+{
+  "id": 465,
+  "name": {
+    "english": "Tangrowth",
+    "japanese": "モジャンボ",
+    "chinese": "巨蔓藤",
+    "french": "Bouldeneu"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 125,
+    "special_attack": 110,
+    "special_defense": 50,
+    "speed": 50
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 252,
+  "name": {
+    "english": "Treecko",
+    "japanese": "キモリ",
+    "chinese": "木守宫",
+    "french": "Arcko"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 70
+  }
+}

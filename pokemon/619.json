@@ -1,0 +1,20 @@
+{
+  "id": 619,
+  "name": {
+    "english": "Mienfoo",
+    "japanese": "コジョフー",
+    "chinese": "功夫鼬",
+    "french": "Kungfouine"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 85,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 50,
+    "speed": 65
+  }
+}

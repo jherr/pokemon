@@ -1,0 +1,20 @@
+{
+  "id": 27,
+  "name": {
+    "english": "Sandshrew",
+    "japanese": "サンド",
+    "chinese": "穿山鼠",
+    "french": "Sabelette"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "special_attack": 20,
+    "special_defense": 30,
+    "speed": 40
+  }
+}

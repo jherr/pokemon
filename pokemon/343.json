@@ -1,0 +1,21 @@
+{
+  "id": 343,
+  "name": {
+    "english": "Baltoy",
+    "japanese": "ヤジロン",
+    "chinese": "天秤偶",
+    "french": "Balbuto"
+  },
+  "type": [
+    "Ground",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 55,
+    "special_attack": 40,
+    "special_defense": 70,
+    "speed": 55
+  }
+}

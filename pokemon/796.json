@@ -1,0 +1,20 @@
+{
+  "id": 796,
+  "name": {
+    "english": "Xurkitree",
+    "japanese": "デンジュモク",
+    "chinese": "电束木",
+    "french": "Bamboiselle"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 83,
+    "attack": 89,
+    "defense": 71,
+    "special_attack": 173,
+    "special_defense": 71,
+    "speed": 83
+  }
+}

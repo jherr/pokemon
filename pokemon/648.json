@@ -1,0 +1,21 @@
+{
+  "id": 648,
+  "name": {
+    "english": "Meloetta",
+    "japanese": "メロエッタ",
+    "chinese": "美洛耶塔",
+    "french": "Meloetta"
+  },
+  "type": [
+    "Normal",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 77,
+    "defense": 77,
+    "special_attack": 128,
+    "special_defense": 128,
+    "speed": 90
+  }
+}

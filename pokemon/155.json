@@ -1,0 +1,20 @@
+{
+  "id": 155,
+  "name": {
+    "english": "Cyndaquil",
+    "japanese": "ヒノアラシ",
+    "chinese": "火球鼠",
+    "french": "Héricendre"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "special_attack": 60,
+    "special_defense": 50,
+    "speed": 65
+  }
+}

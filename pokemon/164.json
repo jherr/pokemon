@@ -1,0 +1,21 @@
+{
+  "id": 164,
+  "name": {
+    "english": "Noctowl",
+    "japanese": "ヨルノズク",
+    "chinese": "猫头夜鹰",
+    "french": "Noarfang"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 86,
+    "special_defense": 96,
+    "speed": 70
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 419,
+  "name": {
+    "english": "Floatzel",
+    "japanese": "フローゼル",
+    "chinese": "浮潜鼬",
+    "french": "Mustéflott"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 55,
+    "special_attack": 85,
+    "special_defense": 50,
+    "speed": 115
+  }
+}

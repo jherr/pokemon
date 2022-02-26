@@ -1,0 +1,21 @@
+{
+  "id": 221,
+  "name": {
+    "english": "Piloswine",
+    "japanese": "イノムー",
+    "chinese": "长毛猪",
+    "french": "Cochignon"
+  },
+  "type": [
+    "Ice",
+    "Ground"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 50
+  }
+}

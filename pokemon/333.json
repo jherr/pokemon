@@ -1,0 +1,21 @@
+{
+  "id": 333,
+  "name": {
+    "english": "Swablu",
+    "japanese": "チルット",
+    "chinese": "青绵鸟",
+    "french": "Tylton"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 75,
+    "speed": 50
+  }
+}

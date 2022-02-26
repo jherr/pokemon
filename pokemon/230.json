@@ -1,0 +1,21 @@
+{
+  "id": 230,
+  "name": {
+    "english": "Kingdra",
+    "japanese": "キングドラ",
+    "chinese": "刺龙王",
+    "french": "Hyporoi"
+  },
+  "type": [
+    "Water",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 95,
+    "speed": 85
+  }
+}

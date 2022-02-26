@@ -1,0 +1,21 @@
+{
+  "id": 395,
+  "name": {
+    "english": "Empoleon",
+    "japanese": "エンペルト",
+    "chinese": "帝王拿波",
+    "french": "Pingoléon"
+  },
+  "type": [
+    "Water",
+    "Steel"
+  ],
+  "base": {
+    "hp": 84,
+    "attack": 86,
+    "defense": 88,
+    "special_attack": 111,
+    "special_defense": 101,
+    "speed": 60
+  }
+}

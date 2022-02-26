@@ -1,0 +1,20 @@
+{
+  "id": 650,
+  "name": {
+    "english": "Chespin",
+    "japanese": "ハリマロン",
+    "chinese": "哈力栗",
+    "french": "Marisson"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 56,
+    "attack": 61,
+    "defense": 65,
+    "special_attack": 48,
+    "special_defense": 45,
+    "speed": 38
+  }
+}

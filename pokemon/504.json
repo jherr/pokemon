@@ -1,0 +1,20 @@
+{
+  "id": 504,
+  "name": {
+    "english": "Patrat",
+    "japanese": "ミネズミ",
+    "chinese": "探探鼠",
+    "french": "Ratentif"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 39,
+    "special_attack": 35,
+    "special_defense": 39,
+    "speed": 42
+  }
+}

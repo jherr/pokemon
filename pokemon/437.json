@@ -1,0 +1,21 @@
+{
+  "id": 437,
+  "name": {
+    "english": "Bronzong",
+    "japanese": "ドータクン",
+    "chinese": "青铜钟",
+    "french": "Archéodong"
+  },
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 89,
+    "defense": 116,
+    "special_attack": 79,
+    "special_defense": 116,
+    "speed": 33
+  }
+}

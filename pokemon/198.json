@@ -1,0 +1,21 @@
+{
+  "id": 198,
+  "name": {
+    "english": "Murkrow",
+    "japanese": "ヤミカラス",
+    "chinese": "黑暗鸦",
+    "french": "Cornèbre"
+  },
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 42,
+    "special_attack": 85,
+    "special_defense": 42,
+    "speed": 91
+  }
+}

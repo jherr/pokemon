@@ -1,0 +1,20 @@
+{
+  "id": 181,
+  "name": {
+    "english": "Ampharos",
+    "japanese": "デンリュウ",
+    "chinese": "电龙",
+    "french": "Pharamp"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 85,
+    "special_attack": 115,
+    "special_defense": 90,
+    "speed": 55
+  }
+}

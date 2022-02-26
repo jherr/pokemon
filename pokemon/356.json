@@ -1,0 +1,20 @@
+{
+  "id": 356,
+  "name": {
+    "english": "Dusclops",
+    "japanese": "サマヨール",
+    "chinese": "彷徨夜灵",
+    "french": "Téraclope"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 130,
+    "special_attack": 60,
+    "special_defense": 130,
+    "speed": 25
+  }
+}

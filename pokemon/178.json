@@ -1,0 +1,21 @@
+{
+  "id": 178,
+  "name": {
+    "english": "Xatu",
+    "japanese": "ネイティオ",
+    "chinese": "天然鸟",
+    "french": "Xatu"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 70,
+    "special_attack": 95,
+    "special_defense": 70,
+    "speed": 95
+  }
+}

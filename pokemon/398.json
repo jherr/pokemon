@@ -1,0 +1,21 @@
+{
+  "id": 398,
+  "name": {
+    "english": "Staraptor",
+    "japanese": "ムクホーク",
+    "chinese": "姆克鹰",
+    "french": "Étouraptor"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 70,
+    "special_attack": 50,
+    "special_defense": 60,
+    "speed": 100
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 210,
+  "name": {
+    "english": "Granbull",
+    "japanese": "グランブル",
+    "chinese": "布鲁皇",
+    "french": "Granbull"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 75,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 45
+  }
+}

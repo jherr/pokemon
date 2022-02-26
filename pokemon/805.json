@@ -1,0 +1,21 @@
+{
+  "id": 805,
+  "name": {
+    "english": "Stakataka",
+    "japanese": "ツンデツンデ",
+    "chinese": "垒磊石",
+    "french": "Pierroteknik"
+  },
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "base": {
+    "hp": 61,
+    "attack": 131,
+    "defense": 211,
+    "special_attack": 53,
+    "special_defense": 101,
+    "speed": 13
+  }
+}

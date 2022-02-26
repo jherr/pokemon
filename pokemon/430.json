@@ -1,0 +1,21 @@
+{
+  "id": 430,
+  "name": {
+    "english": "Honchkrow",
+    "japanese": "ドンカラス",
+    "chinese": "乌鸦头头",
+    "french": "Corboss"
+  },
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 125,
+    "defense": 52,
+    "special_attack": 105,
+    "special_defense": 52,
+    "speed": 71
+  }
+}

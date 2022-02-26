@@ -1,0 +1,21 @@
+{
+  "id": 83,
+  "name": {
+    "english": "Farfetch'd",
+    "japanese": "カモネギ",
+    "chinese": "大葱鸭",
+    "french": "Canarticho"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "special_attack": 58,
+    "special_defense": 62,
+    "speed": 60
+  }
+}

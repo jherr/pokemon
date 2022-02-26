@@ -1,0 +1,21 @@
+{
+  "id": 277,
+  "name": {
+    "english": "Swellow",
+    "japanese": "オオスバメ",
+    "chinese": "大王燕",
+    "french": "Hélédelle"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 60,
+    "special_attack": 75,
+    "special_defense": 50,
+    "speed": 125
+  }
+}

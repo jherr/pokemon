@@ -1,0 +1,20 @@
+{
+  "id": 107,
+  "name": {
+    "english": "Hitmonchan",
+    "japanese": "エビワラー",
+    "chinese": "快拳郎",
+    "french": "Tygnon"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 76
+  }
+}

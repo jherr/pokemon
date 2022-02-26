@@ -1,0 +1,21 @@
+{
+  "id": 413,
+  "name": {
+    "english": "Wormadam",
+    "japanese": "ミノマダム",
+    "chinese": "结草贵妇",
+    "french": "Cheniselle"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 59,
+    "defense": 85,
+    "special_attack": 79,
+    "special_defense": 105,
+    "speed": 36
+  }
+}

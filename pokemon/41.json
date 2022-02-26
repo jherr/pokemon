@@ -1,0 +1,21 @@
+{
+  "id": 41,
+  "name": {
+    "english": "Zubat",
+    "japanese": "ズバット",
+    "chinese": "超音蝠",
+    "french": "Nosferapti"
+  },
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "special_attack": 30,
+    "special_defense": 40,
+    "speed": 55
+  }
+}

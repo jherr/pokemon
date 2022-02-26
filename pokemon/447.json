@@ -1,0 +1,20 @@
+{
+  "id": 447,
+  "name": {
+    "english": "Riolu",
+    "japanese": "リオル",
+    "chinese": "利欧路",
+    "french": "Riolu"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 40,
+    "special_attack": 35,
+    "special_defense": 40,
+    "speed": 60
+  }
+}

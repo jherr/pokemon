@@ -1,0 +1,20 @@
+{
+  "id": 51,
+  "name": {
+    "english": "Dugtrio",
+    "japanese": "ダグトリオ",
+    "chinese": "三地鼠",
+    "french": "Triopikeur"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 100,
+    "defense": 50,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 120
+  }
+}

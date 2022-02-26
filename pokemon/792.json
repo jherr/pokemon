@@ -1,0 +1,21 @@
+{
+  "id": 792,
+  "name": {
+    "english": "Lunala",
+    "japanese": "ルナアーラ",
+    "chinese": "露奈雅拉",
+    "french": "Zéroïd"
+  },
+  "type": [
+    "Psychic",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 137,
+    "attack": 113,
+    "defense": 89,
+    "special_attack": 137,
+    "special_defense": 107,
+    "speed": 97
+  }
+}

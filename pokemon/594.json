@@ -1,0 +1,20 @@
+{
+  "id": 594,
+  "name": {
+    "english": "Alomomola",
+    "japanese": "ママンボウ",
+    "chinese": "保姆曼波",
+    "french": "Mamanbo"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 165,
+    "attack": 75,
+    "defense": 80,
+    "special_attack": 40,
+    "special_defense": 45,
+    "speed": 65
+  }
+}

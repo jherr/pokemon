@@ -1,0 +1,21 @@
+{
+  "id": 91,
+  "name": {
+    "english": "Cloyster",
+    "japanese": "パルシェン",
+    "chinese": "刺甲贝",
+    "french": "Crustabri"
+  },
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "special_attack": 85,
+    "special_defense": 45,
+    "speed": 70
+  }
+}

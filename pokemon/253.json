@@ -1,0 +1,20 @@
+{
+  "id": 253,
+  "name": {
+    "english": "Grovyle",
+    "japanese": "ジュプトル",
+    "chinese": "森林蜥蜴",
+    "french": "Massko"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 45,
+    "special_attack": 85,
+    "special_defense": 65,
+    "speed": 95
+  }
+}

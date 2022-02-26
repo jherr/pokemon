@@ -1,0 +1,21 @@
+{
+  "id": 741,
+  "name": {
+    "english": "Oricorio",
+    "japanese": "オドリドリ",
+    "chinese": "花舞鸟",
+    "french": "Plumeline"
+  },
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 70,
+    "special_attack": 98,
+    "special_defense": 70,
+    "speed": 93
+  }
+}

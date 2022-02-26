@@ -1,0 +1,21 @@
+{
+  "id": 557,
+  "name": {
+    "english": "Dwebble",
+    "japanese": "イシズマイ",
+    "chinese": "石居蟹",
+    "french": "Crabicoque"
+  },
+  "type": [
+    "Bug",
+    "Rock"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 85,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 55
+  }
+}

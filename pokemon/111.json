@@ -1,0 +1,21 @@
+{
+  "id": 111,
+  "name": {
+    "english": "Rhyhorn",
+    "japanese": "サイホーン",
+    "chinese": "独角犀牛",
+    "french": "Rhinocorne"
+  },
+  "type": [
+    "Ground",
+    "Rock"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 25
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 658,
+  "name": {
+    "english": "Greninja",
+    "japanese": "ゲッコウガ",
+    "chinese": "甲贺忍蛙",
+    "french": "Amphinobi"
+  },
+  "type": [
+    "Water",
+    "Dark"
+  ],
+  "base": {
+    "hp": 72,
+    "attack": 95,
+    "defense": 67,
+    "special_attack": 103,
+    "special_defense": 71,
+    "speed": 122
+  }
+}

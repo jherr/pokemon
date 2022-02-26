@@ -1,0 +1,21 @@
+{
+  "id": 332,
+  "name": {
+    "english": "Cacturne",
+    "japanese": "ノクタス",
+    "chinese": "梦歌仙人掌",
+    "french": "Cacturne"
+  },
+  "type": [
+    "Grass",
+    "Dark"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 115,
+    "defense": 60,
+    "special_attack": 115,
+    "special_defense": 60,
+    "speed": 55
+  }
+}

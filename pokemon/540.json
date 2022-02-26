@@ -1,0 +1,21 @@
+{
+  "id": 540,
+  "name": {
+    "english": "Sewaddle",
+    "japanese": "クルミル",
+    "chinese": "虫宝包",
+    "french": "Larveyette"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 53,
+    "defense": 70,
+    "special_attack": 40,
+    "special_defense": 60,
+    "speed": 42
+  }
+}

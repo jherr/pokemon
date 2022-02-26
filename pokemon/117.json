@@ -1,0 +1,20 @@
+{
+  "id": 117,
+  "name": {
+    "english": "Seadra",
+    "japanese": "シードラ",
+    "chinese": "海刺龙",
+    "french": "Hypocéan"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "special_attack": 95,
+    "special_defense": 45,
+    "speed": 85
+  }
+}

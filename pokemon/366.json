@@ -1,0 +1,20 @@
+{
+  "id": 366,
+  "name": {
+    "english": "Clamperl",
+    "japanese": "パールル",
+    "chinese": "珍珠贝",
+    "french": "Coquiperl"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 64,
+    "defense": 85,
+    "special_attack": 74,
+    "special_defense": 55,
+    "speed": 32
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 723,
+  "name": {
+    "english": "Dartrix",
+    "japanese": "フクスロー",
+    "chinese": "投羽枭",
+    "french": "Efflèche"
+  },
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 52
+  }
+}

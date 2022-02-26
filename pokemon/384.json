@@ -1,0 +1,21 @@
+{
+  "id": 384,
+  "name": {
+    "english": "Rayquaza",
+    "japanese": "レックウザ",
+    "chinese": "烈空坐",
+    "french": "Rayquaza"
+  },
+  "type": [
+    "Dragon",
+    "Flying"
+  ],
+  "base": {
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "special_attack": 150,
+    "special_defense": 90,
+    "speed": 95
+  }
+}

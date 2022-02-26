@@ -1,0 +1,20 @@
+{
+  "id": 217,
+  "name": {
+    "english": "Ursaring",
+    "japanese": "リングマ",
+    "chinese": "圈圈熊",
+    "french": "Ursaring"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 75,
+    "special_attack": 75,
+    "special_defense": 75,
+    "speed": 55
+  }
+}

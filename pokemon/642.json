@@ -1,0 +1,21 @@
+{
+  "id": 642,
+  "name": {
+    "english": "Thundurus",
+    "japanese": "ボルトロス",
+    "chinese": "雷电云",
+    "french": "Fulguris"
+  },
+  "type": [
+    "Electric",
+    "Flying"
+  ],
+  "base": {
+    "hp": 79,
+    "attack": 115,
+    "defense": 70,
+    "special_attack": 125,
+    "special_defense": 80,
+    "speed": 111
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 342,
+  "name": {
+    "english": "Crawdaunt",
+    "japanese": "シザリガー",
+    "chinese": "铁螯龙虾",
+    "french": "Colhomard"
+  },
+  "type": [
+    "Water",
+    "Dark"
+  ],
+  "base": {
+    "hp": 63,
+    "attack": 120,
+    "defense": 85,
+    "special_attack": 90,
+    "special_defense": 55,
+    "speed": 55
+  }
+}

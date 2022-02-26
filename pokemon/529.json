@@ -1,0 +1,20 @@
+{
+  "id": 529,
+  "name": {
+    "english": "Drilbur",
+    "japanese": "モグリュー",
+    "chinese": "螺钉地鼠",
+    "french": "Rototaupe"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 40,
+    "special_attack": 30,
+    "special_defense": 45,
+    "speed": 68
+  }
+}

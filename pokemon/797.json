@@ -1,0 +1,21 @@
+{
+  "id": 797,
+  "name": {
+    "english": "Celesteela",
+    "japanese": "テッカグヤ",
+    "chinese": "铁火辉夜",
+    "french": "Katagami"
+  },
+  "type": [
+    "Steel",
+    "Flying"
+  ],
+  "base": {
+    "hp": 97,
+    "attack": 101,
+    "defense": 103,
+    "special_attack": 107,
+    "special_defense": 101,
+    "speed": 61
+  }
+}

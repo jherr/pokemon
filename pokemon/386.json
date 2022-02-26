@@ -1,0 +1,20 @@
+{
+  "id": 386,
+  "name": {
+    "english": "Deoxys",
+    "japanese": "デオキシス",
+    "chinese": "代欧奇希斯",
+    "french": "Deoxys"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "special_attack": 150,
+    "special_defense": 50,
+    "speed": 150
+  }
+}

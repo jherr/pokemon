@@ -1,0 +1,21 @@
+{
+  "id": 276,
+  "name": {
+    "english": "Taillow",
+    "japanese": "スバメ",
+    "chinese": "傲骨燕",
+    "french": "Nirondelle"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 85
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 422,
+  "name": {
+    "english": "Shellos",
+    "japanese": "カラナクシ",
+    "chinese": "无壳海兔",
+    "french": "Sancoki"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 76,
+    "attack": 48,
+    "defense": 48,
+    "special_attack": 57,
+    "special_defense": 62,
+    "speed": 34
+  }
+}

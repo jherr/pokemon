@@ -1,0 +1,21 @@
+{
+  "id": 459,
+  "name": {
+    "english": "Snover",
+    "japanese": "ユキカブリ",
+    "chinese": "雪笠怪",
+    "french": "Blizzi"
+  },
+  "type": [
+    "Grass",
+    "Ice"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 50,
+    "special_attack": 62,
+    "special_defense": 60,
+    "speed": 40
+  }
+}

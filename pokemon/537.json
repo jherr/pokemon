@@ -1,0 +1,21 @@
+{
+  "id": 537,
+  "name": {
+    "english": "Seismitoad",
+    "japanese": "ガマゲロゲ",
+    "chinese": "蟾蜍王",
+    "french": "Crapustule"
+  },
+  "type": [
+    "Water",
+    "Ground"
+  ],
+  "base": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 75,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 74
+  }
+}

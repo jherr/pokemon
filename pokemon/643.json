@@ -1,0 +1,21 @@
+{
+  "id": 643,
+  "name": {
+    "english": "Reshiram",
+    "japanese": "レシラム",
+    "chinese": "莱希拉姆",
+    "french": "Reshiram"
+  },
+  "type": [
+    "Dragon",
+    "Fire"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 100,
+    "special_attack": 150,
+    "special_defense": 120,
+    "speed": 90
+  }
+}

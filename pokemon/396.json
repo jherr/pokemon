@@ -1,0 +1,21 @@
+{
+  "id": 396,
+  "name": {
+    "english": "Starly",
+    "japanese": "ムックル",
+    "chinese": "姆克儿",
+    "french": "Étourmi"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 60
+  }
+}

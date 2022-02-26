@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "name": {
+    "english": "Caterpie",
+    "japanese": "キャタピー",
+    "chinese": "绿毛虫",
+    "french": "Chenipan"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "special_attack": 20,
+    "special_defense": 20,
+    "speed": 45
+  }
+}

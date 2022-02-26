@@ -1,0 +1,20 @@
+{
+  "id": 321,
+  "name": {
+    "english": "Wailord",
+    "japanese": "ホエルオー",
+    "chinese": "吼鲸王",
+    "french": "Wailord"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 170,
+    "attack": 90,
+    "defense": 45,
+    "special_attack": 90,
+    "special_defense": 45,
+    "speed": 60
+  }
+}

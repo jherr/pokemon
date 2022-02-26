@@ -1,0 +1,20 @@
+{
+  "id": 657,
+  "name": {
+    "english": "Frogadier",
+    "japanese": "ゲコガシラ",
+    "chinese": "呱头蛙",
+    "french": "Croâporal"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 54,
+    "attack": 63,
+    "defense": 52,
+    "special_attack": 83,
+    "special_defense": 56,
+    "speed": 97
+  }
+}

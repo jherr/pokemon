@@ -1,0 +1,21 @@
+{
+  "id": 751,
+  "name": {
+    "english": "Dewpider",
+    "japanese": "シズクモ",
+    "chinese": "滴蛛",
+    "french": "Araqua"
+  },
+  "type": [
+    "Water",
+    "Bug"
+  ],
+  "base": {
+    "hp": 38,
+    "attack": 40,
+    "defense": 52,
+    "special_attack": 40,
+    "special_defense": 72,
+    "speed": 27
+  }
+}

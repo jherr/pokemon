@@ -1,0 +1,21 @@
+{
+  "id": 795,
+  "name": {
+    "english": "Pheromosa",
+    "japanese": "フェローチェ",
+    "chinese": "费洛美螂",
+    "french": "Câblifère"
+  },
+  "type": [
+    "Bug",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 71,
+    "attack": 137,
+    "defense": 37,
+    "special_attack": 137,
+    "special_defense": 37,
+    "speed": 151
+  }
+}

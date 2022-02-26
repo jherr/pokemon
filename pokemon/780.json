@@ -1,0 +1,21 @@
+{
+  "id": 780,
+  "name": {
+    "english": "Drampa",
+    "japanese": "ジジーロン",
+    "chinese": "老翁龙",
+    "french": "Sinistrail"
+  },
+  "type": [
+    "Normal",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 60,
+    "defense": 85,
+    "special_attack": 135,
+    "special_defense": 91,
+    "speed": 36
+  }
+}

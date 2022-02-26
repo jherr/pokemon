@@ -1,0 +1,21 @@
+{
+  "id": 464,
+  "name": {
+    "english": "Rhyperior",
+    "japanese": "ドサイドン",
+    "chinese": "超甲狂犀",
+    "french": "Rhinastoc"
+  },
+  "type": [
+    "Ground",
+    "Rock"
+  ],
+  "base": {
+    "hp": 115,
+    "attack": 140,
+    "defense": 130,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 40
+  }
+}

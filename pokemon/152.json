@@ -1,0 +1,20 @@
+{
+  "id": 152,
+  "name": {
+    "english": "Chikorita",
+    "japanese": "チコリータ",
+    "chinese": "菊草叶",
+    "french": "Germignon"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 49,
+    "defense": 65,
+    "special_attack": 49,
+    "special_defense": 65,
+    "speed": 45
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 689,
+  "name": {
+    "english": "Barbaracle",
+    "japanese": "ガメノデス",
+    "chinese": "龟足巨铠",
+    "french": "Golgopathe"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "hp": 72,
+    "attack": 105,
+    "defense": 115,
+    "special_attack": 54,
+    "special_defense": 86,
+    "speed": 68
+  }
+}

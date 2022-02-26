@@ -1,0 +1,20 @@
+{
+  "id": 158,
+  "name": {
+    "english": "Totodile",
+    "japanese": "ワニノコ",
+    "chinese": "小锯鳄",
+    "french": "Kaiminus"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 64,
+    "special_attack": 44,
+    "special_defense": 48,
+    "speed": 43
+  }
+}

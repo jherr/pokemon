@@ -1,0 +1,21 @@
+{
+  "id": 188,
+  "name": {
+    "english": "Skiploom",
+    "japanese": "ポポッコ",
+    "chinese": "毽子花",
+    "french": "Floravol"
+  },
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 45,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 80
+  }
+}

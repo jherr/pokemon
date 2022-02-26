@@ -1,0 +1,21 @@
+{
+  "id": 84,
+  "name": {
+    "english": "Doduo",
+    "japanese": "ドードー",
+    "chinese": "嘟嘟",
+    "french": "Doduo"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 75
+  }
+}

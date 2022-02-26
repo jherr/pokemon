@@ -1,0 +1,20 @@
+{
+  "id": 498,
+  "name": {
+    "english": "Tepig",
+    "japanese": "ポカブ",
+    "chinese": "暖暖猪",
+    "french": "Gruikui"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 63,
+    "defense": 45,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 45
+  }
+}

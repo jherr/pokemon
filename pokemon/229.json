@@ -1,0 +1,21 @@
+{
+  "id": 229,
+  "name": {
+    "english": "Houndoom",
+    "japanese": "ヘルガー",
+    "chinese": "黑鲁加",
+    "french": "Démolosse"
+  },
+  "type": [
+    "Dark",
+    "Fire"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 50,
+    "special_attack": 110,
+    "special_defense": 80,
+    "speed": 95
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 195,
+  "name": {
+    "english": "Quagsire",
+    "japanese": "ヌオー",
+    "chinese": "沼王",
+    "french": "Maraiste"
+  },
+  "type": [
+    "Water",
+    "Ground"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 85,
+    "defense": 85,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 35
+  }
+}

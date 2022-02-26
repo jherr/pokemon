@@ -1,0 +1,21 @@
+{
+  "id": 783,
+  "name": {
+    "english": "Hakamo-o",
+    "japanese": "ジャランゴ",
+    "chinese": "鳞甲龙",
+    "french": "Ékaïser"
+  },
+  "type": [
+    "Dragon",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 90,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 65
+  }
+}

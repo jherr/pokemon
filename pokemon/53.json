@@ -1,0 +1,20 @@
+{
+  "id": 53,
+  "name": {
+    "english": "Persian",
+    "japanese": "ペルシアン",
+    "chinese": "猫老大",
+    "french": "Persian"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 70,
+    "defense": 60,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 115
+  }
+}

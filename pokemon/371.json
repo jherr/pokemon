@@ -1,0 +1,20 @@
+{
+  "id": 371,
+  "name": {
+    "english": "Bagon",
+    "japanese": "タツベイ",
+    "chinese": "宝贝龙",
+    "french": "Draby"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 75,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 30,
+    "speed": 50
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 36,
+  "name": {
+    "english": "Clefable",
+    "japanese": "ピクシー",
+    "chinese": "皮可西",
+    "french": "Mélodelfe"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 70,
+    "defense": 73,
+    "special_attack": 95,
+    "special_defense": 90,
+    "speed": 60
+  }
+}

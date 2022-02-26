@@ -1,0 +1,21 @@
+{
+  "id": 647,
+  "name": {
+    "english": "Keldeo",
+    "japanese": "ケルディオ",
+    "chinese": "凯路迪欧",
+    "french": "Keldeo"
+  },
+  "type": [
+    "Water",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 91,
+    "attack": 72,
+    "defense": 90,
+    "special_attack": 129,
+    "special_defense": 90,
+    "speed": 108
+  }
+}

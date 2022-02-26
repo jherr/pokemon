@@ -1,0 +1,21 @@
+{
+  "id": 208,
+  "name": {
+    "english": "Steelix",
+    "japanese": "ハガネール",
+    "chinese": "大钢蛇",
+    "french": "Steelix"
+  },
+  "type": [
+    "Steel",
+    "Ground"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 30
+  }
+}

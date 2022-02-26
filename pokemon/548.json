@@ -1,0 +1,20 @@
+{
+  "id": 548,
+  "name": {
+    "english": "Petilil",
+    "japanese": "チュリネ",
+    "chinese": "百合根娃娃",
+    "french": "Chlorobule"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 50,
+    "special_attack": 70,
+    "special_defense": 50,
+    "speed": 30
+  }
+}

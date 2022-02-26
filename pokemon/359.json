@@ -1,0 +1,20 @@
+{
+  "id": 359,
+  "name": {
+    "english": "Absol",
+    "japanese": "アブソル",
+    "chinese": "阿勃梭鲁",
+    "french": "Absol"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "special_attack": 75,
+    "special_defense": 60,
+    "speed": 75
+  }
+}

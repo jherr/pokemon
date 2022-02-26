@@ -1,0 +1,21 @@
+{
+  "id": 690,
+  "name": {
+    "english": "Skrelp",
+    "japanese": "クズモー",
+    "chinese": "垃垃藻",
+    "french": "Venalgue"
+  },
+  "type": [
+    "Poison",
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 60,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 30
+  }
+}

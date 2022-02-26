@@ -1,0 +1,20 @@
+{
+  "id": 579,
+  "name": {
+    "english": "Reuniclus",
+    "japanese": "ランクルス",
+    "chinese": "人造细胞卵",
+    "french": "Symbios"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 65,
+    "defense": 75,
+    "special_attack": 125,
+    "special_defense": 85,
+    "speed": 30
+  }
+}

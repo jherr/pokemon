@@ -1,0 +1,21 @@
+{
+  "id": 585,
+  "name": {
+    "english": "Deerling",
+    "japanese": "シキジカ",
+    "chinese": "四季鹿",
+    "french": "Vivaldaim"
+  },
+  "type": [
+    "Normal",
+    "Grass"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 75
+  }
+}

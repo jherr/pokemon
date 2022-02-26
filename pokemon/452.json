@@ -1,0 +1,21 @@
+{
+  "id": 452,
+  "name": {
+    "english": "Drapion",
+    "japanese": "ドラピオン",
+    "chinese": "龙王蝎",
+    "french": "Drascore"
+  },
+  "type": [
+    "Poison",
+    "Dark"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 110,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 95
+  }
+}

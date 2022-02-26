@@ -1,0 +1,20 @@
+{
+  "id": 761,
+  "name": {
+    "english": "Bounsweet",
+    "japanese": "アマカジ",
+    "chinese": "甜竹竹",
+    "french": "Croquine"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 42,
+    "attack": 30,
+    "defense": 38,
+    "special_attack": 30,
+    "special_defense": 38,
+    "speed": 32
+  }
+}

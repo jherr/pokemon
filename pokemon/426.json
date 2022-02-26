@@ -1,0 +1,21 @@
+{
+  "id": 426,
+  "name": {
+    "english": "Drifblim",
+    "japanese": "フワライド",
+    "chinese": "随风球",
+    "french": "Grodrive"
+  },
+  "type": [
+    "Ghost",
+    "Flying"
+  ],
+  "base": {
+    "hp": 150,
+    "attack": 80,
+    "defense": 44,
+    "special_attack": 90,
+    "special_defense": 54,
+    "speed": 80
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 593,
+  "name": {
+    "english": "Jellicent",
+    "japanese": "ブルンゲル",
+    "chinese": "胖嘟嘟",
+    "french": "Moyade"
+  },
+  "type": [
+    "Water",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 105,
+    "speed": 60
+  }
+}

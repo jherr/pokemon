@@ -1,0 +1,20 @@
+{
+  "id": 99,
+  "name": {
+    "english": "Kingler",
+    "japanese": "キングラー",
+    "chinese": "巨钳蟹",
+    "french": "Krabboss"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 75
+  }
+}

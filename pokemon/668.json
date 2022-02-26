@@ -1,0 +1,21 @@
+{
+  "id": 668,
+  "name": {
+    "english": "Pyroar",
+    "japanese": "カエンジシ",
+    "chinese": "火炎狮",
+    "french": "Némélios"
+  },
+  "type": [
+    "Fire",
+    "Normal"
+  ],
+  "base": {
+    "hp": 86,
+    "attack": 68,
+    "defense": 72,
+    "special_attack": 109,
+    "special_defense": 66,
+    "speed": 106
+  }
+}

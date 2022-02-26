@@ -1,0 +1,21 @@
+{
+  "id": 500,
+  "name": {
+    "english": "Emboar",
+    "japanese": "エンブオー",
+    "chinese": "炎武王",
+    "french": "Roitiflam"
+  },
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 123,
+    "defense": 65,
+    "special_attack": 100,
+    "special_defense": 65,
+    "speed": 65
+  }
+}

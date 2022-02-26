@@ -1,0 +1,21 @@
+{
+  "id": 479,
+  "name": {
+    "english": "Rotom",
+    "japanese": "ロトム",
+    "chinese": "洛托姆",
+    "french": "Motisma"
+  },
+  "type": [
+    "Electric",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 77,
+    "special_attack": 95,
+    "special_defense": 77,
+    "speed": 91
+  }
+}

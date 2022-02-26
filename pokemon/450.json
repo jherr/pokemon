@@ -1,0 +1,20 @@
+{
+  "id": 450,
+  "name": {
+    "english": "Hippowdon",
+    "japanese": "カバルドン",
+    "chinese": "河马兽",
+    "french": "Hippodocus"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 108,
+    "attack": 112,
+    "defense": 118,
+    "special_attack": 68,
+    "special_defense": 72,
+    "speed": 47
+  }
+}

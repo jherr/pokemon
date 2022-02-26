@@ -1,0 +1,20 @@
+{
+  "id": 68,
+  "name": {
+    "english": "Machamp",
+    "japanese": "カイリキー",
+    "chinese": "怪力",
+    "french": "Mackogneur"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 85,
+    "speed": 55
+  }
+}

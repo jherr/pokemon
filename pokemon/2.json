@@ -1,0 +1,21 @@
+{
+  "id": 2,
+  "name": {
+    "english": "Ivysaur",
+    "japanese": "フシギソウ",
+    "chinese": "妙蛙草",
+    "french": "Herbizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 60
+  }
+}

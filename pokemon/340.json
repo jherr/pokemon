@@ -1,0 +1,21 @@
+{
+  "id": 340,
+  "name": {
+    "english": "Whiscash",
+    "japanese": "ナマズン",
+    "chinese": "鲶鱼王",
+    "french": "Barbicha"
+  },
+  "type": [
+    "Water",
+    "Ground"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "special_attack": 76,
+    "special_defense": 71,
+    "speed": 60
+  }
+}

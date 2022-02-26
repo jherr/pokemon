@@ -1,0 +1,21 @@
+{
+  "id": 302,
+  "name": {
+    "english": "Sableye",
+    "japanese": "ヤミラミ",
+    "chinese": "勾魂眼",
+    "french": "Ténéfix"
+  },
+  "type": [
+    "Dark",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 50
+  }
+}

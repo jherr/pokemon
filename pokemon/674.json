@@ -1,0 +1,20 @@
+{
+  "id": 674,
+  "name": {
+    "english": "Pancham",
+    "japanese": "ヤンチャム",
+    "chinese": "顽皮熊猫",
+    "french": "Pandespiègle"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 82,
+    "defense": 62,
+    "special_attack": 46,
+    "special_defense": 48,
+    "speed": 43
+  }
+}

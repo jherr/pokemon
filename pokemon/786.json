@@ -1,0 +1,21 @@
+{
+  "id": 786,
+  "name": {
+    "english": "Tapu Lele",
+    "japanese": "カプ・テテフ",
+    "chinese": "卡璞・蝶蝶",
+    "french": "Tokotoro"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 75,
+    "special_attack": 130,
+    "special_defense": 115,
+    "speed": 95
+  }
+}

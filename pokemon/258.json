@@ -1,0 +1,20 @@
+{
+  "id": 258,
+  "name": {
+    "english": "Mudkip",
+    "japanese": "ミズゴロウ",
+    "chinese": "水跃鱼",
+    "french": "Gobou"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 40
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 244,
+  "name": {
+    "english": "Entei",
+    "japanese": "エンテイ",
+    "chinese": "炎帝",
+    "french": "Entei"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 115,
+    "attack": 115,
+    "defense": 85,
+    "special_attack": 90,
+    "special_defense": 75,
+    "speed": 100
+  }
+}

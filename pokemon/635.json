@@ -1,0 +1,21 @@
+{
+  "id": 635,
+  "name": {
+    "english": "Hydreigon",
+    "japanese": "サザンドラ",
+    "chinese": "三首恶龙",
+    "french": "Trioxhydre"
+  },
+  "type": [
+    "Dark",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 92,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 125,
+    "special_defense": 90,
+    "speed": 98
+  }
+}

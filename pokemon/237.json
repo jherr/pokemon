@@ -1,0 +1,20 @@
+{
+  "id": 237,
+  "name": {
+    "english": "Hitmontop",
+    "japanese": "カポエラー",
+    "chinese": "战舞郎",
+    "french": "Kapoera"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 95,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 70
+  }
+}

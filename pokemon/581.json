@@ -1,0 +1,21 @@
+{
+  "id": 581,
+  "name": {
+    "english": "Swanna",
+    "japanese": "スワンナ",
+    "chinese": "舞天鹅",
+    "french": "Lakmécygne"
+  },
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 87,
+    "defense": 63,
+    "special_attack": 87,
+    "special_defense": 63,
+    "speed": 98
+  }
+}

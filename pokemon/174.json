@@ -1,0 +1,21 @@
+{
+  "id": 174,
+  "name": {
+    "english": "Igglybuff",
+    "japanese": "ププリン",
+    "chinese": "宝宝丁",
+    "french": "Toudoudou"
+  },
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 30,
+    "defense": 15,
+    "special_attack": 40,
+    "special_defense": 20,
+    "speed": 15
+  }
+}

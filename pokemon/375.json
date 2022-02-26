@@ -1,0 +1,21 @@
+{
+  "id": 375,
+  "name": {
+    "english": "Metang",
+    "japanese": "メタング",
+    "chinese": "金属怪",
+    "french": "Métang"
+  },
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 100,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 50
+  }
+}

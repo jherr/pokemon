@@ -1,0 +1,21 @@
+{
+  "id": 519,
+  "name": {
+    "english": "Pidove",
+    "japanese": "マメパト",
+    "chinese": "豆豆鸽",
+    "french": "Poichigeon"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 50,
+    "special_attack": 36,
+    "special_defense": 30,
+    "speed": 43
+  }
+}

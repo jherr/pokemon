@@ -1,0 +1,21 @@
+{
+  "id": 42,
+  "name": {
+    "english": "Golbat",
+    "japanese": "ゴルバット",
+    "chinese": "大嘴蝠",
+    "french": "Nosferalto"
+  },
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "special_attack": 65,
+    "special_defense": 75,
+    "speed": 90
+  }
+}

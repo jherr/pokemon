@@ -1,0 +1,20 @@
+{
+  "id": 578,
+  "name": {
+    "english": "Duosion",
+    "japanese": "ダブラン",
+    "chinese": "双卵细胞球",
+    "french": "Méios"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 125,
+    "special_defense": 60,
+    "speed": 30
+  }
+}

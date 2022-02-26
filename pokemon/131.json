@@ -1,0 +1,21 @@
+{
+  "id": 131,
+  "name": {
+    "english": "Lapras",
+    "japanese": "ラプラス",
+    "chinese": "拉普拉斯",
+    "french": "Lokhlass"
+  },
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "base": {
+    "hp": 130,
+    "attack": 85,
+    "defense": 80,
+    "special_attack": 85,
+    "special_defense": 95,
+    "speed": 60
+  }
+}

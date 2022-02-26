@@ -1,0 +1,20 @@
+{
+  "id": 474,
+  "name": {
+    "english": "Porygon-Z",
+    "japanese": "ポリゴンＺ",
+    "chinese": "多边兽Ｚ",
+    "french": "Porygon-Z"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 80,
+    "defense": 70,
+    "special_attack": 135,
+    "special_defense": 75,
+    "speed": 90
+  }
+}

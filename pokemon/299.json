@@ -1,0 +1,20 @@
+{
+  "id": 299,
+  "name": {
+    "english": "Nosepass",
+    "japanese": "ノズパス",
+    "chinese": "朝北鼻",
+    "french": "Tarinor"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 135,
+    "special_attack": 45,
+    "special_defense": 90,
+    "speed": 30
+  }
+}

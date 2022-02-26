@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "name": {
+    "english": "Sandslash",
+    "japanese": "サンドパン",
+    "chinese": "穿山王",
+    "french": "Sablaireau"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 65
+  }
+}

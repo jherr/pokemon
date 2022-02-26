@@ -1,0 +1,20 @@
+{
+  "id": 394,
+  "name": {
+    "english": "Prinplup",
+    "japanese": "ポッタイシ",
+    "chinese": "波皇子",
+    "french": "Prinplouf"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 64,
+    "attack": 66,
+    "defense": 68,
+    "special_attack": 81,
+    "special_defense": 76,
+    "speed": 50
+  }
+}

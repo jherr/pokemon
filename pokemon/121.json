@@ -1,0 +1,21 @@
+{
+  "id": 121,
+  "name": {
+    "english": "Starmie",
+    "japanese": "スターミー",
+    "chinese": "宝石海星",
+    "french": "Staross"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "special_attack": 100,
+    "special_defense": 85,
+    "speed": 115
+  }
+}

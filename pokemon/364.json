@@ -1,0 +1,21 @@
+{
+  "id": 364,
+  "name": {
+    "english": "Sealeo",
+    "japanese": "トドグラー",
+    "chinese": "海魔狮",
+    "french": "Phogleur"
+  },
+  "type": [
+    "Ice",
+    "Water"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 75,
+    "special_defense": 70,
+    "speed": 45
+  }
+}

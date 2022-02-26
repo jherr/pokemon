@@ -1,0 +1,20 @@
+{
+  "id": 126,
+  "name": {
+    "english": "Magmar",
+    "japanese": "ブーバー",
+    "chinese": "鸭嘴火兽",
+    "french": "Magmar"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "special_attack": 100,
+    "special_defense": 85,
+    "speed": 93
+  }
+}

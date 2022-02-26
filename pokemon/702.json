@@ -1,0 +1,21 @@
+{
+  "id": 702,
+  "name": {
+    "english": "Dedenne",
+    "japanese": "デデンネ",
+    "chinese": "咚咚鼠",
+    "french": "DEDENNE"
+  },
+  "type": [
+    "Electric",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 58,
+    "defense": 57,
+    "special_attack": 81,
+    "special_defense": 67,
+    "speed": 101
+  }
+}

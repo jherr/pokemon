@@ -1,0 +1,21 @@
+{
+  "id": 703,
+  "name": {
+    "english": "Carbink",
+    "japanese": "メレシー",
+    "chinese": "小碎钻",
+    "french": "Strassie"
+  },
+  "type": [
+    "Rock",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 150,
+    "special_attack": 50,
+    "special_defense": 150,
+    "speed": 50
+  }
+}

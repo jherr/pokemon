@@ -1,0 +1,20 @@
+{
+  "id": 807,
+  "name": {
+    "english": "Zeraora",
+    "japanese": "ゼラオラ",
+    "chinese": "捷拉奥拉",
+    "french": "Meltan"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 88,
+    "attack": 112,
+    "defense": 75,
+    "special_attack": 102,
+    "special_defense": 80,
+    "speed": 143
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 207,
+  "name": {
+    "english": "Gligar",
+    "japanese": "グライガー",
+    "chinese": "天蝎",
+    "french": "Scorplane"
+  },
+  "type": [
+    "Ground",
+    "Flying"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 75,
+    "defense": 105,
+    "special_attack": 35,
+    "special_defense": 65,
+    "speed": 85
+  }
+}

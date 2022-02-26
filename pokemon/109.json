@@ -1,0 +1,20 @@
+{
+  "id": 109,
+  "name": {
+    "english": "Koffing",
+    "japanese": "ドガース",
+    "chinese": "瓦斯弹",
+    "french": "Smogo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "special_attack": 60,
+    "special_defense": 45,
+    "speed": 35
+  }
+}

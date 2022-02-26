@@ -1,0 +1,21 @@
+{
+  "id": 558,
+  "name": {
+    "english": "Crustle",
+    "japanese": "イワパレス",
+    "chinese": "岩殿居蟹",
+    "french": "Crabaraque"
+  },
+  "type": [
+    "Bug",
+    "Rock"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 125,
+    "special_attack": 65,
+    "special_defense": 75,
+    "speed": 45
+  }
+}

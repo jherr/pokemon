@@ -1,0 +1,20 @@
+{
+  "id": 510,
+  "name": {
+    "english": "Liepard",
+    "japanese": "レパルダス",
+    "chinese": "酷豹",
+    "french": "Léopardus"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 64,
+    "attack": 88,
+    "defense": 50,
+    "special_attack": 88,
+    "special_defense": 50,
+    "speed": 106
+  }
+}

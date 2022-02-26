@@ -1,0 +1,20 @@
+{
+  "id": 98,
+  "name": {
+    "english": "Krabby",
+    "japanese": "クラブ",
+    "chinese": "大钳蟹",
+    "french": "Krabby"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 50
+  }
+}

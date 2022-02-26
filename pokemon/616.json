@@ -1,0 +1,20 @@
+{
+  "id": 616,
+  "name": {
+    "english": "Shelmet",
+    "japanese": "チョボマキ",
+    "chinese": "小嘴蜗",
+    "french": "Escargaume"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 40,
+    "defense": 85,
+    "special_attack": 40,
+    "special_defense": 65,
+    "speed": 25
+  }
+}

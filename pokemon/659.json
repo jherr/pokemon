@@ -1,0 +1,20 @@
+{
+  "id": 659,
+  "name": {
+    "english": "Bunnelby",
+    "japanese": "ホルビー",
+    "chinese": "掘掘兔",
+    "french": "Sapereau"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 38,
+    "attack": 36,
+    "defense": 38,
+    "special_attack": 32,
+    "special_defense": 36,
+    "speed": 57
+  }
+}

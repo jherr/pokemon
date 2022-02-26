@@ -1,0 +1,21 @@
+{
+  "id": 542,
+  "name": {
+    "english": "Leavanny",
+    "japanese": "ハハコモリ",
+    "chinese": "保姆虫",
+    "french": "Manternel"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 103,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 92
+  }
+}

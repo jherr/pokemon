@@ -1,0 +1,20 @@
+{
+  "id": 313,
+  "name": {
+    "english": "Volbeat",
+    "japanese": "バルビート",
+    "chinese": "电萤虫",
+    "french": "Muciole"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 73,
+    "defense": 75,
+    "special_attack": 47,
+    "special_defense": 85,
+    "speed": 85
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 118,
+  "name": {
+    "english": "Goldeen",
+    "japanese": "トサキント",
+    "chinese": "角金鱼",
+    "french": "Poissirène"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "special_attack": 35,
+    "special_defense": 50,
+    "speed": 63
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 543,
+  "name": {
+    "english": "Venipede",
+    "japanese": "フシデ",
+    "chinese": "百足蜈蚣",
+    "french": "Venipatte"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 59,
+    "special_attack": 30,
+    "special_defense": 39,
+    "speed": 57
+  }
+}

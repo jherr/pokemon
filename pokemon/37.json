@@ -1,0 +1,20 @@
+{
+  "id": 37,
+  "name": {
+    "english": "Vulpix",
+    "japanese": "ロコン",
+    "chinese": "六尾",
+    "french": "Goupix"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "special_attack": 50,
+    "special_defense": 65,
+    "speed": 65
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 441,
+  "name": {
+    "english": "Chatot",
+    "japanese": "ペラップ",
+    "chinese": "聒噪鸟",
+    "french": "Pijako"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 76,
+    "attack": 65,
+    "defense": 45,
+    "special_attack": 92,
+    "special_defense": 42,
+    "speed": 91
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 35,
+  "name": {
+    "english": "Clefairy",
+    "japanese": "ピッピ",
+    "chinese": "皮皮",
+    "french": "Mélofée"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 45,
+    "defense": 48,
+    "special_attack": 60,
+    "special_defense": 65,
+    "speed": 35
+  }
+}

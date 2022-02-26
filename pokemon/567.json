@@ -1,0 +1,21 @@
+{
+  "id": 567,
+  "name": {
+    "english": "Archeops",
+    "japanese": "アーケオス",
+    "chinese": "始祖大鸟",
+    "french": "Aéroptéryx"
+  },
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 140,
+    "defense": 65,
+    "special_attack": 112,
+    "special_defense": 65,
+    "speed": 110
+  }
+}

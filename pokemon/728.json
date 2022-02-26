@@ -1,0 +1,20 @@
+{
+  "id": 728,
+  "name": {
+    "english": "Popplio",
+    "japanese": "アシマリ",
+    "chinese": "球球海狮",
+    "french": "Otaquin"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 54,
+    "defense": 54,
+    "special_attack": 66,
+    "special_defense": 56,
+    "speed": 40
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 273,
+  "name": {
+    "english": "Seedot",
+    "japanese": "タネボー",
+    "chinese": "橡实果",
+    "french": "Grainipiot"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 30
+  }
+}

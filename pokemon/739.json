@@ -1,0 +1,20 @@
+{
+  "id": 739,
+  "name": {
+    "english": "Crabrawler",
+    "japanese": "マケンカニ",
+    "chinese": "好胜蟹",
+    "french": "Crabagarre"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 47,
+    "attack": 82,
+    "defense": 57,
+    "special_attack": 42,
+    "special_defense": 47,
+    "speed": 63
+  }
+}

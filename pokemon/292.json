@@ -1,0 +1,21 @@
+{
+  "id": 292,
+  "name": {
+    "english": "Shedinja",
+    "japanese": "ヌケニン",
+    "chinese": "脱壳忍者",
+    "french": "Munja"
+  },
+  "type": [
+    "Bug",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 1,
+    "attack": 90,
+    "defense": 45,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 40
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 337,
+  "name": {
+    "english": "Lunatone",
+    "japanese": "ルナトーン",
+    "chinese": "月石",
+    "french": "Séléroc"
+  },
+  "type": [
+    "Rock",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 55,
+    "defense": 65,
+    "special_attack": 95,
+    "special_defense": 85,
+    "speed": 70
+  }
+}

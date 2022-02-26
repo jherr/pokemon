@@ -1,0 +1,20 @@
+{
+  "id": 420,
+  "name": {
+    "english": "Cherubi",
+    "japanese": "チェリンボ",
+    "chinese": "樱花宝",
+    "french": "Ceribou"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 45,
+    "special_attack": 62,
+    "special_defense": 53,
+    "speed": 35
+  }
+}

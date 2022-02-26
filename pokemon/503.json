@@ -1,0 +1,20 @@
+{
+  "id": 503,
+  "name": {
+    "english": "Samurott",
+    "japanese": "ダイケンキ",
+    "chinese": "大剑鬼",
+    "french": "Clamiral"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 85,
+    "special_attack": 108,
+    "special_defense": 70,
+    "speed": 70
+  }
+}

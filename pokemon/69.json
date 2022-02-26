@@ -1,0 +1,21 @@
+{
+  "id": 69,
+  "name": {
+    "english": "Bellsprout",
+    "japanese": "マダツボミ",
+    "chinese": "喇叭芽",
+    "french": "Chétiflor"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "special_attack": 70,
+    "special_defense": 30,
+    "speed": 40
+  }
+}

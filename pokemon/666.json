@@ -1,0 +1,21 @@
+{
+  "id": 666,
+  "name": {
+    "english": "Vivillon",
+    "japanese": "ビビヨン",
+    "chinese": "彩粉蝶",
+    "french": "Prismillon"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 52,
+    "defense": 50,
+    "special_attack": 90,
+    "special_defense": 50,
+    "speed": 89
+  }
+}

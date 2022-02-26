@@ -1,0 +1,21 @@
+{
+  "id": 597,
+  "name": {
+    "english": "Ferroseed",
+    "japanese": "テッシード",
+    "chinese": "种子铁球",
+    "french": "Grindur"
+  },
+  "type": [
+    "Grass",
+    "Steel"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 50,
+    "defense": 91,
+    "special_attack": 24,
+    "special_defense": 86,
+    "speed": 10
+  }
+}

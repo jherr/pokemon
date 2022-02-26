@@ -1,0 +1,21 @@
+{
+  "id": 348,
+  "name": {
+    "english": "Armaldo",
+    "japanese": "アーマルド",
+    "chinese": "太古盔甲",
+    "french": "Armaldo"
+  },
+  "type": [
+    "Rock",
+    "Bug"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 45
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 495,
+  "name": {
+    "english": "Snivy",
+    "japanese": "ツタージャ",
+    "chinese": "藤藤蛇",
+    "french": "Vipélierre"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 45,
+    "defense": 55,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 63
+  }
+}

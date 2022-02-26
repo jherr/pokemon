@@ -1,0 +1,20 @@
+{
+  "id": 509,
+  "name": {
+    "english": "Purrloin",
+    "japanese": "チョロネコ",
+    "chinese": "扒手猫",
+    "french": "Chacripan"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 41,
+    "attack": 50,
+    "defense": 37,
+    "special_attack": 50,
+    "special_defense": 37,
+    "speed": 66
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 199,
+  "name": {
+    "english": "Slowking",
+    "japanese": "ヤドキング",
+    "chinese": "呆呆王",
+    "french": "Roigada"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 80,
+    "special_attack": 100,
+    "special_defense": 110,
+    "speed": 30
+  }
+}

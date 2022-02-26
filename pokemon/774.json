@@ -1,0 +1,21 @@
+{
+  "id": 774,
+  "name": {
+    "english": "Minior",
+    "japanese": "メテノ",
+    "chinese": "小陨星",
+    "french": "Dodoala"
+  },
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 100,
+    "special_attack": 60,
+    "special_defense": 100,
+    "speed": 60
+  }
+}

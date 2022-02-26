@@ -1,0 +1,21 @@
+{
+  "id": 697,
+  "name": {
+    "english": "Tyrantrum",
+    "japanese": "ガチゴラス",
+    "chinese": "怪颚龙",
+    "french": "Rexillius"
+  },
+  "type": [
+    "Rock",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 82,
+    "attack": 121,
+    "defense": 119,
+    "special_attack": 69,
+    "special_defense": 59,
+    "speed": 71
+  }
+}

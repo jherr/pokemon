@@ -1,0 +1,20 @@
+{
+  "id": 446,
+  "name": {
+    "english": "Munchlax",
+    "japanese": "ゴンベ",
+    "chinese": "小卡比兽",
+    "french": "Goinfrex"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 135,
+    "attack": 85,
+    "defense": 40,
+    "special_attack": 40,
+    "special_defense": 85,
+    "speed": 5
+  }
+}

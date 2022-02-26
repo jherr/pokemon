@@ -1,0 +1,21 @@
+{
+  "id": 322,
+  "name": {
+    "english": "Numel",
+    "japanese": "ドンメル",
+    "chinese": "呆火驼",
+    "french": "Chamallot"
+  },
+  "type": [
+    "Fire",
+    "Ground"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 40,
+    "special_attack": 65,
+    "special_defense": 45,
+    "speed": 35
+  }
+}

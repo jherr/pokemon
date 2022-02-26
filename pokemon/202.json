@@ -1,0 +1,20 @@
+{
+  "id": 202,
+  "name": {
+    "english": "Wobbuffet",
+    "japanese": "ソーナンス",
+    "chinese": "果然翁",
+    "french": "Qulbutoké"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 190,
+    "attack": 33,
+    "defense": 58,
+    "special_attack": 33,
+    "special_defense": 58,
+    "speed": 33
+  }
+}

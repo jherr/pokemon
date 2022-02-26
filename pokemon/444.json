@@ -1,0 +1,21 @@
+{
+  "id": 444,
+  "name": {
+    "english": "Gabite",
+    "japanese": "ガバイト",
+    "chinese": "尖牙陆鲨",
+    "french": "Carmache"
+  },
+  "type": [
+    "Dragon",
+    "Ground"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 90,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 55,
+    "speed": 82
+  }
+}

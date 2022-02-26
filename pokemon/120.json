@@ -1,0 +1,20 @@
+{
+  "id": 120,
+  "name": {
+    "english": "Staryu",
+    "japanese": "ヒトデマン",
+    "chinese": "海星星",
+    "french": "Stari"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "special_attack": 70,
+    "special_defense": 55,
+    "speed": 85
+  }
+}

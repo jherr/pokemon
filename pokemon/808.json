@@ -1,0 +1,20 @@
+{
+  "id": 808,
+  "name": {
+    "english": "Meltan",
+    "japanese": "メルタン",
+    "chinese": "美录坦",
+    "french": "Melmetal"
+  },
+  "type": [
+    "Steel"
+  ],
+  "base": {
+    "hp": 46,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 55,
+    "special_defense": 35,
+    "speed": 34
+  }
+}

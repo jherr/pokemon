@@ -1,0 +1,21 @@
+{
+  "id": 566,
+  "name": {
+    "english": "Archen",
+    "japanese": "アーケン",
+    "chinese": "始祖小鸟",
+    "french": "Arkéapti"
+  },
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 112,
+    "defense": 45,
+    "special_attack": 74,
+    "special_defense": 45,
+    "speed": 70
+  }
+}

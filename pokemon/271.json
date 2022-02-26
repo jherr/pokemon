@@ -1,0 +1,21 @@
+{
+  "id": 271,
+  "name": {
+    "english": "Lombre",
+    "japanese": "ハスブレロ",
+    "chinese": "莲帽小童",
+    "french": "Lombre"
+  },
+  "type": [
+    "Water",
+    "Grass"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 50
+  }
+}

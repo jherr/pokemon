@@ -1,0 +1,21 @@
+{
+  "id": 628,
+  "name": {
+    "english": "Braviary",
+    "japanese": "ウォーグル",
+    "chinese": "勇士雄鹰",
+    "french": "Gueriaigle"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 123,
+    "defense": 75,
+    "special_attack": 57,
+    "special_defense": 75,
+    "speed": 80
+  }
+}

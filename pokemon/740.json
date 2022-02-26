@@ -1,0 +1,21 @@
+{
+  "id": 740,
+  "name": {
+    "english": "Crabominable",
+    "japanese": "ケケンカニ",
+    "chinese": "好胜毛蟹",
+    "french": "Crabominable"
+  },
+  "type": [
+    "Fighting",
+    "Ice"
+  ],
+  "base": {
+    "hp": 97,
+    "attack": 132,
+    "defense": 77,
+    "special_attack": 62,
+    "special_defense": 67,
+    "speed": 43
+  }
+}

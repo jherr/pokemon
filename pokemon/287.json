@@ -1,0 +1,20 @@
+{
+  "id": 287,
+  "name": {
+    "english": "Slakoth",
+    "japanese": "ナマケロ",
+    "chinese": "懒人獭",
+    "french": "Parecool"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 30
+  }
+}

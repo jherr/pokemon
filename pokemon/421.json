@@ -1,0 +1,20 @@
+{
+  "id": 421,
+  "name": {
+    "english": "Cherrim",
+    "japanese": "チェリム",
+    "chinese": "樱花儿",
+    "french": "Ceriflor"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 87,
+    "special_defense": 78,
+    "speed": 85
+  }
+}

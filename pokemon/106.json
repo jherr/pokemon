@@ -1,0 +1,20 @@
+{
+  "id": 106,
+  "name": {
+    "english": "Hitmonlee",
+    "japanese": "サワムラー",
+    "chinese": "飞腿郎",
+    "french": "Kicklee"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "special_attack": 35,
+    "special_defense": 110,
+    "speed": 87
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 388,
+  "name": {
+    "english": "Grotle",
+    "japanese": "ハヤシガメ",
+    "chinese": "树林龟",
+    "french": "Boskara"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 36
+  }
+}

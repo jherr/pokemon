@@ -1,0 +1,21 @@
+{
+  "id": 82,
+  "name": {
+    "english": "Magneton",
+    "japanese": "レアコイル",
+    "chinese": "三合一磁怪",
+    "french": "Magnéton"
+  },
+  "type": [
+    "Electric",
+    "Steel"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "special_attack": 120,
+    "special_defense": 70,
+    "speed": 70
+  }
+}

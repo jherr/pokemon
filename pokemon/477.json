@@ -1,0 +1,20 @@
+{
+  "id": 477,
+  "name": {
+    "english": "Dusknoir",
+    "japanese": "ヨノワール",
+    "chinese": "黑夜魔灵",
+    "french": "Noctunoir"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 135,
+    "special_attack": 65,
+    "special_defense": 135,
+    "speed": 45
+  }
+}

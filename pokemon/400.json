@@ -1,0 +1,21 @@
+{
+  "id": 400,
+  "name": {
+    "english": "Bibarel",
+    "japanese": "ビーダル",
+    "chinese": "大尾狸",
+    "french": "Castorno"
+  },
+  "type": [
+    "Normal",
+    "Water"
+  ],
+  "base": {
+    "hp": 79,
+    "attack": 85,
+    "defense": 60,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 71
+  }
+}

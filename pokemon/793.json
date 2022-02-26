@@ -1,0 +1,21 @@
+{
+  "id": 793,
+  "name": {
+    "english": "Nihilego",
+    "japanese": "ウツロイド",
+    "chinese": "虚吾伊德",
+    "french": "Mouscoto"
+  },
+  "type": [
+    "Rock",
+    "Poison"
+  ],
+  "base": {
+    "hp": 109,
+    "attack": 53,
+    "defense": 47,
+    "special_attack": 127,
+    "special_defense": 131,
+    "speed": 103
+  }
+}

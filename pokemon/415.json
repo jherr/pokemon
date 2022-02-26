@@ -1,0 +1,21 @@
+{
+  "id": 415,
+  "name": {
+    "english": "Combee",
+    "japanese": "ミツハニー",
+    "chinese": "三蜜蜂",
+    "french": "Apitrini"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 42,
+    "special_attack": 30,
+    "special_defense": 42,
+    "speed": 70
+  }
+}

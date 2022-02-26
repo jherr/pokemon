@@ -1,0 +1,21 @@
+{
+  "id": 742,
+  "name": {
+    "english": "Cutiefly",
+    "japanese": "アブリー",
+    "chinese": "萌虻",
+    "french": "Bombydou"
+  },
+  "type": [
+    "Bug",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 55,
+    "special_defense": 40,
+    "speed": 84
+  }
+}

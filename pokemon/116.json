@@ -1,0 +1,20 @@
+{
+  "id": 116,
+  "name": {
+    "english": "Horsea",
+    "japanese": "タッツー",
+    "chinese": "墨海马",
+    "french": "Hypotrempe"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 25,
+    "speed": 60
+  }
+}

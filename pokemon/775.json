@@ -1,0 +1,20 @@
+{
+  "id": 775,
+  "name": {
+    "english": "Komala",
+    "japanese": "ネッコアラ",
+    "chinese": "树枕尾熊",
+    "french": "Boumata"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 115,
+    "defense": 65,
+    "special_attack": 75,
+    "special_defense": 95,
+    "speed": 65
+  }
+}

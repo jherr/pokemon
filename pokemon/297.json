@@ -1,0 +1,20 @@
+{
+  "id": 297,
+  "name": {
+    "english": "Hariyama",
+    "japanese": "ハリテヤマ",
+    "chinese": "铁掌力士",
+    "french": "Hariyama"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 144,
+    "attack": 120,
+    "defense": 60,
+    "special_attack": 40,
+    "special_defense": 60,
+    "speed": 50
+  }
+}

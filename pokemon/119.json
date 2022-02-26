@@ -1,0 +1,20 @@
+{
+  "id": 119,
+  "name": {
+    "english": "Seaking",
+    "japanese": "アズマオウ",
+    "chinese": "金鱼王",
+    "french": "Poissoroy"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "special_attack": 65,
+    "special_defense": 80,
+    "speed": 68
+  }
+}

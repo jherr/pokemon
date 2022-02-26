@@ -1,0 +1,20 @@
+{
+  "id": 288,
+  "name": {
+    "english": "Vigoroth",
+    "japanese": "ヤルキモノ",
+    "chinese": "过动猿",
+    "french": "Vigoroth"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 90
+  }
+}

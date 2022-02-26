@@ -1,0 +1,21 @@
+{
+  "id": 699,
+  "name": {
+    "english": "Aurorus",
+    "japanese": "アマルルガ",
+    "chinese": "冰雪巨龙",
+    "french": "Dragmara"
+  },
+  "type": [
+    "Rock",
+    "Ice"
+  ],
+  "base": {
+    "hp": 123,
+    "attack": 77,
+    "defense": 72,
+    "special_attack": 99,
+    "special_defense": 92,
+    "speed": 58
+  }
+}

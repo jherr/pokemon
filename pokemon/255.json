@@ -1,0 +1,20 @@
+{
+  "id": 255,
+  "name": {
+    "english": "Torchic",
+    "japanese": "アチャモ",
+    "chinese": "火稚鸡",
+    "french": "Poussifeu"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 40,
+    "special_attack": 70,
+    "special_defense": 50,
+    "speed": 45
+  }
+}

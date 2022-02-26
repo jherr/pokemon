@@ -1,0 +1,20 @@
+{
+  "id": 147,
+  "name": {
+    "english": "Dratini",
+    "japanese": "ミニリュウ",
+    "chinese": "迷你龙",
+    "french": "Minidraco"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 50
+  }
+}

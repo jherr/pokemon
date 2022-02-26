@@ -1,0 +1,20 @@
+{
+  "id": 30,
+  "name": {
+    "english": "Nidorina",
+    "japanese": "ニドリーナ",
+    "chinese": "尼多娜",
+    "french": "Nidorina"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 56
+  }
+}

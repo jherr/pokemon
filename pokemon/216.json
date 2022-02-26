@@ -1,0 +1,20 @@
+{
+  "id": 216,
+  "name": {
+    "english": "Teddiursa",
+    "japanese": "ヒメグマ",
+    "chinese": "熊宝宝",
+    "french": "Teddiursa"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 40
+  }
+}

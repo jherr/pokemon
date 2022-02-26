@@ -1,0 +1,21 @@
+{
+  "id": 644,
+  "name": {
+    "english": "Zekrom",
+    "japanese": "ゼクロム",
+    "chinese": "捷克罗姆",
+    "french": "Zekrom"
+  },
+  "type": [
+    "Dragon",
+    "Electric"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 150,
+    "defense": 120,
+    "special_attack": 120,
+    "special_defense": 100,
+    "speed": 90
+  }
+}

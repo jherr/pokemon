@@ -1,0 +1,21 @@
+{
+  "id": 652,
+  "name": {
+    "english": "Chesnaught",
+    "japanese": "ブリガロン",
+    "chinese": "布里卡隆",
+    "french": "Blindépique"
+  },
+  "type": [
+    "Grass",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 88,
+    "attack": 107,
+    "defense": 122,
+    "special_attack": 74,
+    "special_defense": 75,
+    "speed": 64
+  }
+}

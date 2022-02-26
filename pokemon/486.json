@@ -1,0 +1,20 @@
+{
+  "id": 486,
+  "name": {
+    "english": "Regigigas",
+    "japanese": "レジギガス",
+    "chinese": "雷吉奇卡斯",
+    "french": "Regigigas"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 160,
+    "defense": 110,
+    "special_attack": 80,
+    "special_defense": 110,
+    "speed": 100
+  }
+}

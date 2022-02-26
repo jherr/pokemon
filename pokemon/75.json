@@ -1,0 +1,21 @@
+{
+  "id": 75,
+  "name": {
+    "english": "Graveler",
+    "japanese": "ゴローン",
+    "chinese": "隆隆石",
+    "french": "Gravalanch"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 35
+  }
+}

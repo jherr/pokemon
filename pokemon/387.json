@@ -1,0 +1,20 @@
+{
+  "id": 387,
+  "name": {
+    "english": "Turtwig",
+    "japanese": "ナエトル",
+    "chinese": "草苗龟",
+    "french": "Tortipouss"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 68,
+    "defense": 64,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 31
+  }
+}

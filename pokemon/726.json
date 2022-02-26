@@ -1,0 +1,20 @@
+{
+  "id": 726,
+  "name": {
+    "english": "Torracat",
+    "japanese": "ニャヒート",
+    "chinese": "炎热喵",
+    "french": "Matoufeu"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 50,
+    "special_attack": 80,
+    "special_defense": 50,
+    "speed": 90
+  }
+}

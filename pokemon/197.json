@@ -1,0 +1,20 @@
+{
+  "id": 197,
+  "name": {
+    "english": "Umbreon",
+    "japanese": "ブラッキー",
+    "chinese": "月亮伊布",
+    "french": "Noctali"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 65,
+    "defense": 110,
+    "special_attack": 60,
+    "special_defense": 130,
+    "speed": 65
+  }
+}

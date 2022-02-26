@@ -1,0 +1,20 @@
+{
+  "id": 670,
+  "name": {
+    "english": "Floette",
+    "japanese": "フラエッテ",
+    "chinese": "花叶蒂",
+    "french": "FLOETTE"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 54,
+    "attack": 45,
+    "defense": 47,
+    "special_attack": 75,
+    "special_defense": 98,
+    "speed": 52
+  }
+}

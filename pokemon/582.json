@@ -1,0 +1,20 @@
+{
+  "id": 582,
+  "name": {
+    "english": "Vanillite",
+    "japanese": "バニプッチ",
+    "chinese": "迷你冰",
+    "french": "Sorbébé"
+  },
+  "type": [
+    "Ice"
+  ],
+  "base": {
+    "hp": 36,
+    "attack": 50,
+    "defense": 50,
+    "special_attack": 65,
+    "special_defense": 60,
+    "speed": 44
+  }
+}

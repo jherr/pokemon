@@ -1,0 +1,20 @@
+{
+  "id": 654,
+  "name": {
+    "english": "Braixen",
+    "japanese": "テールナー",
+    "chinese": "长尾火狐",
+    "french": "Roussil"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 59,
+    "defense": 58,
+    "special_attack": 90,
+    "special_defense": 70,
+    "speed": 73
+  }
+}

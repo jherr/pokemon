@@ -1,0 +1,20 @@
+{
+  "id": 501,
+  "name": {
+    "english": "Oshawott",
+    "japanese": "ミジュマル",
+    "chinese": "水水獭",
+    "french": "Moustillon"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 45,
+    "special_attack": 63,
+    "special_defense": 45,
+    "speed": 45
+  }
+}

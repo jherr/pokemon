@@ -1,0 +1,21 @@
+{
+  "id": 407,
+  "name": {
+    "english": "Roserade",
+    "japanese": "ロズレイド",
+    "chinese": "罗丝雷朵",
+    "french": "Roserade"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 65,
+    "special_attack": 125,
+    "special_defense": 105,
+    "speed": 90
+  }
+}

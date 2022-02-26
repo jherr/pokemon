@@ -1,0 +1,20 @@
+{
+  "id": 409,
+  "name": {
+    "english": "Rampardos",
+    "japanese": "ラムパルド",
+    "chinese": "战槌龙",
+    "french": "Charkos"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 97,
+    "attack": 165,
+    "defense": 60,
+    "special_attack": 65,
+    "special_defense": 50,
+    "speed": 58
+  }
+}

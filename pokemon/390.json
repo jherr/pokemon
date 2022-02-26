@@ -1,0 +1,20 @@
+{
+  "id": 390,
+  "name": {
+    "english": "Chimchar",
+    "japanese": "ヒコザル",
+    "chinese": "小火焰猴",
+    "french": "Ouisticram"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 58,
+    "defense": 44,
+    "special_attack": 58,
+    "special_defense": 44,
+    "speed": 61
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 633,
+  "name": {
+    "english": "Deino",
+    "japanese": "モノズ",
+    "chinese": "单首龙",
+    "french": "Solochi"
+  },
+  "type": [
+    "Dark",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 52,
+    "attack": 65,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 50,
+    "speed": 38
+  }
+}

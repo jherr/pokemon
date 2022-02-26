@@ -1,0 +1,21 @@
+{
+  "id": 681,
+  "name": {
+    "english": "Aegislash",
+    "japanese": "ギルガルド",
+    "chinese": "坚盾剑怪",
+    "french": "Exagide"
+  },
+  "type": [
+    "Steel",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 150,
+    "special_attack": 50,
+    "special_defense": 150,
+    "speed": 60
+  }
+}

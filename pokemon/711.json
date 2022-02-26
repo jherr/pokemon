@@ -1,0 +1,21 @@
+{
+  "id": 711,
+  "name": {
+    "english": "Gourgeist",
+    "japanese": "パンプジン",
+    "chinese": "南瓜怪人",
+    "french": "Banshitrouye"
+  },
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 100,
+    "defense": 122,
+    "special_attack": 58,
+    "special_defense": 75,
+    "speed": 54
+  }
+}

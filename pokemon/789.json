@@ -1,0 +1,20 @@
+{
+  "id": 789,
+  "name": {
+    "english": "Cosmog",
+    "japanese": "コスモッグ",
+    "chinese": "科斯莫古",
+    "french": "Cosmovum"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 43,
+    "attack": 29,
+    "defense": 31,
+    "special_attack": 29,
+    "special_defense": 31,
+    "speed": 37
+  }
+}

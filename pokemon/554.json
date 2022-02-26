@@ -1,0 +1,20 @@
+{
+  "id": 554,
+  "name": {
+    "english": "Darumaka",
+    "japanese": "ダルマッカ",
+    "chinese": "火红不倒翁",
+    "french": "Darumarond"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 45,
+    "special_attack": 15,
+    "special_defense": 45,
+    "speed": 50
+  }
+}

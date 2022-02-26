@@ -1,0 +1,20 @@
+{
+  "id": 393,
+  "name": {
+    "english": "Piplup",
+    "japanese": "ポッチャマ",
+    "chinese": "波加曼",
+    "french": "Tiplouf"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 53,
+    "attack": 51,
+    "defense": 53,
+    "special_attack": 61,
+    "special_defense": 56,
+    "speed": 40
+  }
+}

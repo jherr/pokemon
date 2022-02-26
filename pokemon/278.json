@@ -1,0 +1,21 @@
+{
+  "id": 278,
+  "name": {
+    "english": "Wingull",
+    "japanese": "キャモメ",
+    "chinese": "长翅鸥",
+    "french": "Goélise"
+  },
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 55,
+    "special_defense": 30,
+    "speed": 85
+  }
+}

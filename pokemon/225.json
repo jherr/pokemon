@@ -1,0 +1,21 @@
+{
+  "id": 225,
+  "name": {
+    "english": "Delibird",
+    "japanese": "デリバード",
+    "chinese": "信使鸟",
+    "french": "Cadoizo"
+  },
+  "type": [
+    "Ice",
+    "Flying"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 45,
+    "special_attack": 65,
+    "special_defense": 45,
+    "speed": 75
+  }
+}

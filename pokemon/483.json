@@ -1,0 +1,21 @@
+{
+  "id": 483,
+  "name": {
+    "english": "Dialga",
+    "japanese": "ディアルガ",
+    "chinese": "帝牙卢卡",
+    "french": "Dialga"
+  },
+  "type": [
+    "Steel",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 120,
+    "special_attack": 150,
+    "special_defense": 100,
+    "speed": 90
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 72,
+  "name": {
+    "english": "Tentacool",
+    "japanese": "メノクラゲ",
+    "chinese": "玛瑙水母",
+    "french": "Tentacool"
+  },
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "special_attack": 50,
+    "special_defense": 100,
+    "speed": 70
+  }
+}

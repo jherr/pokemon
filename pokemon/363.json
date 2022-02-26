@@ -1,0 +1,21 @@
+{
+  "id": 363,
+  "name": {
+    "english": "Spheal",
+    "japanese": "タマザラシ",
+    "chinese": "海豹球",
+    "french": "Obalie"
+  },
+  "type": [
+    "Ice",
+    "Water"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 40,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 50,
+    "speed": 25
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 791,
+  "name": {
+    "english": "Solgaleo",
+    "japanese": "ソルガレオ",
+    "chinese": "索尔迦雷欧",
+    "french": "Lunala"
+  },
+  "type": [
+    "Psychic",
+    "Steel"
+  ],
+  "base": {
+    "hp": 137,
+    "attack": 137,
+    "defense": 107,
+    "special_attack": 113,
+    "special_defense": 89,
+    "speed": 97
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 580,
+  "name": {
+    "english": "Ducklett",
+    "japanese": "コアルヒー",
+    "chinese": "鸭宝宝",
+    "french": "Couaneton"
+  },
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "base": {
+    "hp": 62,
+    "attack": 44,
+    "defense": 50,
+    "special_attack": 44,
+    "special_defense": 50,
+    "speed": 55
+  }
+}

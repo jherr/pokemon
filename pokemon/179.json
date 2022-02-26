@@ -1,0 +1,20 @@
+{
+  "id": 179,
+  "name": {
+    "english": "Mareep",
+    "japanese": "メリープ",
+    "chinese": "咩利羊",
+    "french": "Wattouat"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 40,
+    "defense": 40,
+    "special_attack": 65,
+    "special_defense": 45,
+    "speed": 35
+  }
+}

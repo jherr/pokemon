@@ -1,0 +1,20 @@
+{
+  "id": 456,
+  "name": {
+    "english": "Finneon",
+    "japanese": "ケイコウオ",
+    "chinese": "荧光鱼",
+    "french": "Écayon"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 49,
+    "attack": 49,
+    "defense": 56,
+    "special_attack": 49,
+    "special_defense": 61,
+    "speed": 66
+  }
+}

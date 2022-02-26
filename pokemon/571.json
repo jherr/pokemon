@@ -1,0 +1,20 @@
+{
+  "id": 571,
+  "name": {
+    "english": "Zoroark",
+    "japanese": "ゾロアーク",
+    "chinese": "索罗亚克",
+    "french": "Zoroark"
+  },
+  "type": [
+    "Dark"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 105,
+    "defense": 60,
+    "special_attack": 120,
+    "special_defense": 60,
+    "speed": 105
+  }
+}

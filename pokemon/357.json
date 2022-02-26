@@ -1,0 +1,21 @@
+{
+  "id": 357,
+  "name": {
+    "english": "Tropius",
+    "japanese": "トロピウス",
+    "chinese": "热带龙",
+    "french": "Tropius"
+  },
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "base": {
+    "hp": 99,
+    "attack": 68,
+    "defense": 83,
+    "special_attack": 72,
+    "special_defense": 87,
+    "speed": 51
+  }
+}

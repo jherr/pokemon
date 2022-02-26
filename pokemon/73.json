@@ -1,0 +1,21 @@
+{
+  "id": 73,
+  "name": {
+    "english": "Tentacruel",
+    "japanese": "ドククラゲ",
+    "chinese": "毒刺水母",
+    "french": "Tentacruel"
+  },
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "special_attack": 80,
+    "special_defense": 120,
+    "speed": 100
+  }
+}

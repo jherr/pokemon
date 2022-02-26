@@ -1,0 +1,21 @@
+{
+  "id": 31,
+  "name": {
+    "english": "Nidoqueen",
+    "japanese": "ニドクイン",
+    "chinese": "尼多后",
+    "french": "Nidoqueen"
+  },
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "special_attack": 75,
+    "special_defense": 85,
+    "speed": 76
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 513,
+  "name": {
+    "english": "Pansear",
+    "japanese": "バオップ",
+    "chinese": "爆香猴",
+    "french": "Flamajou"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 48,
+    "special_attack": 53,
+    "special_defense": 48,
+    "speed": 64
+  }
+}

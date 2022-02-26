@@ -1,0 +1,21 @@
+{
+  "id": 103,
+  "name": {
+    "english": "Exeggutor",
+    "japanese": "ナッシー",
+    "chinese": "椰蛋树",
+    "french": "Noadkoko"
+  },
+  "type": [
+    "Grass",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 95,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 75,
+    "speed": 55
+  }
+}

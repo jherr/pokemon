@@ -1,0 +1,20 @@
+{
+  "id": 64,
+  "name": {
+    "english": "Kadabra",
+    "japanese": "ユンゲラー",
+    "chinese": "勇基拉",
+    "french": "Kadabra"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special_attack": 120,
+    "special_defense": 70,
+    "speed": 105
+  }
+}

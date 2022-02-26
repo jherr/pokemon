@@ -1,0 +1,21 @@
+{
+  "id": 799,
+  "name": {
+    "english": "Guzzlord",
+    "japanese": "アクジキング",
+    "chinese": "恶食大王",
+    "french": "Necrozma"
+  },
+  "type": [
+    "Dark",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 223,
+    "attack": 101,
+    "defense": 53,
+    "special_attack": 97,
+    "special_defense": 53,
+    "speed": 43
+  }
+}

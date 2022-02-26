@@ -1,0 +1,20 @@
+{
+  "id": 201,
+  "name": {
+    "english": "Unown",
+    "japanese": "アンノーン",
+    "chinese": "未知图腾",
+    "french": "Zarbi"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 48,
+    "attack": 72,
+    "defense": 48,
+    "special_attack": 72,
+    "special_defense": 48,
+    "speed": 48
+  }
+}

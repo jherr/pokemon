@@ -1,0 +1,21 @@
+{
+  "id": 469,
+  "name": {
+    "english": "Yanmega",
+    "japanese": "メガヤンマ",
+    "chinese": "远古巨蜓",
+    "french": "Yanmega"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 86,
+    "attack": 76,
+    "defense": 86,
+    "special_attack": 116,
+    "special_defense": 56,
+    "speed": 95
+  }
+}

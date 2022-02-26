@@ -1,0 +1,21 @@
+{
+  "id": 494,
+  "name": {
+    "english": "Victini",
+    "japanese": "ビクティニ",
+    "chinese": "比克提尼",
+    "french": "Victini"
+  },
+  "type": [
+    "Psychic",
+    "Fire"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100
+  }
+}

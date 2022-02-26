@@ -1,0 +1,20 @@
+{
+  "id": 354,
+  "name": {
+    "english": "Banette",
+    "japanese": "ジュペッタ",
+    "chinese": "诅咒娃娃",
+    "french": "Branette"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 64,
+    "attack": 115,
+    "defense": 65,
+    "special_attack": 83,
+    "special_defense": 63,
+    "speed": 65
+  }
+}

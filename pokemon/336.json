@@ -1,0 +1,20 @@
+{
+  "id": 336,
+  "name": {
+    "english": "Seviper",
+    "japanese": "ハブネーク",
+    "chinese": "饭匙蛇",
+    "french": "Séviper"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 73,
+    "attack": 100,
+    "defense": 60,
+    "special_attack": 100,
+    "special_defense": 60,
+    "speed": 65
+  }
+}

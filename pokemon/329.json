@@ -1,0 +1,21 @@
+{
+  "id": 329,
+  "name": {
+    "english": "Vibrava",
+    "japanese": "ビブラーバ",
+    "chinese": "超音波幼虫",
+    "french": "Vibraninf"
+  },
+  "type": [
+    "Ground",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 70,
+    "defense": 50,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 70
+  }
+}

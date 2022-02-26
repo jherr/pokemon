@@ -1,0 +1,21 @@
+{
+  "id": 624,
+  "name": {
+    "english": "Pawniard",
+    "japanese": "コマタナ",
+    "chinese": "驹刀小兵",
+    "french": "Scalpion"
+  },
+  "type": [
+    "Dark",
+    "Steel"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 60
+  }
+}

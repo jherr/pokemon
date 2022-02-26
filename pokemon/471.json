@@ -1,0 +1,20 @@
+{
+  "id": 471,
+  "name": {
+    "english": "Glaceon",
+    "japanese": "グレイシア",
+    "chinese": "冰伊布",
+    "french": "Givrali"
+  },
+  "type": [
+    "Ice"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 110,
+    "special_attack": 130,
+    "special_defense": 95,
+    "speed": 65
+  }
+}

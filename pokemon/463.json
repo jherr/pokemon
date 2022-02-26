@@ -1,0 +1,20 @@
+{
+  "id": 463,
+  "name": {
+    "english": "Lickilicky",
+    "japanese": "ベロベルト",
+    "chinese": "大舌舔",
+    "french": "Coudlangue"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 85,
+    "defense": 95,
+    "special_attack": 80,
+    "special_defense": 95,
+    "speed": 50
+  }
+}

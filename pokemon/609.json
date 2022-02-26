@@ -1,0 +1,21 @@
+{
+  "id": 609,
+  "name": {
+    "english": "Chandelure",
+    "japanese": "シャンデラ",
+    "chinese": "水晶灯火灵",
+    "french": "Lugulabre"
+  },
+  "type": [
+    "Ghost",
+    "Fire"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 90,
+    "special_attack": 145,
+    "special_defense": 90,
+    "speed": 80
+  }
+}

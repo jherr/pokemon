@@ -1,0 +1,21 @@
+{
+  "id": 170,
+  "name": {
+    "english": "Chinchou",
+    "japanese": "チョンチー",
+    "chinese": "灯笼鱼",
+    "french": "Loupio"
+  },
+  "type": [
+    "Water",
+    "Electric"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 38,
+    "defense": 38,
+    "special_attack": 56,
+    "special_defense": 56,
+    "speed": 67
+  }
+}

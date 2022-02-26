@@ -1,0 +1,21 @@
+{
+  "id": 138,
+  "name": {
+    "english": "Omanyte",
+    "japanese": "オムナイト",
+    "chinese": "菊石兽",
+    "french": "Amonita"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "special_attack": 90,
+    "special_defense": 55,
+    "speed": 35
+  }
+}

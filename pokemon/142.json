@@ -1,0 +1,21 @@
+{
+  "id": 142,
+  "name": {
+    "english": "Aerodactyl",
+    "japanese": "プテラ",
+    "chinese": "化石翼龙",
+    "french": "Ptéra"
+  },
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "special_attack": 60,
+    "special_defense": 75,
+    "speed": 130
+  }
+}

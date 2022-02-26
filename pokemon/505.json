@@ -1,0 +1,20 @@
+{
+  "id": 505,
+  "name": {
+    "english": "Watchog",
+    "japanese": "ミルホッグ",
+    "chinese": "步哨鼠",
+    "french": "Miradar"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "special_attack": 60,
+    "special_defense": 69,
+    "speed": 77
+  }
+}

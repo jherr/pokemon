@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "name": {
+    "english": "Venusaur",
+    "japanese": "フシギバナ",
+    "chinese": "妙蛙花",
+    "french": "Florizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 80
+  }
+}

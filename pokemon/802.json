@@ -1,0 +1,21 @@
+{
+  "id": 802,
+  "name": {
+    "english": "Marshadow",
+    "japanese": "マーシャドー",
+    "chinese": "玛夏多",
+    "french": "Vémini"
+  },
+  "type": [
+    "Fighting",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 125,
+    "defense": 80,
+    "special_attack": 90,
+    "special_defense": 90,
+    "speed": 125
+  }
+}

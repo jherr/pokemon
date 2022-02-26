@@ -1,0 +1,20 @@
+{
+  "id": 482,
+  "name": {
+    "english": "Azelf",
+    "japanese": "アグノム",
+    "chinese": "亚克诺姆",
+    "french": "Créfadet"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 70,
+    "special_attack": 125,
+    "special_defense": 70,
+    "speed": 115
+  }
+}

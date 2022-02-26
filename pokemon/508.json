@@ -1,0 +1,20 @@
+{
+  "id": 508,
+  "name": {
+    "english": "Stoutland",
+    "japanese": "ムーランド",
+    "chinese": "长毛狗",
+    "french": "Mastouffe"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 110,
+    "defense": 90,
+    "special_attack": 45,
+    "special_defense": 90,
+    "speed": 80
+  }
+}

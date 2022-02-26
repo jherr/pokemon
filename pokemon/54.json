@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "name": {
+    "english": "Psyduck",
+    "japanese": "コダック",
+    "chinese": "可达鸭",
+    "french": "Psykokwak"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "special_attack": 65,
+    "special_defense": 50,
+    "speed": 55
+  }
+}

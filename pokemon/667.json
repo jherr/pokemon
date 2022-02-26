@@ -1,0 +1,21 @@
+{
+  "id": 667,
+  "name": {
+    "english": "Litleo",
+    "japanese": "シシコ",
+    "chinese": "小狮狮",
+    "french": "Hélionceau"
+  },
+  "type": [
+    "Fire",
+    "Normal"
+  ],
+  "base": {
+    "hp": 62,
+    "attack": 50,
+    "defense": 58,
+    "special_attack": 73,
+    "special_defense": 54,
+    "speed": 72
+  }
+}

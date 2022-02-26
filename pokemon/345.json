@@ -1,0 +1,21 @@
+{
+  "id": 345,
+  "name": {
+    "english": "Lileep",
+    "japanese": "リリーラ",
+    "chinese": "触手百合",
+    "french": "Lilia"
+  },
+  "type": [
+    "Rock",
+    "Grass"
+  ],
+  "base": {
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "special_attack": 61,
+    "special_defense": 87,
+    "speed": 23
+  }
+}

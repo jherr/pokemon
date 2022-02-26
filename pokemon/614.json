@@ -1,0 +1,20 @@
+{
+  "id": 614,
+  "name": {
+    "english": "Beartic",
+    "japanese": "ツンベアー",
+    "chinese": "冻原熊",
+    "french": "Polagriffe"
+  },
+  "type": [
+    "Ice"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 130,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 50
+  }
+}

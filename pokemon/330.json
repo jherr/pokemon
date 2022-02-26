@@ -1,0 +1,21 @@
+{
+  "id": 330,
+  "name": {
+    "english": "Flygon",
+    "japanese": "フライゴン",
+    "chinese": "沙漠蜻蜓",
+    "french": "Libégon"
+  },
+  "type": [
+    "Ground",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 80,
+    "special_attack": 80,
+    "special_defense": 80,
+    "speed": 100
+  }
+}

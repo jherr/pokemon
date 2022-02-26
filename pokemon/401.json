@@ -1,0 +1,20 @@
+{
+  "id": 401,
+  "name": {
+    "english": "Kricketot",
+    "japanese": "コロボーシ",
+    "chinese": "圆法师",
+    "french": "Crikzik"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 37,
+    "attack": 25,
+    "defense": 41,
+    "special_attack": 25,
+    "special_defense": 41,
+    "speed": 25
+  }
+}

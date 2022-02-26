@@ -1,0 +1,21 @@
+{
+  "id": 94,
+  "name": {
+    "english": "Gengar",
+    "japanese": "ゲンガー",
+    "chinese": "耿鬼",
+    "french": "Ectoplasma"
+  },
+  "type": [
+    "Ghost",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 130,
+    "special_defense": 75,
+    "speed": 110
+  }
+}

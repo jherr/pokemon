@@ -1,0 +1,21 @@
+{
+  "id": 733,
+  "name": {
+    "english": "Toucannon",
+    "japanese": "ドデカバシ",
+    "chinese": "铳嘴大鸟",
+    "french": "Bazoucan"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 75,
+    "special_attack": 75,
+    "special_defense": 75,
+    "speed": 60
+  }
+}

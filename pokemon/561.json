@@ -1,0 +1,21 @@
+{
+  "id": 561,
+  "name": {
+    "english": "Sigilyph",
+    "japanese": "シンボラー",
+    "chinese": "象征鸟",
+    "french": "Cryptéro"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "hp": 72,
+    "attack": 58,
+    "defense": 80,
+    "special_attack": 103,
+    "special_defense": 80,
+    "speed": 97
+  }
+}

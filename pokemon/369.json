@@ -1,0 +1,21 @@
+{
+  "id": 369,
+  "name": {
+    "english": "Relicanth",
+    "japanese": "ジーランス",
+    "chinese": "古空棘鱼",
+    "french": "Relicanth"
+  },
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 130,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 55
+  }
+}

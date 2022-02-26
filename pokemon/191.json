@@ -1,0 +1,20 @@
+{
+  "id": 191,
+  "name": {
+    "english": "Sunkern",
+    "japanese": "ヒマナッツ",
+    "chinese": "向日种子",
+    "french": "Tournegrin"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 30
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 289,
+  "name": {
+    "english": "Slaking",
+    "japanese": "ケッキング",
+    "chinese": "请假王",
+    "french": "Monaflèmit"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 150,
+    "attack": 160,
+    "defense": 100,
+    "special_attack": 95,
+    "special_defense": 65,
+    "speed": 100
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 590,
+  "name": {
+    "english": "Foongus",
+    "japanese": "タマゲタケ",
+    "chinese": "哎呀球菇",
+    "french": "Trompignon"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 69,
+    "attack": 55,
+    "defense": 45,
+    "special_attack": 55,
+    "special_defense": 55,
+    "speed": 15
+  }
+}

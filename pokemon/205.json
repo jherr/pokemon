@@ -1,0 +1,21 @@
+{
+  "id": 205,
+  "name": {
+    "english": "Forretress",
+    "japanese": "フォレトス",
+    "chinese": "佛烈托斯",
+    "french": "Foretress"
+  },
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 90,
+    "defense": 140,
+    "special_attack": 60,
+    "special_defense": 60,
+    "speed": 40
+  }
+}

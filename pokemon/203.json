@@ -1,0 +1,21 @@
+{
+  "id": 203,
+  "name": {
+    "english": "Girafarig",
+    "japanese": "キリンリキ",
+    "chinese": "麒麟奇",
+    "french": "Girafarig"
+  },
+  "type": [
+    "Normal",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 65,
+    "special_attack": 90,
+    "special_defense": 65,
+    "speed": 85
+  }
+}

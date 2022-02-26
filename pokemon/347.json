@@ -1,0 +1,21 @@
+{
+  "id": 347,
+  "name": {
+    "english": "Anorith",
+    "japanese": "アノプス",
+    "chinese": "太古羽虫",
+    "french": "Anorith"
+  },
+  "type": [
+    "Rock",
+    "Bug"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 95,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 75
+  }
+}

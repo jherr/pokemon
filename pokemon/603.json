@@ -1,0 +1,20 @@
+{
+  "id": 603,
+  "name": {
+    "english": "Eelektrik",
+    "japanese": "シビビール",
+    "chinese": "麻麻鳗",
+    "french": "Lampéroie"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 75,
+    "special_defense": 70,
+    "speed": 40
+  }
+}

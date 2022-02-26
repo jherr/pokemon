@@ -1,0 +1,20 @@
+{
+  "id": 506,
+  "name": {
+    "english": "Lillipup",
+    "japanese": "ヨーテリー",
+    "chinese": "小约克",
+    "french": "Ponchiot"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 60,
+    "defense": 45,
+    "special_attack": 25,
+    "special_defense": 45,
+    "speed": 55
+  }
+}

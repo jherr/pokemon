@@ -1,0 +1,21 @@
+{
+  "id": 406,
+  "name": {
+    "english": "Budew",
+    "japanese": "スボミー",
+    "chinese": "含羞苞",
+    "french": "Rozbouton"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 35,
+    "special_attack": 50,
+    "special_defense": 70,
+    "speed": 55
+  }
+}

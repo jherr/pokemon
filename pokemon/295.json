@@ -1,0 +1,20 @@
+{
+  "id": 295,
+  "name": {
+    "english": "Exploud",
+    "japanese": "バクオング",
+    "chinese": "爆音怪",
+    "french": "Brouhabam"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 104,
+    "attack": 91,
+    "defense": 63,
+    "special_attack": 91,
+    "special_defense": 73,
+    "speed": 68
+  }
+}

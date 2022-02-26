@@ -1,0 +1,20 @@
+{
+  "id": 157,
+  "name": {
+    "english": "Typhlosion",
+    "japanese": "バクフーン",
+    "chinese": "火暴兽",
+    "french": "Typhlosion"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "special_attack": 109,
+    "special_defense": 85,
+    "speed": 100
+  }
+}

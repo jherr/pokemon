@@ -1,0 +1,21 @@
+{
+  "id": 737,
+  "name": {
+    "english": "Charjabug",
+    "japanese": "デンヂムシ",
+    "chinese": "虫电宝",
+    "french": "Chrysapile"
+  },
+  "type": [
+    "Bug",
+    "Electric"
+  ],
+  "base": {
+    "hp": 57,
+    "attack": 82,
+    "defense": 95,
+    "special_attack": 55,
+    "special_defense": 75,
+    "speed": 36
+  }
+}

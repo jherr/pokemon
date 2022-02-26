@@ -1,0 +1,20 @@
+{
+  "id": 200,
+  "name": {
+    "english": "Misdreavus",
+    "japanese": "ムウマ",
+    "chinese": "梦妖",
+    "french": "Feuforêve"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 60,
+    "defense": 60,
+    "special_attack": 85,
+    "special_defense": 85,
+    "speed": 85
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 81,
+  "name": {
+    "english": "Magnemite",
+    "japanese": "コイル",
+    "chinese": "小磁怪",
+    "french": "Magnéti"
+  },
+  "type": [
+    "Electric",
+    "Steel"
+  ],
+  "base": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "special_attack": 95,
+    "special_defense": 55,
+    "speed": 45
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 102,
+  "name": {
+    "english": "Exeggcute",
+    "japanese": "タマタマ",
+    "chinese": "蛋蛋",
+    "french": "Noeunoeuf"
+  },
+  "type": [
+    "Grass",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 40,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 45,
+    "speed": 40
+  }
+}

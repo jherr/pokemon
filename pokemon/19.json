@@ -1,0 +1,20 @@
+{
+  "id": 19,
+  "name": {
+    "english": "Rattata",
+    "japanese": "コラッタ",
+    "chinese": "小拉达",
+    "french": "Rattata"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "special_attack": 25,
+    "special_defense": 35,
+    "speed": 72
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 752,
+  "name": {
+    "english": "Araquanid",
+    "japanese": "オニシズクモ",
+    "chinese": "滴蛛霸",
+    "french": "Tarenbulle"
+  },
+  "type": [
+    "Water",
+    "Bug"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 70,
+    "defense": 92,
+    "special_attack": 50,
+    "special_defense": 132,
+    "speed": 42
+  }
+}

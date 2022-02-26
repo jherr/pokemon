@@ -1,0 +1,20 @@
+{
+  "id": 314,
+  "name": {
+    "english": "Illumise",
+    "japanese": "イルミーゼ",
+    "chinese": "甜甜萤",
+    "french": "Lumivole"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 47,
+    "defense": 75,
+    "special_attack": 73,
+    "special_defense": 85,
+    "speed": 85
+  }
+}

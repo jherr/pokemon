@@ -1,0 +1,21 @@
+{
+  "id": 410,
+  "name": {
+    "english": "Shieldon",
+    "japanese": "タテトプス",
+    "chinese": "盾甲龙",
+    "french": "Dinoclier"
+  },
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 42,
+    "defense": 118,
+    "special_attack": 42,
+    "special_defense": 88,
+    "speed": 30
+  }
+}

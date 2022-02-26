@@ -1,0 +1,21 @@
+{
+  "id": 149,
+  "name": {
+    "english": "Dragonite",
+    "japanese": "カイリュー",
+    "chinese": "快龙",
+    "french": "Dracolosse"
+  },
+  "type": [
+    "Dragon",
+    "Flying"
+  ],
+  "base": {
+    "hp": 91,
+    "attack": 134,
+    "defense": 95,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 80
+  }
+}

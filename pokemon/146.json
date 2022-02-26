@@ -1,0 +1,21 @@
+{
+  "id": 146,
+  "name": {
+    "english": "Moltres",
+    "japanese": "ファイヤー",
+    "chinese": "火焰鸟",
+    "french": "Sulfura"
+  },
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "special_attack": 125,
+    "special_defense": 85,
+    "speed": 90
+  }
+}

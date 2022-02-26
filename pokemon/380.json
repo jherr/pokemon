@@ -1,0 +1,21 @@
+{
+  "id": 380,
+  "name": {
+    "english": "Latias",
+    "japanese": "ラティアス",
+    "chinese": "拉帝亚斯",
+    "french": "Latias"
+  },
+  "type": [
+    "Dragon",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "special_attack": 110,
+    "special_defense": 130,
+    "speed": 110
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 169,
+  "name": {
+    "english": "Crobat",
+    "japanese": "クロバット",
+    "chinese": "叉字蝠",
+    "french": "Nostenfer"
+  },
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 90,
+    "defense": 80,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 130
+  }
+}

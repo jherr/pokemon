@@ -1,0 +1,20 @@
+{
+  "id": 685,
+  "name": {
+    "english": "Slurpuff",
+    "japanese": "ペロリーム",
+    "chinese": "胖甜妮",
+    "french": "Cupcanaille"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 82,
+    "attack": 80,
+    "defense": 86,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 72
+  }
+}

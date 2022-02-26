@@ -1,0 +1,21 @@
+{
+  "id": 392,
+  "name": {
+    "english": "Infernape",
+    "japanese": "ゴウカザル",
+    "chinese": "烈焰猴",
+    "french": "Simiabraz"
+  },
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 76,
+    "attack": 104,
+    "defense": 71,
+    "special_attack": 104,
+    "special_defense": 71,
+    "speed": 108
+  }
+}

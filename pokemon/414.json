@@ -1,0 +1,21 @@
+{
+  "id": 414,
+  "name": {
+    "english": "Mothim",
+    "japanese": "ガーメイル",
+    "chinese": "绅士蛾",
+    "french": "Papilord"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 94,
+    "defense": 50,
+    "special_attack": 94,
+    "special_defense": 50,
+    "speed": 66
+  }
+}

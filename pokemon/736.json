@@ -1,0 +1,20 @@
+{
+  "id": 736,
+  "name": {
+    "english": "Grubbin",
+    "japanese": "アゴジムシ",
+    "chinese": "强颚鸡母虫",
+    "french": "Larvibule"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 47,
+    "attack": 62,
+    "defense": 45,
+    "special_attack": 55,
+    "special_defense": 45,
+    "speed": 46
+  }
+}

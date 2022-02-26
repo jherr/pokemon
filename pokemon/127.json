@@ -1,0 +1,20 @@
+{
+  "id": 127,
+  "name": {
+    "english": "Pinsir",
+    "japanese": "カイロス",
+    "chinese": "凯罗斯",
+    "french": "Scarabrute"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "special_attack": 55,
+    "special_defense": 70,
+    "speed": 85
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 373,
+  "name": {
+    "english": "Salamence",
+    "japanese": "ボーマンダ",
+    "chinese": "暴飞龙",
+    "french": "Drattak"
+  },
+  "type": [
+    "Dragon",
+    "Flying"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 135,
+    "defense": 80,
+    "special_attack": 110,
+    "special_defense": 80,
+    "speed": 100
+  }
+}

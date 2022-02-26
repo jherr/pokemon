@@ -1,0 +1,21 @@
+{
+  "id": 487,
+  "name": {
+    "english": "Giratina",
+    "japanese": "ギラティナ",
+    "chinese": "骑拉帝纳",
+    "french": "Giratina"
+  },
+  "type": [
+    "Ghost",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 150,
+    "attack": 100,
+    "defense": 120,
+    "special_attack": 100,
+    "special_defense": 120,
+    "speed": 90
+  }
+}

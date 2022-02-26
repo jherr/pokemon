@@ -1,0 +1,21 @@
+{
+  "id": 346,
+  "name": {
+    "english": "Cradily",
+    "japanese": "ユレイドル",
+    "chinese": "摇篮百合",
+    "french": "Vacilys"
+  },
+  "type": [
+    "Rock",
+    "Grass"
+  ],
+  "base": {
+    "hp": 86,
+    "attack": 81,
+    "defense": 97,
+    "special_attack": 81,
+    "special_defense": 107,
+    "speed": 43
+  }
+}

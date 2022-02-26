@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "name": {
+    "english": "Ekans",
+    "japanese": "アーボ",
+    "chinese": "阿柏蛇",
+    "french": "Abo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "special_attack": 40,
+    "special_defense": 54,
+    "speed": 55
+  }
+}

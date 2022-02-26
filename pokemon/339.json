@@ -1,0 +1,21 @@
+{
+  "id": 339,
+  "name": {
+    "english": "Barboach",
+    "japanese": "ドジョッチ",
+    "chinese": "泥泥鳅",
+    "french": "Barloche"
+  },
+  "type": [
+    "Water",
+    "Ground"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 48,
+    "defense": 43,
+    "special_attack": 46,
+    "special_defense": 41,
+    "speed": 60
+  }
+}

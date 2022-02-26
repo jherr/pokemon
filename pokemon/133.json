@@ -1,0 +1,20 @@
+{
+  "id": 133,
+  "name": {
+    "english": "Eevee",
+    "japanese": "イーブイ",
+    "chinese": "伊布",
+    "french": "Évoli"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 55,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 65,
+    "speed": 55
+  }
+}

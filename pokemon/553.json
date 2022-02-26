@@ -1,0 +1,21 @@
+{
+  "id": 553,
+  "name": {
+    "english": "Krookodile",
+    "japanese": "ワルビアル",
+    "chinese": "流氓鳄",
+    "french": "Crocorible"
+  },
+  "type": [
+    "Ground",
+    "Dark"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 117,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 92
+  }
+}

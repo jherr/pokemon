@@ -1,0 +1,21 @@
+{
+  "id": 44,
+  "name": {
+    "english": "Gloom",
+    "japanese": "クサイハナ",
+    "chinese": "臭臭花",
+    "french": "Ortide"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 40
+  }
+}

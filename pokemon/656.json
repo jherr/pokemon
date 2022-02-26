@@ -1,0 +1,20 @@
+{
+  "id": 656,
+  "name": {
+    "english": "Froakie",
+    "japanese": "ケロマツ",
+    "chinese": "呱呱泡蛙",
+    "french": "Grenousse"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 41,
+    "attack": 56,
+    "defense": 40,
+    "special_attack": 62,
+    "special_defense": 44,
+    "speed": 71
+  }
+}

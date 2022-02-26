@@ -1,0 +1,20 @@
+{
+  "id": 584,
+  "name": {
+    "english": "Vanilluxe",
+    "japanese": "バイバニラ",
+    "chinese": "双倍多多冰",
+    "french": "Sorbouboul"
+  },
+  "type": [
+    "Ice"
+  ],
+  "base": {
+    "hp": 71,
+    "attack": 95,
+    "defense": 85,
+    "special_attack": 110,
+    "special_defense": 95,
+    "speed": 79
+  }
+}

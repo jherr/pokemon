@@ -1,0 +1,21 @@
+{
+  "id": 623,
+  "name": {
+    "english": "Golurk",
+    "japanese": "ゴルーグ",
+    "chinese": "泥偶巨人",
+    "french": "Golemastoc"
+  },
+  "type": [
+    "Ground",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 89,
+    "attack": 124,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 55
+  }
+}

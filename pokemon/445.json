@@ -1,0 +1,21 @@
+{
+  "id": 445,
+  "name": {
+    "english": "Garchomp",
+    "japanese": "ガブリアス",
+    "chinese": "烈咬陆鲨",
+    "french": "Carchacrok"
+  },
+  "type": [
+    "Dragon",
+    "Ground"
+  ],
+  "base": {
+    "hp": 108,
+    "attack": 130,
+    "defense": 95,
+    "special_attack": 80,
+    "special_defense": 85,
+    "speed": 102
+  }
+}

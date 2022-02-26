@@ -1,0 +1,20 @@
+{
+  "id": 432,
+  "name": {
+    "english": "Purugly",
+    "japanese": "ブニャット",
+    "chinese": "东施喵",
+    "french": "Chaffreux"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 71,
+    "attack": 82,
+    "defense": 64,
+    "special_attack": 64,
+    "special_defense": 59,
+    "speed": 112
+  }
+}

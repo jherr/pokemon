@@ -1,0 +1,21 @@
+{
+  "id": 95,
+  "name": {
+    "english": "Onix",
+    "japanese": "イワーク",
+    "chinese": "大岩蛇",
+    "french": "Onix"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "special_attack": 30,
+    "special_defense": 45,
+    "speed": 70
+  }
+}

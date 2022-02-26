@@ -1,0 +1,21 @@
+{
+  "id": 222,
+  "name": {
+    "english": "Corsola",
+    "japanese": "サニーゴ",
+    "chinese": "太阳珊瑚",
+    "french": "Corayon"
+  },
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 95,
+    "special_attack": 65,
+    "special_defense": 95,
+    "speed": 35
+  }
+}

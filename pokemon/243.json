@@ -1,0 +1,20 @@
+{
+  "id": 243,
+  "name": {
+    "english": "Raikou",
+    "japanese": "ライコウ",
+    "chinese": "雷公",
+    "french": "Raikou"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 75,
+    "special_attack": 115,
+    "special_defense": 100,
+    "speed": 115
+  }
+}

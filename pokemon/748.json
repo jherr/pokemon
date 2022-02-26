@@ -1,0 +1,21 @@
+{
+  "id": 748,
+  "name": {
+    "english": "Toxapex",
+    "japanese": "ドヒドイデ",
+    "chinese": "超坏星",
+    "french": "Prédastérie"
+  },
+  "type": [
+    "Poison",
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 63,
+    "defense": 152,
+    "special_attack": 53,
+    "special_defense": 142,
+    "speed": 35
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 134,
+  "name": {
+    "english": "Vaporeon",
+    "japanese": "シャワーズ",
+    "chinese": "水伊布",
+    "french": "Aquali"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 110,
+    "special_defense": 95,
+    "speed": 65
+  }
+}

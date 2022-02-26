@@ -1,0 +1,21 @@
+{
+  "id": 145,
+  "name": {
+    "english": "Zapdos",
+    "japanese": "サンダー",
+    "chinese": "闪电鸟",
+    "french": "Électhor"
+  },
+  "type": [
+    "Electric",
+    "Flying"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "special_attack": 125,
+    "special_defense": 90,
+    "speed": 100
+  }
+}

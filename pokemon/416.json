@@ -1,0 +1,21 @@
+{
+  "id": 416,
+  "name": {
+    "english": "Vespiquen",
+    "japanese": "ビークイン",
+    "chinese": "蜂女王",
+    "french": "Apireine"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 80,
+    "defense": 102,
+    "special_attack": 80,
+    "special_defense": 102,
+    "speed": 40
+  }
+}

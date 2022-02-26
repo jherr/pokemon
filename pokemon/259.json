@@ -1,0 +1,21 @@
+{
+  "id": 259,
+  "name": {
+    "english": "Marshtomp",
+    "japanese": "ヌマクロー",
+    "chinese": "沼跃鱼",
+    "french": "Flobio"
+  },
+  "type": [
+    "Water",
+    "Ground"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 50
+  }
+}

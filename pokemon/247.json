@@ -1,0 +1,21 @@
+{
+  "id": 247,
+  "name": {
+    "english": "Pupitar",
+    "japanese": "サナギラス",
+    "chinese": "沙基拉斯",
+    "french": "Ymphect"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 84,
+    "defense": 70,
+    "special_attack": 65,
+    "special_defense": 70,
+    "speed": 51
+  }
+}

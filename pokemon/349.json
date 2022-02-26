@@ -1,0 +1,20 @@
+{
+  "id": 349,
+  "name": {
+    "english": "Feebas",
+    "japanese": "ヒンバス",
+    "chinese": "丑丑鱼",
+    "french": "Barpau"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 20,
+    "attack": 15,
+    "defense": 20,
+    "special_attack": 10,
+    "special_defense": 55,
+    "speed": 80
+  }
+}

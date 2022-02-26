@@ -1,0 +1,20 @@
+{
+  "id": 153,
+  "name": {
+    "english": "Bayleef",
+    "japanese": "ベイリーフ",
+    "chinese": "月桂叶",
+    "french": "Macronium"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 80,
+    "special_attack": 63,
+    "special_defense": 80,
+    "speed": 60
+  }
+}

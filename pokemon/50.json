@@ -1,0 +1,20 @@
+{
+  "id": 50,
+  "name": {
+    "english": "Diglett",
+    "japanese": "ディグダ",
+    "chinese": "地鼠",
+    "french": "Taupiqueur"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "special_attack": 35,
+    "special_defense": 45,
+    "speed": 95
+  }
+}

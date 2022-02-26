@@ -1,0 +1,21 @@
+{
+  "id": 376,
+  "name": {
+    "english": "Metagross",
+    "japanese": "メタグロス",
+    "chinese": "巨金怪",
+    "french": "Métalosse"
+  },
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "special_attack": 95,
+    "special_defense": 90,
+    "speed": 70
+  }
+}

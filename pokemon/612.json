@@ -1,0 +1,20 @@
+{
+  "id": 612,
+  "name": {
+    "english": "Haxorus",
+    "japanese": "オノノクス",
+    "chinese": "双斧战龙",
+    "french": "Tranchodon"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 76,
+    "attack": 147,
+    "defense": 90,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 97
+  }
+}

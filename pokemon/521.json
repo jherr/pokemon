@@ -1,0 +1,21 @@
+{
+  "id": 521,
+  "name": {
+    "english": "Unfezant",
+    "japanese": "ケンホロウ",
+    "chinese": "高傲雉鸡",
+    "french": "Déflaisan"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 115,
+    "defense": 80,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 93
+  }
+}

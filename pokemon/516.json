@@ -1,0 +1,20 @@
+{
+  "id": 516,
+  "name": {
+    "english": "Simipour",
+    "japanese": "ヒヤッキー",
+    "chinese": "冷水猿",
+    "french": "Flotoutan"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 98,
+    "defense": 63,
+    "special_attack": 98,
+    "special_defense": 63,
+    "speed": 101
+  }
+}

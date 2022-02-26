@@ -1,0 +1,20 @@
+{
+  "id": 577,
+  "name": {
+    "english": "Solosis",
+    "japanese": "ユニラン",
+    "chinese": "单卵细胞球",
+    "french": "Nucléos"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 40,
+    "special_attack": 105,
+    "special_defense": 50,
+    "speed": 20
+  }
+}

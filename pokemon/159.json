@@ -1,0 +1,20 @@
+{
+  "id": 159,
+  "name": {
+    "english": "Croconaw",
+    "japanese": "アリゲイツ",
+    "chinese": "蓝鳄",
+    "french": "Crocrodil"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 80,
+    "special_attack": 59,
+    "special_defense": 63,
+    "speed": 58
+  }
+}

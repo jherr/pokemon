@@ -1,0 +1,20 @@
+{
+  "id": 575,
+  "name": {
+    "english": "Gothorita",
+    "japanese": "ゴチミル",
+    "chinese": "哥德小童",
+    "french": "Mesmérella"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 70,
+    "special_attack": 75,
+    "special_defense": 85,
+    "speed": 55
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 671,
+  "name": {
+    "english": "Florges",
+    "japanese": "フラージェス",
+    "chinese": "花洁夫人",
+    "french": "Florges"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 65,
+    "defense": 68,
+    "special_attack": 112,
+    "special_defense": 154,
+    "speed": 75
+  }
+}

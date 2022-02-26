@@ -1,0 +1,20 @@
+{
+  "id": 568,
+  "name": {
+    "english": "Trubbish",
+    "japanese": "ヤブクロン",
+    "chinese": "破破袋",
+    "french": "Miamiasme"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 62,
+    "special_attack": 40,
+    "special_defense": 62,
+    "speed": 65
+  }
+}

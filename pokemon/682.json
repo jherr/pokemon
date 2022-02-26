@@ -1,0 +1,20 @@
+{
+  "id": 682,
+  "name": {
+    "english": "Spritzee",
+    "japanese": "シュシュプ",
+    "chinese": "粉香香",
+    "french": "Fluvetin"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 52,
+    "defense": 60,
+    "special_attack": 63,
+    "special_defense": 65,
+    "speed": 23
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 763,
+  "name": {
+    "english": "Tsareena",
+    "japanese": "アマージョ",
+    "chinese": "甜冷美后",
+    "french": "Sucreine"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 72,
+    "attack": 120,
+    "defense": 98,
+    "special_attack": 50,
+    "special_defense": 98,
+    "speed": 72
+  }
+}

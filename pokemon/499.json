@@ -1,0 +1,21 @@
+{
+  "id": 499,
+  "name": {
+    "english": "Pignite",
+    "japanese": "チャオブー",
+    "chinese": "炒炒猪",
+    "french": "Grotichon"
+  },
+  "type": [
+    "Fire",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 93,
+    "defense": 55,
+    "special_attack": 70,
+    "special_defense": 55,
+    "speed": 55
+  }
+}

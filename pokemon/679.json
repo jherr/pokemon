@@ -1,0 +1,21 @@
+{
+  "id": 679,
+  "name": {
+    "english": "Honedge",
+    "japanese": "ヒトツキ",
+    "chinese": "独剑鞘",
+    "french": "Monorpale"
+  },
+  "type": [
+    "Steel",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 80,
+    "defense": 100,
+    "special_attack": 35,
+    "special_defense": 37,
+    "speed": 28
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 105,
+  "name": {
+    "english": "Marowak",
+    "japanese": "ガラガラ",
+    "chinese": "嘎啦嘎啦",
+    "french": "Ossatueur"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "special_attack": 50,
+    "special_defense": 80,
+    "speed": 45
+  }
+}

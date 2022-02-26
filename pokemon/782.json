@@ -1,0 +1,20 @@
+{
+  "id": 782,
+  "name": {
+    "english": "Jangmo-o",
+    "japanese": "ジャラコ",
+    "chinese": "心鳞宝",
+    "french": "Écaïd"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 65,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 45
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 572,
+  "name": {
+    "english": "Minccino",
+    "japanese": "チラーミィ",
+    "chinese": "泡沫栗鼠",
+    "french": "Chinchidou"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 40,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 75
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 704,
+  "name": {
+    "english": "Goomy",
+    "japanese": "ヌメラ",
+    "chinese": "黏黏宝",
+    "french": "Mucuscule"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 35,
+    "special_attack": 55,
+    "special_defense": 75,
+    "speed": 40
+  }
+}

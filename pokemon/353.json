@@ -1,0 +1,20 @@
+{
+  "id": 353,
+  "name": {
+    "english": "Shuppet",
+    "japanese": "カゲボウズ",
+    "chinese": "怨影娃娃",
+    "french": "Polichombr"
+  },
+  "type": [
+    "Ghost"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 75,
+    "defense": 35,
+    "special_attack": 63,
+    "special_defense": 33,
+    "speed": 45
+  }
+}

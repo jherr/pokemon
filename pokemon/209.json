@@ -1,0 +1,20 @@
+{
+  "id": 209,
+  "name": {
+    "english": "Snubbull",
+    "japanese": "ブルー",
+    "chinese": "布鲁",
+    "french": "Snubbull"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 50,
+    "special_attack": 40,
+    "special_defense": 40,
+    "speed": 30
+  }
+}

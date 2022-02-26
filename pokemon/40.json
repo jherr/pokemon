@@ -1,0 +1,21 @@
+{
+  "id": 40,
+  "name": {
+    "english": "Wigglytuff",
+    "japanese": "プクリン",
+    "chinese": "胖可丁",
+    "french": "Grodoudou"
+  },
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 140,
+    "attack": 70,
+    "defense": 45,
+    "special_attack": 85,
+    "special_defense": 50,
+    "speed": 45
+  }
+}

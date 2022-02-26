@@ -1,0 +1,20 @@
+{
+  "id": 606,
+  "name": {
+    "english": "Beheeyem",
+    "japanese": "オーベム",
+    "chinese": "大宇怪",
+    "french": "Neitram"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 75,
+    "special_attack": 125,
+    "special_defense": 95,
+    "speed": 40
+  }
+}

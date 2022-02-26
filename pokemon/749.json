@@ -1,0 +1,20 @@
+{
+  "id": 749,
+  "name": {
+    "english": "Mudbray",
+    "japanese": "ドロバンコ",
+    "chinese": "泥驴仔",
+    "french": "Tiboudet"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 45
+  }
+}

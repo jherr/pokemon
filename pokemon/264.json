@@ -1,0 +1,20 @@
+{
+  "id": 264,
+  "name": {
+    "english": "Linoone",
+    "japanese": "マッスグマ",
+    "chinese": "直冲熊",
+    "french": "Linéon"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 78,
+    "attack": 70,
+    "defense": 61,
+    "special_attack": 50,
+    "special_defense": 61,
+    "speed": 100
+  }
+}

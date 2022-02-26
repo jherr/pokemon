@@ -1,0 +1,21 @@
+{
+  "id": 280,
+  "name": {
+    "english": "Ralts",
+    "japanese": "ラルトス",
+    "chinese": "拉鲁拉丝",
+    "french": "Tarsal"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 28,
+    "attack": 25,
+    "defense": 25,
+    "special_attack": 45,
+    "special_defense": 35,
+    "speed": 40
+  }
+}

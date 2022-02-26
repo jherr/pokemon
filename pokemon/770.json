@@ -1,0 +1,21 @@
+{
+  "id": 770,
+  "name": {
+    "english": "Palossand",
+    "japanese": "シロデスナ",
+    "chinese": "噬沙堡爷",
+    "french": "Trépassable"
+  },
+  "type": [
+    "Ghost",
+    "Ground"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 75,
+    "defense": 110,
+    "special_attack": 100,
+    "special_defense": 75,
+    "speed": 35
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 399,
+  "name": {
+    "english": "Bidoof",
+    "japanese": "ビッパ",
+    "chinese": "大牙狸",
+    "french": "Keunotor"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 45,
+    "defense": 40,
+    "special_attack": 35,
+    "special_defense": 40,
+    "speed": 31
+  }
+}

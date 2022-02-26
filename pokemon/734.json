@@ -1,0 +1,20 @@
+{
+  "id": 734,
+  "name": {
+    "english": "Yungoos",
+    "japanese": "ヤングース",
+    "chinese": "猫鼬少",
+    "french": "Manglouton"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 48,
+    "attack": 70,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 45
+  }
+}

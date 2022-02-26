@@ -1,0 +1,21 @@
+{
+  "id": 794,
+  "name": {
+    "english": "Buzzwole",
+    "japanese": "マッシブーン",
+    "chinese": "爆肌蚊",
+    "french": "Cancrelove"
+  },
+  "type": [
+    "Bug",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 107,
+    "attack": 139,
+    "defense": 139,
+    "special_attack": 53,
+    "special_defense": 53,
+    "speed": 79
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 212,
+  "name": {
+    "english": "Scizor",
+    "japanese": "ハッサム",
+    "chinese": "巨钳螳螂",
+    "french": "Cizayox"
+  },
+  "type": [
+    "Bug",
+    "Steel"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 130,
+    "defense": 100,
+    "special_attack": 55,
+    "special_defense": 80,
+    "speed": 65
+  }
+}

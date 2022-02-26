@@ -1,0 +1,21 @@
+{
+  "id": 694,
+  "name": {
+    "english": "Helioptile",
+    "japanese": "エリキテル",
+    "chinese": "伞电蜥",
+    "french": "Galvaran"
+  },
+  "type": [
+    "Electric",
+    "Normal"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 38,
+    "defense": 33,
+    "special_attack": 61,
+    "special_defense": 43,
+    "speed": 70
+  }
+}

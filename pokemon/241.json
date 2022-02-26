@@ -1,0 +1,20 @@
+{
+  "id": 241,
+  "name": {
+    "english": "Miltank",
+    "japanese": "ミルタンク",
+    "chinese": "大奶罐",
+    "french": "Écrémeuh"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 105,
+    "special_attack": 40,
+    "special_defense": 70,
+    "speed": 100
+  }
+}

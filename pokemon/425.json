@@ -1,0 +1,21 @@
+{
+  "id": 425,
+  "name": {
+    "english": "Drifloon",
+    "japanese": "フワンテ",
+    "chinese": "飘飘球",
+    "french": "Baudrive"
+  },
+  "type": [
+    "Ghost",
+    "Flying"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 50,
+    "defense": 34,
+    "special_attack": 60,
+    "special_defense": 44,
+    "speed": 70
+  }
+}

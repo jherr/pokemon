@@ -1,0 +1,21 @@
+{
+  "id": 688,
+  "name": {
+    "english": "Binacle",
+    "japanese": "カメテテ",
+    "chinese": "龟脚脚",
+    "french": "Opermine"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "hp": 42,
+    "attack": 52,
+    "defense": 67,
+    "special_attack": 39,
+    "special_defense": 56,
+    "speed": 50
+  }
+}

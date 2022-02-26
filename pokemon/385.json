@@ -1,0 +1,21 @@
+{
+  "id": 385,
+  "name": {
+    "english": "Jirachi",
+    "japanese": "ジラーチ",
+    "chinese": "基拉祈",
+    "french": "Jirachi"
+  },
+  "type": [
+    "Steel",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 100,
+    "speed": 100
+  }
+}

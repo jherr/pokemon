@@ -1,0 +1,21 @@
+{
+  "id": 520,
+  "name": {
+    "english": "Tranquill",
+    "japanese": "ハトーボー",
+    "chinese": "咕咕鸽",
+    "french": "Colombeau"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 62,
+    "attack": 77,
+    "defense": 62,
+    "special_attack": 50,
+    "special_defense": 42,
+    "speed": 65
+  }
+}

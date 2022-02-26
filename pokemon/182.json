@@ -1,0 +1,20 @@
+{
+  "id": 182,
+  "name": {
+    "english": "Bellossom",
+    "japanese": "キレイハナ",
+    "chinese": "美丽花",
+    "french": "Joliflor"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 95,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 50
+  }
+}

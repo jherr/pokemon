@@ -1,0 +1,20 @@
+{
+  "id": 725,
+  "name": {
+    "english": "Litten",
+    "japanese": "ニャビー",
+    "chinese": "火斑喵",
+    "french": "Flamiaou"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 65,
+    "defense": 40,
+    "special_attack": 60,
+    "special_defense": 40,
+    "speed": 70
+  }
+}

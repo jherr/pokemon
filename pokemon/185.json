@@ -1,0 +1,20 @@
+{
+  "id": 185,
+  "name": {
+    "english": "Sudowoodo",
+    "japanese": "ウソッキー",
+    "chinese": "树才怪‎",
+    "french": "Simularbre"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 115,
+    "special_attack": 30,
+    "special_defense": 65,
+    "speed": 30
+  }
+}

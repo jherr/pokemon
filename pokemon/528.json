@@ -1,0 +1,21 @@
+{
+  "id": 528,
+  "name": {
+    "english": "Swoobat",
+    "japanese": "ココロモリ",
+    "chinese": "心蝙蝠",
+    "french": "Rhinolove"
+  },
+  "type": [
+    "Psychic",
+    "Flying"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 57,
+    "defense": 55,
+    "special_attack": 77,
+    "special_defense": 55,
+    "speed": 114
+  }
+}

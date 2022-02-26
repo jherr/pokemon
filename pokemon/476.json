@@ -1,0 +1,21 @@
+{
+  "id": 476,
+  "name": {
+    "english": "Probopass",
+    "japanese": "ダイノーズ",
+    "chinese": "大朝北鼻",
+    "french": "Tarinorme"
+  },
+  "type": [
+    "Rock",
+    "Steel"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 145,
+    "special_attack": 75,
+    "special_defense": 150,
+    "speed": 40
+  }
+}

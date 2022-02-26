@@ -1,0 +1,20 @@
+{
+  "id": 428,
+  "name": {
+    "english": "Lopunny",
+    "japanese": "ミミロップ",
+    "chinese": "长耳兔",
+    "french": "Lockpin"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 76,
+    "defense": 84,
+    "special_attack": 54,
+    "special_defense": 96,
+    "speed": 105
+  }
+}

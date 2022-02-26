@@ -1,0 +1,21 @@
+{
+  "id": 778,
+  "name": {
+    "english": "Mimikyu",
+    "japanese": "ミミッキュ",
+    "chinese": "谜拟Ｑ",
+    "french": "Denticrisse"
+  },
+  "type": [
+    "Ghost",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 90,
+    "defense": 80,
+    "special_attack": 50,
+    "special_defense": 105,
+    "speed": 96
+  }
+}

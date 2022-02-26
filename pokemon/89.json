@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "name": {
+    "english": "Muk",
+    "japanese": "ベトベトン",
+    "chinese": "臭臭泥",
+    "french": "Grotadmorv"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "special_attack": 65,
+    "special_defense": 100,
+    "speed": 50
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 731,
+  "name": {
+    "english": "Pikipek",
+    "japanese": "ツツケラ",
+    "chinese": "小笃儿",
+    "french": "Picassaut"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 75,
+    "defense": 30,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 65
+  }
+}

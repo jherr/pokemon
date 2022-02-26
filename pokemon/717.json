@@ -1,0 +1,21 @@
+{
+  "id": 717,
+  "name": {
+    "english": "Yveltal",
+    "japanese": "イベルタル",
+    "chinese": "伊裴尔塔尔",
+    "french": "Yveltal"
+  },
+  "type": [
+    "Dark",
+    "Flying"
+  ],
+  "base": {
+    "hp": 126,
+    "attack": 131,
+    "defense": 95,
+    "special_attack": 131,
+    "special_defense": 98,
+    "speed": 99
+  }
+}

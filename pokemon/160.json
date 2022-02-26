@@ -1,0 +1,20 @@
+{
+  "id": 160,
+  "name": {
+    "english": "Feraligatr",
+    "japanese": "オーダイル",
+    "chinese": "大力鳄",
+    "french": "Aligatueur"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 105,
+    "defense": 100,
+    "special_attack": 79,
+    "special_defense": 83,
+    "speed": 78
+  }
+}

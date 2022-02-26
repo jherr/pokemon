@@ -1,0 +1,21 @@
+{
+  "id": 219,
+  "name": {
+    "english": "Magcargo",
+    "japanese": "マグカルゴ",
+    "chinese": "熔岩蜗牛",
+    "french": "Volcaropod"
+  },
+  "type": [
+    "Fire",
+    "Rock"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 50,
+    "defense": 120,
+    "special_attack": 90,
+    "special_defense": 80,
+    "speed": 30
+  }
+}

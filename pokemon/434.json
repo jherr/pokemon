@@ -1,0 +1,21 @@
+{
+  "id": 434,
+  "name": {
+    "english": "Stunky",
+    "japanese": "スカンプー",
+    "chinese": "臭鼬噗",
+    "french": "Moufouette"
+  },
+  "type": [
+    "Poison",
+    "Dark"
+  ],
+  "base": {
+    "hp": 63,
+    "attack": 63,
+    "defense": 47,
+    "special_attack": 41,
+    "special_defense": 41,
+    "speed": 74
+  }
+}

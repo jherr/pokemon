@@ -1,0 +1,20 @@
+{
+  "id": 457,
+  "name": {
+    "english": "Lumineon",
+    "japanese": "ネオラント",
+    "chinese": "霓虹鱼",
+    "french": "Luminéon"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 69,
+    "attack": 69,
+    "defense": 76,
+    "special_attack": 69,
+    "special_defense": 86,
+    "speed": 91
+  }
+}

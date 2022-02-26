@@ -1,0 +1,21 @@
+{
+  "id": 267,
+  "name": {
+    "english": "Beautifly",
+    "japanese": "アゲハント",
+    "chinese": "狩猎凤蝶",
+    "french": "Charmillon"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 50,
+    "special_attack": 100,
+    "special_defense": 50,
+    "speed": 65
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 484,
+  "name": {
+    "english": "Palkia",
+    "japanese": "パルキア",
+    "chinese": "帕路奇亚",
+    "french": "Palkia"
+  },
+  "type": [
+    "Water",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 100,
+    "special_attack": 150,
+    "special_defense": 120,
+    "speed": 100
+  }
+}

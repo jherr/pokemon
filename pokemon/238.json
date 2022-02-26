@@ -1,0 +1,21 @@
+{
+  "id": 238,
+  "name": {
+    "english": "Smoochum",
+    "japanese": "ムチュール",
+    "chinese": "迷唇娃",
+    "french": "Lippouti"
+  },
+  "type": [
+    "Ice",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 15,
+    "special_attack": 85,
+    "special_defense": 65,
+    "speed": 65
+  }
+}

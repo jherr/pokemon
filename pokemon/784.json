@@ -1,0 +1,21 @@
+{
+  "id": 784,
+  "name": {
+    "english": "Kommo-o",
+    "japanese": "ジャラランガ",
+    "chinese": "杖尾鳞甲龙",
+    "french": "Tokorico"
+  },
+  "type": [
+    "Dragon",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 110,
+    "defense": 125,
+    "special_attack": 100,
+    "special_defense": 105,
+    "speed": 85
+  }
+}

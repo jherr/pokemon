@@ -1,0 +1,20 @@
+{
+  "id": 137,
+  "name": {
+    "english": "Porygon",
+    "japanese": "ポリゴン",
+    "chinese": "多边兽",
+    "french": "Porygon"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "special_attack": 85,
+    "special_defense": 75,
+    "speed": 40
+  }
+}

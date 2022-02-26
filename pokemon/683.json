@@ -1,0 +1,20 @@
+{
+  "id": 683,
+  "name": {
+    "english": "Aromatisse",
+    "japanese": "フレフワン",
+    "chinese": "芳香精",
+    "french": "Cocotine"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 101,
+    "attack": 72,
+    "defense": 72,
+    "special_attack": 99,
+    "special_defense": 89,
+    "speed": 29
+  }
+}

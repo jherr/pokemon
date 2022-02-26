@@ -1,0 +1,20 @@
+{
+  "id": 196,
+  "name": {
+    "english": "Espeon",
+    "japanese": "エーフィ",
+    "chinese": "太阳伊布",
+    "french": "Mentali"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "special_attack": 130,
+    "special_defense": 95,
+    "speed": 110
+  }
+}

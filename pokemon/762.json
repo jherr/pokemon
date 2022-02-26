@@ -1,0 +1,20 @@
+{
+  "id": 762,
+  "name": {
+    "english": "Steenee",
+    "japanese": "アママイコ",
+    "chinese": "甜舞妮",
+    "french": "Candine"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 52,
+    "attack": 40,
+    "defense": 48,
+    "special_attack": 40,
+    "special_defense": 48,
+    "speed": 62
+  }
+}

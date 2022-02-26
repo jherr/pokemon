@@ -1,0 +1,21 @@
+{
+  "id": 627,
+  "name": {
+    "english": "Rufflet",
+    "japanese": "ワシボン",
+    "chinese": "毛头小鹰",
+    "french": "Furaiglon"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 83,
+    "defense": 50,
+    "special_attack": 37,
+    "special_defense": 50,
+    "speed": 60
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 93,
+  "name": {
+    "english": "Haunter",
+    "japanese": "ゴースト",
+    "chinese": "鬼斯通",
+    "french": "Spectrum"
+  },
+  "type": [
+    "Ghost",
+    "Poison"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 115,
+    "special_defense": 55,
+    "speed": 95
+  }
+}

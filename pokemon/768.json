@@ -1,0 +1,21 @@
+{
+  "id": 768,
+  "name": {
+    "english": "Golisopod",
+    "japanese": "グソクムシャ",
+    "chinese": "具甲武者",
+    "french": "Sarmuraï"
+  },
+  "type": [
+    "Bug",
+    "Water"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 125,
+    "defense": 140,
+    "special_attack": 60,
+    "special_defense": 90,
+    "speed": 40
+  }
+}

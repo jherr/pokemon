@@ -1,0 +1,20 @@
+{
+  "id": 326,
+  "name": {
+    "english": "Grumpig",
+    "japanese": "ブーピッグ",
+    "chinese": "噗噗猪",
+    "french": "Groret"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 45,
+    "defense": 65,
+    "special_attack": 90,
+    "special_defense": 110,
+    "speed": 80
+  }
+}

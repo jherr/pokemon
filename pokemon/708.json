@@ -1,0 +1,21 @@
+{
+  "id": 708,
+  "name": {
+    "english": "Phantump",
+    "japanese": "ボクレー",
+    "chinese": "小木灵",
+    "french": "Brocélôme"
+  },
+  "type": [
+    "Ghost",
+    "Grass"
+  ],
+  "base": {
+    "hp": 43,
+    "attack": 70,
+    "defense": 48,
+    "special_attack": 50,
+    "special_defense": 60,
+    "speed": 38
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 239,
+  "name": {
+    "english": "Elekid",
+    "japanese": "エレキッド",
+    "chinese": "电击怪",
+    "french": "Élekid"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 63,
+    "defense": 37,
+    "special_attack": 65,
+    "special_defense": 55,
+    "speed": 95
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 408,
+  "name": {
+    "english": "Cranidos",
+    "japanese": "ズガイドス",
+    "chinese": "头盖龙",
+    "french": "Kranidos"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 125,
+    "defense": 40,
+    "special_attack": 30,
+    "special_defense": 30,
+    "speed": 58
+  }
+}

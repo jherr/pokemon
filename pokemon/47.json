@@ -1,0 +1,21 @@
+{
+  "id": 47,
+  "name": {
+    "english": "Parasect",
+    "japanese": "パラセクト",
+    "chinese": "派拉斯特",
+    "french": "Parasect"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "special_attack": 60,
+    "special_defense": 80,
+    "speed": 30
+  }
+}

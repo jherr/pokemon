@@ -1,0 +1,20 @@
+{
+  "id": 771,
+  "name": {
+    "english": "Pyukumuku",
+    "japanese": "ナマコブシ",
+    "chinese": "拳海参",
+    "french": "Concombaffe"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 60,
+    "defense": 130,
+    "special_attack": 30,
+    "special_defense": 130,
+    "speed": 5
+  }
+}

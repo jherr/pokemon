@@ -1,0 +1,20 @@
+{
+  "id": 569,
+  "name": {
+    "english": "Garbodor",
+    "japanese": "ダストダス",
+    "chinese": "灰尘山",
+    "french": "Miasmax"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 95,
+    "defense": 82,
+    "special_attack": 60,
+    "special_defense": 82,
+    "speed": 75
+  }
+}

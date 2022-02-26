@@ -1,0 +1,20 @@
+{
+  "id": 611,
+  "name": {
+    "english": "Fraxure",
+    "japanese": "オノンド",
+    "chinese": "斧牙龙",
+    "french": "Incisache"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 66,
+    "attack": 117,
+    "defense": 70,
+    "special_attack": 40,
+    "special_defense": 50,
+    "speed": 67
+  }
+}

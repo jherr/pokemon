@@ -1,0 +1,20 @@
+{
+  "id": 604,
+  "name": {
+    "english": "Eelektross",
+    "japanese": "シビルドン",
+    "chinese": "麻麻鳗鱼王",
+    "french": "Ohmassacre"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 115,
+    "defense": 80,
+    "special_attack": 105,
+    "special_defense": 80,
+    "speed": 50
+  }
+}

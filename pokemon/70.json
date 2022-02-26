@@ -1,0 +1,21 @@
+{
+  "id": 70,
+  "name": {
+    "english": "Weepinbell",
+    "japanese": "ウツドン",
+    "chinese": "口呆花",
+    "french": "Boustiflor"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "special_attack": 85,
+    "special_defense": 45,
+    "speed": 55
+  }
+}

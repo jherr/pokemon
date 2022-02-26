@@ -1,0 +1,21 @@
+{
+  "id": 334,
+  "name": {
+    "english": "Altaria",
+    "japanese": "チルタリス",
+    "chinese": "七夕青鸟",
+    "french": "Altaria"
+  },
+  "type": [
+    "Dragon",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "special_attack": 70,
+    "special_defense": 105,
+    "speed": 80
+  }
+}

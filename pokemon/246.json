@@ -1,0 +1,21 @@
+{
+  "id": 246,
+  "name": {
+    "english": "Larvitar",
+    "japanese": "ヨーギラス",
+    "chinese": "幼基拉斯",
+    "french": "Embrylex"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 64,
+    "defense": 50,
+    "special_attack": 45,
+    "special_defense": 50,
+    "speed": 41
+  }
+}

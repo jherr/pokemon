@@ -1,0 +1,21 @@
+{
+  "id": 747,
+  "name": {
+    "english": "Mareanie",
+    "japanese": "ヒドイデ",
+    "chinese": "好坏星",
+    "french": "Vorastérie"
+  },
+  "type": [
+    "Poison",
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special_attack": 43,
+    "special_defense": 52,
+    "speed": 45
+  }
+}

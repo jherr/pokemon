@@ -1,0 +1,21 @@
+{
+  "id": 454,
+  "name": {
+    "english": "Toxicroak",
+    "japanese": "ドクロッグ",
+    "chinese": "毒骷蛙",
+    "french": "Coatox"
+  },
+  "type": [
+    "Poison",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 83,
+    "attack": 106,
+    "defense": 65,
+    "special_attack": 86,
+    "special_defense": 65,
+    "speed": 85
+  }
+}

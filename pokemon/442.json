@@ -1,0 +1,21 @@
+{
+  "id": 442,
+  "name": {
+    "english": "Spiritomb",
+    "japanese": "ミカルゲ",
+    "chinese": "花岩怪",
+    "french": "Spiritomb"
+  },
+  "type": [
+    "Ghost",
+    "Dark"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 92,
+    "defense": 108,
+    "special_attack": 92,
+    "special_defense": 108,
+    "speed": 35
+  }
+}

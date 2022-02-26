@@ -1,0 +1,20 @@
+{
+  "id": 266,
+  "name": {
+    "english": "Silcoon",
+    "japanese": "カラサリス",
+    "chinese": "甲壳茧",
+    "french": "Armulys"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 55,
+    "special_attack": 25,
+    "special_defense": 25,
+    "speed": 15
+  }
+}

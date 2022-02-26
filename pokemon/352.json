@@ -1,0 +1,20 @@
+{
+  "id": 352,
+  "name": {
+    "english": "Kecleon",
+    "japanese": "カクレオン",
+    "chinese": "变隐龙",
+    "french": "Kecleon"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 70,
+    "special_attack": 60,
+    "special_defense": 120,
+    "speed": 40
+  }
+}

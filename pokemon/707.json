@@ -1,0 +1,21 @@
+{
+  "id": 707,
+  "name": {
+    "english": "Klefki",
+    "japanese": "クレッフィ",
+    "chinese": "钥圈儿",
+    "french": "Trousselin"
+  },
+  "type": [
+    "Steel",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 57,
+    "attack": 80,
+    "defense": 91,
+    "special_attack": 80,
+    "special_defense": 87,
+    "speed": 75
+  }
+}

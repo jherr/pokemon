@@ -1,0 +1,21 @@
+{
+  "id": 756,
+  "name": {
+    "english": "Shiinotic",
+    "japanese": "マシェード",
+    "chinese": "灯罩夜菇",
+    "french": "Lampignon"
+  },
+  "type": [
+    "Grass",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 80,
+    "special_attack": 90,
+    "special_defense": 100,
+    "speed": 30
+  }
+}

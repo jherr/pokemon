@@ -1,0 +1,20 @@
+{
+  "id": 433,
+  "name": {
+    "english": "Chingling",
+    "japanese": "リーシャン",
+    "chinese": "铃铛响",
+    "french": "Korillon"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 65,
+    "special_defense": 50,
+    "speed": 45
+  }
+}

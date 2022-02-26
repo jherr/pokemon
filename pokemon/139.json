@@ -1,0 +1,21 @@
+{
+  "id": 139,
+  "name": {
+    "english": "Omastar",
+    "japanese": "オムスター",
+    "chinese": "多刺菊石兽",
+    "french": "Amonistar"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "special_attack": 115,
+    "special_defense": 70,
+    "speed": 55
+  }
+}

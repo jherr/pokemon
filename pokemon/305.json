@@ -1,0 +1,21 @@
+{
+  "id": 305,
+  "name": {
+    "english": "Lairon",
+    "japanese": "コドラ",
+    "chinese": "可多拉",
+    "french": "Galegon"
+  },
+  "type": [
+    "Steel",
+    "Rock"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 140,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 40
+  }
+}

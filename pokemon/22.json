@@ -1,0 +1,21 @@
+{
+  "id": 22,
+  "name": {
+    "english": "Fearow",
+    "japanese": "オニドリル",
+    "chinese": "大嘴雀",
+    "french": "Rapasdepic"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 65,
+    "special_attack": 61,
+    "special_defense": 61,
+    "speed": 100
+  }
+}

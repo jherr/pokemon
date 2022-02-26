@@ -1,0 +1,21 @@
+{
+  "id": 163,
+  "name": {
+    "english": "Hoothoot",
+    "japanese": "ホーホー",
+    "chinese": "咕咕",
+    "french": "Hoothoot"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 30,
+    "defense": 30,
+    "special_attack": 36,
+    "special_defense": 56,
+    "speed": 50
+  }
+}

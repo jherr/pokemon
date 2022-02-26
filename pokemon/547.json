@@ -1,0 +1,21 @@
+{
+  "id": 547,
+  "name": {
+    "english": "Whimsicott",
+    "japanese": "エルフーン",
+    "chinese": "风妖精",
+    "french": "Farfaduvet"
+  },
+  "type": [
+    "Grass",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 67,
+    "defense": 85,
+    "special_attack": 77,
+    "special_defense": 75,
+    "speed": 116
+  }
+}

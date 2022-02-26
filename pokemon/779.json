@@ -1,0 +1,21 @@
+{
+  "id": 779,
+  "name": {
+    "english": "Bruxish",
+    "japanese": "ハギギシリ",
+    "chinese": "磨牙彩皮鱼",
+    "french": "Draïeul"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 105,
+    "defense": 70,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 92
+  }
+}

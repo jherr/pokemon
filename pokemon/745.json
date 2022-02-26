@@ -1,0 +1,20 @@
+{
+  "id": 745,
+  "name": {
+    "english": "Lycanroc",
+    "japanese": "ルガルガン",
+    "chinese": "鬃岩狼人",
+    "french": "Lougaroc"
+  },
+  "type": [
+    "Rock"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 115,
+    "defense": 65,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 112
+  }
+}

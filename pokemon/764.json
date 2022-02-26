@@ -1,0 +1,20 @@
+{
+  "id": 764,
+  "name": {
+    "english": "Comfey",
+    "japanese": "キュワワー",
+    "chinese": "花疗环环",
+    "french": "Guérilande"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 51,
+    "attack": 52,
+    "defense": 90,
+    "special_attack": 82,
+    "special_defense": 110,
+    "speed": 100
+  }
+}

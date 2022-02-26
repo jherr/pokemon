@@ -1,0 +1,21 @@
+{
+  "id": 189,
+  "name": {
+    "english": "Jumpluff",
+    "japanese": "ワタッコ",
+    "chinese": "毽子棉",
+    "french": "Cotovol"
+  },
+  "type": [
+    "Grass",
+    "Flying"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 55,
+    "defense": 70,
+    "special_attack": 55,
+    "special_defense": 95,
+    "speed": 110
+  }
+}

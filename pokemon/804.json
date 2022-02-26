@@ -1,0 +1,21 @@
+{
+  "id": 804,
+  "name": {
+    "english": "Naganadel",
+    "japanese": "アーゴヨン",
+    "chinese": "四颚针龙",
+    "french": "Ama-Ama"
+  },
+  "type": [
+    "Poison",
+    "Dragon"
+  ],
+  "base": {
+    "hp": 73,
+    "attack": 73,
+    "defense": 73,
+    "special_attack": 127,
+    "special_defense": 73,
+    "speed": 121
+  }
+}

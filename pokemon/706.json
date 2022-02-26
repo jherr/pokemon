@@ -1,0 +1,20 @@
+{
+  "id": 706,
+  "name": {
+    "english": "Goodra",
+    "japanese": "ヌメルゴン",
+    "chinese": "黏美龙",
+    "french": "Muplodocus"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 70,
+    "special_attack": 110,
+    "special_defense": 150,
+    "speed": 80
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 564,
+  "name": {
+    "english": "Tirtouga",
+    "japanese": "プロトーガ",
+    "chinese": "原盖海龟",
+    "french": "Carapagos"
+  },
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "base": {
+    "hp": 54,
+    "attack": 78,
+    "defense": 103,
+    "special_attack": 53,
+    "special_defense": 45,
+    "speed": 22
+  }
+}

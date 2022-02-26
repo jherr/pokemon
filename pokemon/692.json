@@ -1,0 +1,20 @@
+{
+  "id": 692,
+  "name": {
+    "english": "Clauncher",
+    "japanese": "ウデッポウ",
+    "chinese": "铁臂枪虾",
+    "french": "Flingouste"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 53,
+    "defense": 62,
+    "special_attack": 58,
+    "special_defense": 63,
+    "speed": 44
+  }
+}

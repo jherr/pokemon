@@ -1,0 +1,21 @@
+{
+  "id": 767,
+  "name": {
+    "english": "Wimpod",
+    "japanese": "コソクムシ",
+    "chinese": "胆小虫",
+    "french": "Sovkipou"
+  },
+  "type": [
+    "Bug",
+    "Water"
+  ],
+  "base": {
+    "hp": 25,
+    "attack": 35,
+    "defense": 40,
+    "special_attack": 20,
+    "special_defense": 30,
+    "speed": 80
+  }
+}

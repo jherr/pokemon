@@ -1,0 +1,21 @@
+{
+  "id": 344,
+  "name": {
+    "english": "Claydol",
+    "japanese": "ネンドール",
+    "chinese": "念力土偶",
+    "french": "Kaorine"
+  },
+  "type": [
+    "Ground",
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 70,
+    "defense": 105,
+    "special_attack": 70,
+    "special_defense": 120,
+    "speed": 75
+  }
+}

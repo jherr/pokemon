@@ -1,0 +1,20 @@
+{
+  "id": 480,
+  "name": {
+    "english": "Uxie",
+    "japanese": "ユクシー",
+    "chinese": "由克希",
+    "french": "Créhelf"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 75,
+    "attack": 75,
+    "defense": 130,
+    "special_attack": 75,
+    "special_defense": 130,
+    "speed": 95
+  }
+}

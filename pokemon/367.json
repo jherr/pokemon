@@ -1,0 +1,20 @@
+{
+  "id": 367,
+  "name": {
+    "english": "Huntail",
+    "japanese": "ハンテール",
+    "chinese": "猎斑鱼",
+    "french": "Serpang"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 104,
+    "defense": 105,
+    "special_attack": 94,
+    "special_defense": 75,
+    "speed": 52
+  }
+}

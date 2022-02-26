@@ -1,0 +1,21 @@
+{
+  "id": 122,
+  "name": {
+    "english": "Mr. Mime",
+    "japanese": "バリヤード",
+    "chinese": "魔墙人偶",
+    "french": "M. Mime"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "special_attack": 100,
+    "special_defense": 120,
+    "speed": 90
+  }
+}

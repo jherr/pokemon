@@ -1,0 +1,20 @@
+{
+  "id": 455,
+  "name": {
+    "english": "Carnivine",
+    "japanese": "マスキッパ",
+    "chinese": "尖牙笼",
+    "french": "Vortente"
+  },
+  "type": [
+    "Grass"
+  ],
+  "base": {
+    "hp": 74,
+    "attack": 100,
+    "defense": 72,
+    "special_attack": 90,
+    "special_defense": 72,
+    "speed": 46
+  }
+}

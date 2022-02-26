@@ -1,0 +1,21 @@
+{
+  "id": 468,
+  "name": {
+    "english": "Togekiss",
+    "japanese": "トゲキッス",
+    "chinese": "波克基斯",
+    "french": "Togekiss"
+  },
+  "type": [
+    "Fairy",
+    "Flying"
+  ],
+  "base": {
+    "hp": 85,
+    "attack": 50,
+    "defense": 95,
+    "special_attack": 120,
+    "special_defense": 115,
+    "speed": 80
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 565,
+  "name": {
+    "english": "Carracosta",
+    "japanese": "アバゴーラ",
+    "chinese": "肋骨海龟",
+    "french": "Mégapagos"
+  },
+  "type": [
+    "Water",
+    "Rock"
+  ],
+  "base": {
+    "hp": 74,
+    "attack": 108,
+    "defense": 133,
+    "special_attack": 83,
+    "special_defense": 65,
+    "speed": 32
+  }
+}

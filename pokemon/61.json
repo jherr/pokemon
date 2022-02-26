@@ -1,0 +1,20 @@
+{
+  "id": 61,
+  "name": {
+    "english": "Poliwhirl",
+    "japanese": "ニョロゾ",
+    "chinese": "蚊香君",
+    "french": "Têtarte"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 50,
+    "speed": 90
+  }
+}

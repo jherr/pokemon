@@ -1,0 +1,20 @@
+{
+  "id": 173,
+  "name": {
+    "english": "Cleffa",
+    "japanese": "ピィ",
+    "chinese": "皮宝宝",
+    "french": "Mélo"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 25,
+    "defense": 28,
+    "special_attack": 45,
+    "special_defense": 55,
+    "speed": 15
+  }
+}

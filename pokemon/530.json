@@ -1,0 +1,21 @@
+{
+  "id": 530,
+  "name": {
+    "english": "Excadrill",
+    "japanese": "ドリュウズ",
+    "chinese": "龙头地鼠",
+    "french": "Minotaupe"
+  },
+  "type": [
+    "Ground",
+    "Steel"
+  ],
+  "base": {
+    "hp": 110,
+    "attack": 135,
+    "defense": 60,
+    "special_attack": 50,
+    "special_defense": 65,
+    "speed": 88
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 443,
+  "name": {
+    "english": "Gible",
+    "japanese": "フカマル",
+    "chinese": "圆陆鲨",
+    "french": "Griknot"
+  },
+  "type": [
+    "Dragon",
+    "Ground"
+  ],
+  "base": {
+    "hp": 58,
+    "attack": 70,
+    "defense": 45,
+    "special_attack": 40,
+    "special_defense": 45,
+    "speed": 42
+  }
+}

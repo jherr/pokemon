@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "name": {
+    "english": "Squirtle",
+    "japanese": "ゼニガメ",
+    "chinese": "杰尼龟",
+    "french": "Carapuce"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 64,
+    "speed": 43
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 404,
+  "name": {
+    "english": "Luxio",
+    "japanese": "ルクシオ",
+    "chinese": "勒克猫",
+    "french": "Luxio"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 49,
+    "special_attack": 60,
+    "special_defense": 49,
+    "speed": 60
+  }
+}

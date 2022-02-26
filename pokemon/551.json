@@ -1,0 +1,21 @@
+{
+  "id": 551,
+  "name": {
+    "english": "Sandile",
+    "japanese": "メグロコ",
+    "chinese": "黑眼鳄",
+    "french": "Mascaïman"
+  },
+  "type": [
+    "Ground",
+    "Dark"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 72,
+    "defense": 35,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 65
+  }
+}

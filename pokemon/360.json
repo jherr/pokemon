@@ -1,0 +1,20 @@
+{
+  "id": 360,
+  "name": {
+    "english": "Wynaut",
+    "japanese": "ソーナノ",
+    "chinese": "小果然",
+    "french": "Okéoké"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 95,
+    "attack": 23,
+    "defense": 48,
+    "special_attack": 23,
+    "special_defense": 48,
+    "speed": 23
+  }
+}

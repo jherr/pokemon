@@ -1,0 +1,20 @@
+{
+  "id": 517,
+  "name": {
+    "english": "Munna",
+    "japanese": "ムンナ",
+    "chinese": "食梦梦",
+    "french": "Munna"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 76,
+    "attack": 25,
+    "defense": 45,
+    "special_attack": 67,
+    "special_defense": 55,
+    "speed": 24
+  }
+}

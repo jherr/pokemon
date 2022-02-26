@@ -1,0 +1,20 @@
+{
+  "id": 148,
+  "name": {
+    "english": "Dragonair",
+    "japanese": "ハクリュー",
+    "chinese": "哈克龙",
+    "french": "Draco"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "special_attack": 70,
+    "special_defense": 70,
+    "speed": 70
+  }
+}

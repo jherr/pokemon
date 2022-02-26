@@ -1,0 +1,20 @@
+{
+  "id": 665,
+  "name": {
+    "english": "Spewpa",
+    "japanese": "コフーライ",
+    "chinese": "粉蝶蛹",
+    "french": "Pérégrain"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 22,
+    "defense": 60,
+    "special_attack": 27,
+    "special_defense": 30,
+    "speed": 29
+  }
+}

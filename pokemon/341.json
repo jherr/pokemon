@@ -1,0 +1,20 @@
+{
+  "id": 341,
+  "name": {
+    "english": "Corphish",
+    "japanese": "ヘイガニ",
+    "chinese": "龙虾小兵",
+    "french": "Écrapince"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 43,
+    "attack": 80,
+    "defense": 65,
+    "special_attack": 50,
+    "special_defense": 35,
+    "speed": 35
+  }
+}

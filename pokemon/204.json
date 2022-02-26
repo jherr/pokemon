@@ -1,0 +1,20 @@
+{
+  "id": 204,
+  "name": {
+    "english": "Pineco",
+    "japanese": "クヌギダマ",
+    "chinese": "榛果球",
+    "french": "Pomdepik"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 65,
+    "defense": 90,
+    "special_attack": 35,
+    "special_defense": 35,
+    "speed": 15
+  }
+}

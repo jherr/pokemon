@@ -1,0 +1,20 @@
+{
+  "id": 427,
+  "name": {
+    "english": "Buneary",
+    "japanese": "ミミロル",
+    "chinese": "卷卷耳",
+    "french": "Laporeille"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 66,
+    "defense": 44,
+    "special_attack": 44,
+    "special_defense": 56,
+    "speed": 85
+  }
+}

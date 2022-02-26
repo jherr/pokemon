@@ -1,0 +1,20 @@
+{
+  "id": 368,
+  "name": {
+    "english": "Gorebyss",
+    "japanese": "サクラビス",
+    "chinese": "樱花鱼",
+    "french": "Rosabyss"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 84,
+    "defense": 105,
+    "special_attack": 114,
+    "special_defense": 75,
+    "speed": 52
+  }
+}

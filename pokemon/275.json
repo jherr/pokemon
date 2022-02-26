@@ -1,0 +1,21 @@
+{
+  "id": 275,
+  "name": {
+    "english": "Shiftry",
+    "japanese": "ダーテング",
+    "chinese": "狡猾天狗",
+    "french": "Tengalice"
+  },
+  "type": [
+    "Grass",
+    "Dark"
+  ],
+  "base": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 60,
+    "special_attack": 90,
+    "special_defense": 60,
+    "speed": 80
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 193,
+  "name": {
+    "english": "Yanma",
+    "japanese": "ヤンヤンマ",
+    "chinese": "蜻蜻蜓",
+    "french": "Yanma"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 45,
+    "special_attack": 75,
+    "special_defense": 45,
+    "speed": 95
+  }
+}

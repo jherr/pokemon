@@ -1,0 +1,20 @@
+{
+  "id": 328,
+  "name": {
+    "english": "Trapinch",
+    "japanese": "ナックラー",
+    "chinese": "大颚蚁",
+    "french": "Kraknoix"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 100,
+    "defense": 45,
+    "special_attack": 45,
+    "special_defense": 45,
+    "speed": 10
+  }
+}

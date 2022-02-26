@@ -1,0 +1,20 @@
+{
+  "id": 90,
+  "name": {
+    "english": "Shellder",
+    "japanese": "シェルダー",
+    "chinese": "大舌贝",
+    "french": "Kokiyas"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "special_attack": 45,
+    "special_defense": 25,
+    "speed": 40
+  }
+}

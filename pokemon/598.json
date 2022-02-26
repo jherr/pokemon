@@ -1,0 +1,21 @@
+{
+  "id": 598,
+  "name": {
+    "english": "Ferrothorn",
+    "japanese": "ナットレイ",
+    "chinese": "坚果哑铃",
+    "french": "Noacier"
+  },
+  "type": [
+    "Grass",
+    "Steel"
+  ],
+  "base": {
+    "hp": 74,
+    "attack": 94,
+    "defense": 131,
+    "special_attack": 54,
+    "special_defense": 116,
+    "speed": 20
+  }
+}

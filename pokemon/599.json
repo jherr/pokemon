@@ -1,0 +1,20 @@
+{
+  "id": 599,
+  "name": {
+    "english": "Klink",
+    "japanese": "ギアル",
+    "chinese": "齿轮儿",
+    "french": "Tic"
+  },
+  "type": [
+    "Steel"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 55,
+    "defense": 70,
+    "special_attack": 45,
+    "special_defense": 60,
+    "speed": 30
+  }
+}

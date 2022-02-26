@@ -1,0 +1,20 @@
+{
+  "id": 65,
+  "name": {
+    "english": "Alakazam",
+    "japanese": "フーディン",
+    "chinese": "胡地",
+    "french": "Alakazam"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 55,
+    "attack": 50,
+    "defense": 45,
+    "special_attack": 135,
+    "special_defense": 95,
+    "speed": 120
+  }
+}

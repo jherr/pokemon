@@ -1,0 +1,21 @@
+{
+  "id": 757,
+  "name": {
+    "english": "Salandit",
+    "japanese": "ヤトウモリ",
+    "chinese": "夜盗火蜥",
+    "french": "Tritox"
+  },
+  "type": [
+    "Poison",
+    "Fire"
+  ],
+  "base": {
+    "hp": 48,
+    "attack": 44,
+    "defense": 40,
+    "special_attack": 71,
+    "special_defense": 40,
+    "speed": 77
+  }
+}

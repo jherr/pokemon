@@ -1,0 +1,21 @@
+{
+  "id": 760,
+  "name": {
+    "english": "Bewear",
+    "japanese": "キテルグマ",
+    "chinese": "穿着熊",
+    "french": "Chelours"
+  },
+  "type": [
+    "Normal",
+    "Fighting"
+  ],
+  "base": {
+    "hp": 120,
+    "attack": 125,
+    "defense": 80,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 60
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 242,
+  "name": {
+    "english": "Blissey",
+    "japanese": "ハピナス",
+    "chinese": "幸福蛋",
+    "french": "Leuphorie"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 255,
+    "attack": 10,
+    "defense": 10,
+    "special_attack": 75,
+    "special_defense": 135,
+    "speed": 55
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 550,
+  "name": {
+    "english": "Basculin",
+    "japanese": "バスラオ",
+    "chinese": "野蛮鲈鱼",
+    "french": "Bargantua"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 70,
+    "attack": 92,
+    "defense": 65,
+    "special_attack": 80,
+    "special_defense": 55,
+    "speed": 98
+  }
+}

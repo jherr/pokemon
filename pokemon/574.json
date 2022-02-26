@@ -1,0 +1,20 @@
+{
+  "id": 574,
+  "name": {
+    "english": "Gothita",
+    "japanese": "ゴチム",
+    "chinese": "哥德宝宝",
+    "french": "Scrutella"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 50,
+    "special_attack": 55,
+    "special_defense": 65,
+    "speed": 45
+  }
+}

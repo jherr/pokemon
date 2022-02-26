@@ -1,0 +1,20 @@
+{
+  "id": 620,
+  "name": {
+    "english": "Mienshao",
+    "japanese": "コジョンド",
+    "chinese": "师父鼬",
+    "french": "Shaofouine"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 60,
+    "special_attack": 95,
+    "special_defense": 60,
+    "speed": 105
+  }
+}

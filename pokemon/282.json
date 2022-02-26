@@ -1,0 +1,21 @@
+{
+  "id": 282,
+  "name": {
+    "english": "Gardevoir",
+    "japanese": "サーナイト",
+    "chinese": "沙奈朵",
+    "french": "Gardevoir"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "special_attack": 125,
+    "special_defense": 115,
+    "speed": 80
+  }
+}

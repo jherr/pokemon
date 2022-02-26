@@ -1,0 +1,21 @@
+{
+  "id": 720,
+  "name": {
+    "english": "Hoopa",
+    "japanese": "フーパ",
+    "chinese": "胡帕",
+    "french": "Hoopa"
+  },
+  "type": [
+    "Psychic",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 110,
+    "defense": 60,
+    "special_attack": 150,
+    "special_defense": 130,
+    "speed": 70
+  }
+}

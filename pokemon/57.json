@@ -1,0 +1,20 @@
+{
+  "id": 57,
+  "name": {
+    "english": "Primeape",
+    "japanese": "オコリザル",
+    "chinese": "火暴猴",
+    "french": "Colossinge"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "special_attack": 60,
+    "special_defense": 70,
+    "speed": 95
+  }
+}

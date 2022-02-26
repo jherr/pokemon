@@ -1,0 +1,20 @@
+{
+  "id": 325,
+  "name": {
+    "english": "Spoink",
+    "japanese": "バネブー",
+    "chinese": "跳跳猪",
+    "french": "Spoink"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "hp": 60,
+    "attack": 25,
+    "defense": 35,
+    "special_attack": 70,
+    "special_defense": 80,
+    "speed": 60
+  }
+}

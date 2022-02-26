@@ -1,0 +1,20 @@
+{
+  "id": 803,
+  "name": {
+    "english": "Poipole",
+    "japanese": "ベベノム",
+    "chinese": "毒贝比",
+    "french": "Mandrillon"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "hp": 67,
+    "attack": 73,
+    "defense": 67,
+    "special_attack": 73,
+    "special_defense": 67,
+    "speed": 73
+  }
+}

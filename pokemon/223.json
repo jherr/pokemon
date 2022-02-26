@@ -1,0 +1,20 @@
+{
+  "id": 223,
+  "name": {
+    "english": "Remoraid",
+    "japanese": "テッポウオ",
+    "chinese": "铁炮鱼",
+    "french": "Rémoraid"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "hp": 35,
+    "attack": 65,
+    "defense": 35,
+    "special_attack": 65,
+    "special_defense": 35,
+    "speed": 65
+  }
+}

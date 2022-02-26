@@ -1,0 +1,21 @@
+{
+  "id": 622,
+  "name": {
+    "english": "Golett",
+    "japanese": "ゴビット",
+    "chinese": "泥偶小人",
+    "french": "Gringolem"
+  },
+  "type": [
+    "Ground",
+    "Ghost"
+  ],
+  "base": {
+    "hp": 59,
+    "attack": 74,
+    "defense": 50,
+    "special_attack": 35,
+    "special_defense": 50,
+    "speed": 35
+  }
+}

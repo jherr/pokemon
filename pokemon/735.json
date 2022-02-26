@@ -1,0 +1,20 @@
+{
+  "id": 735,
+  "name": {
+    "english": "Gumshoos",
+    "japanese": "デカグース",
+    "chinese": "猫鼬探长",
+    "french": "Argouste"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "hp": 88,
+    "attack": 110,
+    "defense": 60,
+    "special_attack": 55,
+    "special_defense": 60,
+    "speed": 45
+  }
+}

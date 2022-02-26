@@ -1,0 +1,21 @@
+{
+  "id": 165,
+  "name": {
+    "english": "Ledyba",
+    "japanese": "レディバ",
+    "chinese": "芭瓢虫",
+    "french": "Coxy"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "hp": 40,
+    "attack": 20,
+    "defense": 30,
+    "special_attack": 40,
+    "special_defense": 80,
+    "speed": 55
+  }
+}

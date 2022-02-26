@@ -1,0 +1,21 @@
+{
+  "id": 298,
+  "name": {
+    "english": "Azurill",
+    "japanese": "ルリリ",
+    "chinese": "露力丽",
+    "french": "Azurill"
+  },
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "base": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "special_attack": 20,
+    "special_defense": 40,
+    "speed": 20
+  }
+}

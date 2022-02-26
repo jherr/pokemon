@@ -1,0 +1,20 @@
+{
+  "id": 617,
+  "name": {
+    "english": "Accelgor",
+    "japanese": "アギルダー",
+    "chinese": "敏捷虫",
+    "french": "Limaspeed"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 70,
+    "defense": 40,
+    "special_attack": 100,
+    "special_defense": 60,
+    "speed": 145
+  }
+}

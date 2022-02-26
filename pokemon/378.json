@@ -1,0 +1,20 @@
+{
+  "id": 378,
+  "name": {
+    "english": "Regice",
+    "japanese": "レジアイス",
+    "chinese": "雷吉艾斯",
+    "french": "Regice"
+  },
+  "type": [
+    "Ice"
+  ],
+  "base": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 100,
+    "special_attack": 100,
+    "special_defense": 200,
+    "speed": 50
+  }
+}

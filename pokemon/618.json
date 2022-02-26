@@ -1,0 +1,21 @@
+{
+  "id": 618,
+  "name": {
+    "english": "Stunfisk",
+    "japanese": "マッギョ",
+    "chinese": "泥巴鱼",
+    "french": "Limonde"
+  },
+  "type": [
+    "Ground",
+    "Electric"
+  ],
+  "base": {
+    "hp": 109,
+    "attack": 66,
+    "defense": 84,
+    "special_attack": 81,
+    "special_defense": 99,
+    "speed": 32
+  }
+}
