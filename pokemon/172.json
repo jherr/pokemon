@@ -1,21 +1,33 @@
 {
-  "id": 172,
-  "name": {
-    "english": "Pichu",
-    "japanese": "ピチュー",
-    "chinese": "皮丘",
-    "french": "Pichu"
-  },
+  "name": "Pichu",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 20,
-    "attack": 40,
-    "defense": 15,
-    "special_attack": 35,
-    "special_defense": 35,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 20
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 15
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/pichu.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 258,
-  "name": {
-    "english": "Mudkip",
-    "japanese": "ミズゴロウ",
-    "chinese": "水跃鱼",
-    "french": "Gobou"
-  },
+  "name": "Mudkip",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 70,
-    "defense": 50,
-    "special_attack": 50,
-    "special_defense": 50,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/mudkip.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 599,
-  "name": {
-    "english": "Klink",
-    "japanese": "ギアル",
-    "chinese": "齿轮儿",
-    "french": "Tic"
-  },
+  "name": "Klink",
   "type": [
     "Steel"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 55,
-    "defense": 70,
-    "special_attack": 45,
-    "special_defense": 60,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/klink.jpg"
 }

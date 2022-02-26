@@ -1,22 +1,34 @@
 {
-  "id": 380,
-  "name": {
-    "english": "Latias",
-    "japanese": "ラティアス",
-    "chinese": "拉帝亚斯",
-    "french": "Latias"
-  },
+  "name": "Latias",
   "type": [
     "Dragon",
     "Psychic"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 80,
-    "defense": 90,
-    "special_attack": 110,
-    "special_defense": 130,
-    "speed": 110
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
   "image": "images/latias.jpg"
 }

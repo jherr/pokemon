@@ -1,21 +1,33 @@
 {
-  "id": 535,
-  "name": {
-    "english": "Tympole",
-    "japanese": "オタマロ",
-    "chinese": "圆蝌蚪",
-    "french": "Tritonde"
-  },
+  "name": "Tympole",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 50,
-    "defense": 40,
-    "special_attack": 50,
-    "special_defense": 40,
-    "speed": 64
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 64
+    }
+  ],
   "image": "images/tympole.jpg"
 }

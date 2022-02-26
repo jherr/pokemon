@@ -1,21 +1,33 @@
 {
-  "id": 432,
-  "name": {
-    "english": "Purugly",
-    "japanese": "ブニャット",
-    "chinese": "东施喵",
-    "french": "Chaffreux"
-  },
+  "name": "Purugly",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 71,
-    "attack": 82,
-    "defense": 64,
-    "special_attack": 64,
-    "special_defense": 59,
-    "speed": 112
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 64
+    },
+    {
+      "name": "Special Attack",
+      "value": 64
+    },
+    {
+      "name": "Special Defense",
+      "value": 59
+    },
+    {
+      "name": "Speed",
+      "value": 112
+    }
+  ],
   "image": "images/purugly.jpg"
 }

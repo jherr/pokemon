@@ -1,21 +1,33 @@
 {
-  "id": 401,
-  "name": {
-    "english": "Kricketot",
-    "japanese": "コロボーシ",
-    "chinese": "圆法师",
-    "french": "Crikzik"
-  },
+  "name": "Kricketot",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 37,
-    "attack": 25,
-    "defense": 41,
-    "special_attack": 25,
-    "special_defense": 41,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 37
+    },
+    {
+      "name": "Attack",
+      "value": 25
+    },
+    {
+      "name": "Defense",
+      "value": 41
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 41
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/kricketot.jpg"
 }

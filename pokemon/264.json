@@ -1,21 +1,33 @@
 {
-  "id": 264,
-  "name": {
-    "english": "Linoone",
-    "japanese": "マッスグマ",
-    "chinese": "直冲熊",
-    "french": "Linéon"
-  },
+  "name": "Linoone",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 78,
-    "attack": 70,
-    "defense": 61,
-    "special_attack": 50,
-    "special_defense": 61,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 61
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/linoone.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 100,
-  "name": {
-    "english": "Voltorb",
-    "japanese": "ビリリダマ",
-    "chinese": "霹雳电球",
-    "french": "Voltorbe"
-  },
+  "name": "Voltorb",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 30,
-    "defense": 50,
-    "special_attack": 55,
-    "special_defense": 55,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/voltorb.jpg"
 }

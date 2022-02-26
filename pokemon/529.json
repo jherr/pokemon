@@ -1,21 +1,33 @@
 {
-  "id": 529,
-  "name": {
-    "english": "Drilbur",
-    "japanese": "モグリュー",
-    "chinese": "螺钉地鼠",
-    "french": "Rototaupe"
-  },
+  "name": "Drilbur",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 85,
-    "defense": 40,
-    "special_attack": 30,
-    "special_defense": 45,
-    "speed": 68
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
   "image": "images/drilbur.jpg"
 }

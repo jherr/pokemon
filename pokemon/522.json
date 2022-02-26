@@ -1,21 +1,33 @@
 {
-  "id": 522,
-  "name": {
-    "english": "Blitzle",
-    "japanese": "シママ",
-    "chinese": "斑斑马",
-    "french": "Zébibron"
-  },
+  "name": "Blitzle",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 60,
-    "defense": 32,
-    "special_attack": 50,
-    "special_defense": 32,
-    "speed": 76
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 32
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 32
+    },
+    {
+      "name": "Speed",
+      "value": 76
+    }
+  ],
   "image": "images/blitzle.jpg"
 }

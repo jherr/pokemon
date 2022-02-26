@@ -1,21 +1,33 @@
 {
-  "id": 674,
-  "name": {
-    "english": "Pancham",
-    "japanese": "ヤンチャム",
-    "chinese": "顽皮熊猫",
-    "french": "Pandespiègle"
-  },
+  "name": "Pancham",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 67,
-    "attack": 82,
-    "defense": 62,
-    "special_attack": 46,
-    "special_defense": 48,
-    "speed": 43
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 67
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 46
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
   "image": "images/pancham.jpg"
 }

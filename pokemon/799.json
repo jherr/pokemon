@@ -1,22 +1,34 @@
 {
-  "id": 799,
-  "name": {
-    "english": "Guzzlord",
-    "japanese": "アクジキング",
-    "chinese": "恶食大王",
-    "french": "Necrozma"
-  },
+  "name": "Guzzlord",
   "type": [
     "Dark",
     "Dragon"
   ],
-  "base": {
-    "hp": 223,
-    "attack": 101,
-    "defense": 53,
-    "special_attack": 97,
-    "special_defense": 53,
-    "speed": 43
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 223
+    },
+    {
+      "name": "Attack",
+      "value": 101
+    },
+    {
+      "name": "Defense",
+      "value": 53
+    },
+    {
+      "name": "Special Attack",
+      "value": 97
+    },
+    {
+      "name": "Special Defense",
+      "value": 53
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
   "image": "images/guzzlord.jpg"
 }

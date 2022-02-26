@@ -1,22 +1,34 @@
 {
-  "id": 801,
-  "name": {
-    "english": "Magearna",
-    "japanese": "マギアナ",
-    "chinese": "玛机雅娜",
-    "french": "Marshadow"
-  },
+  "name": "Magearna",
   "type": [
     "Steel",
     "Fairy"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 95,
-    "defense": 115,
-    "special_attack": 130,
-    "special_defense": 115,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 115
+    },
+    {
+      "name": "Special Attack",
+      "value": 130
+    },
+    {
+      "name": "Special Defense",
+      "value": 115
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/magearna.jpg"
 }

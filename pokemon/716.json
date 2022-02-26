@@ -1,21 +1,33 @@
 {
-  "id": 716,
-  "name": {
-    "english": "Xerneas",
-    "japanese": "ゼルネアス",
-    "chinese": "哲尔尼亚斯",
-    "french": "Xerneas"
-  },
+  "name": "Xerneas",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 126,
-    "attack": 131,
-    "defense": 95,
-    "special_attack": 131,
-    "special_defense": 98,
-    "speed": 99
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 126
+    },
+    {
+      "name": "Attack",
+      "value": 131
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 131
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 99
+    }
+  ],
   "image": "images/xerneas.jpg"
 }

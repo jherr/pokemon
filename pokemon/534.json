@@ -1,21 +1,33 @@
 {
-  "id": 534,
-  "name": {
-    "english": "Conkeldurr",
-    "japanese": "ローブシン",
-    "chinese": "修建老匠",
-    "french": "Bétochef"
-  },
+  "name": "Conkeldurr",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 105,
-    "attack": 140,
-    "defense": 95,
-    "special_attack": 55,
-    "special_defense": 65,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 105
+    },
+    {
+      "name": "Attack",
+      "value": 140
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/conkeldurr.jpg"
 }

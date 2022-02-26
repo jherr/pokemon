@@ -1,21 +1,33 @@
 {
-  "id": 234,
-  "name": {
-    "english": "Stantler",
-    "japanese": "オドシシ",
-    "chinese": "惊角鹿",
-    "french": "Cerfrousse"
-  },
+  "name": "Stantler",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 73,
-    "attack": 95,
-    "defense": 62,
-    "special_attack": 85,
-    "special_defense": 65,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 73
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/stantler.jpg"
 }

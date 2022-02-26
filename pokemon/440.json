@@ -1,21 +1,33 @@
 {
-  "id": 440,
-  "name": {
-    "english": "Happiny",
-    "japanese": "ピンプク",
-    "chinese": "小福蛋",
-    "french": "Ptiravi"
-  },
+  "name": "Happiny",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 5,
-    "defense": 5,
-    "special_attack": 15,
-    "special_defense": 65,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 5
+    },
+    {
+      "name": "Defense",
+      "value": 5
+    },
+    {
+      "name": "Special Attack",
+      "value": 15
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/happiny.jpg"
 }

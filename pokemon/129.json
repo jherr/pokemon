@@ -1,21 +1,33 @@
 {
-  "id": 129,
-  "name": {
-    "english": "Magikarp",
-    "japanese": "コイキング",
-    "chinese": "鲤鱼王",
-    "french": "Magicarpe"
-  },
+  "name": "Magikarp",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 20,
-    "attack": 10,
-    "defense": 55,
-    "special_attack": 15,
-    "special_defense": 20,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 20
+    },
+    {
+      "name": "Attack",
+      "value": 10
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 15
+    },
+    {
+      "name": "Special Defense",
+      "value": 20
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/magikarp.jpg"
 }

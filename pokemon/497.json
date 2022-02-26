@@ -1,21 +1,33 @@
 {
-  "id": 497,
-  "name": {
-    "english": "Serperior",
-    "japanese": "ジャローダ",
-    "chinese": "君主蛇",
-    "french": "Majaspic"
-  },
+  "name": "Serperior",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 75,
-    "defense": 95,
-    "special_attack": 75,
-    "special_defense": 95,
-    "speed": 113
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 113
+    }
+  ],
   "image": "images/serperior.jpg"
 }

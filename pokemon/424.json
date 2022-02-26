@@ -1,21 +1,33 @@
 {
-  "id": 424,
-  "name": {
-    "english": "Ambipom",
-    "japanese": "エテボース",
-    "chinese": "双尾怪手",
-    "french": "Capidextre"
-  },
+  "name": "Ambipom",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 100,
-    "defense": 66,
-    "special_attack": 60,
-    "special_defense": 66,
-    "speed": 115
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 66
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 66
+    },
+    {
+      "name": "Speed",
+      "value": 115
+    }
+  ],
   "image": "images/ambipom.jpg"
 }

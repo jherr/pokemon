@@ -1,21 +1,33 @@
 {
-  "id": 24,
-  "name": {
-    "english": "Arbok",
-    "japanese": "アーボック",
-    "chinese": "阿柏怪",
-    "french": "Arbok"
-  },
+  "name": "Arbok",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 95,
-    "defense": 69,
-    "special_attack": 65,
-    "special_defense": 79,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 69
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 79
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/arbok.jpg"
 }

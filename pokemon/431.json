@@ -1,21 +1,33 @@
 {
-  "id": 431,
-  "name": {
-    "english": "Glameow",
-    "japanese": "ニャルマー",
-    "chinese": "魅力喵",
-    "french": "Chaglam"
-  },
+  "name": "Glameow",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 49,
-    "attack": 55,
-    "defense": 42,
-    "special_attack": 42,
-    "special_defense": 37,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 49
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 42
+    },
+    {
+      "name": "Special Attack",
+      "value": 42
+    },
+    {
+      "name": "Special Defense",
+      "value": 37
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/glameow.jpg"
 }

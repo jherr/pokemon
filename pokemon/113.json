@@ -1,21 +1,33 @@
 {
-  "id": 113,
-  "name": {
-    "english": "Chansey",
-    "japanese": "ラッキー",
-    "chinese": "吉利蛋",
-    "french": "Leveinard"
-  },
+  "name": "Chansey",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 250,
-    "attack": 5,
-    "defense": 5,
-    "special_attack": 35,
-    "special_defense": 105,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 250
+    },
+    {
+      "name": "Attack",
+      "value": 5
+    },
+    {
+      "name": "Defense",
+      "value": 5
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 105
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/chansey.jpg"
 }

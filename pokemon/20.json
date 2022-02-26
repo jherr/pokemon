@@ -1,21 +1,33 @@
 {
-  "id": 20,
-  "name": {
-    "english": "Raticate",
-    "japanese": "ラッタ",
-    "chinese": "拉达",
-    "french": "Rattatac"
-  },
+  "name": "Raticate",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 81,
-    "defense": 60,
-    "special_attack": 50,
-    "special_defense": 70,
-    "speed": 97
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 81
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 97
+    }
+  ],
   "image": "images/raticate.jpg"
 }

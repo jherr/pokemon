@@ -1,21 +1,33 @@
 {
-  "id": 160,
-  "name": {
-    "english": "Feraligatr",
-    "japanese": "オーダイル",
-    "chinese": "大力鳄",
-    "french": "Aligatueur"
-  },
+  "name": "Feraligatr",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 105,
-    "defense": 100,
-    "special_attack": 79,
-    "special_defense": 83,
-    "speed": 78
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 79
+    },
+    {
+      "name": "Special Defense",
+      "value": 83
+    },
+    {
+      "name": "Speed",
+      "value": 78
+    }
+  ],
   "image": "images/feraligatr.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 200,
-  "name": {
-    "english": "Misdreavus",
-    "japanese": "ムウマ",
-    "chinese": "梦妖",
-    "french": "Feuforêve"
-  },
+  "name": "Misdreavus",
   "type": [
     "Ghost"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 60,
-    "defense": 60,
-    "special_attack": 85,
-    "special_defense": 85,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/misdreavus.jpg"
 }

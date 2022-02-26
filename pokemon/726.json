@@ -1,21 +1,33 @@
 {
-  "id": 726,
-  "name": {
-    "english": "Torracat",
-    "japanese": "ニャヒート",
-    "chinese": "炎热喵",
-    "french": "Matoufeu"
-  },
+  "name": "Torracat",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 85,
-    "defense": 50,
-    "special_attack": 80,
-    "special_defense": 50,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/torracat.jpg"
 }

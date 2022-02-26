@@ -1,21 +1,33 @@
 {
-  "id": 181,
-  "name": {
-    "english": "Ampharos",
-    "japanese": "デンリュウ",
-    "chinese": "电龙",
-    "french": "Pharamp"
-  },
+  "name": "Ampharos",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 75,
-    "defense": 85,
-    "special_attack": 115,
-    "special_defense": 90,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 115
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/ampharos.jpg"
 }

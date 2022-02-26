@@ -1,21 +1,33 @@
 {
-  "id": 67,
-  "name": {
-    "english": "Machoke",
-    "japanese": "ゴーリキー",
-    "chinese": "豪力",
-    "french": "Machopeur"
-  },
+  "name": "Machoke",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 100,
-    "defense": 70,
-    "special_attack": 50,
-    "special_defense": 60,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/machoke.jpg"
 }

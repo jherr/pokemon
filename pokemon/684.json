@@ -1,21 +1,33 @@
 {
-  "id": 684,
-  "name": {
-    "english": "Swirlix",
-    "japanese": "ペロッパフ",
-    "chinese": "绵绵泡芙",
-    "french": "Sucroquin"
-  },
+  "name": "Swirlix",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 62,
-    "attack": 48,
-    "defense": 66,
-    "special_attack": 59,
-    "special_defense": 57,
-    "speed": 49
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 62
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 66
+    },
+    {
+      "name": "Special Attack",
+      "value": 59
+    },
+    {
+      "name": "Special Defense",
+      "value": 57
+    },
+    {
+      "name": "Speed",
+      "value": 49
+    }
+  ],
   "image": "images/swirlix.jpg"
 }

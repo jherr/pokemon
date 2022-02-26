@@ -1,21 +1,33 @@
 {
-  "id": 52,
-  "name": {
-    "english": "Meowth",
-    "japanese": "ニャース",
-    "chinese": "喵喵",
-    "french": "Miaouss"
-  },
+  "name": "Meowth",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 45,
-    "defense": 35,
-    "special_attack": 40,
-    "special_defense": 40,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/meowth.jpg"
 }

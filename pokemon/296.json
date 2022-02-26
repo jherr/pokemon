@@ -1,21 +1,33 @@
 {
-  "id": 296,
-  "name": {
-    "english": "Makuhita",
-    "japanese": "マクノシタ",
-    "chinese": "幕下力士",
-    "french": "Makuhita"
-  },
+  "name": "Makuhita",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 72,
-    "attack": 60,
-    "defense": 30,
-    "special_attack": 20,
-    "special_defense": 30,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 72
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/makuhita.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 803,
-  "name": {
-    "english": "Poipole",
-    "japanese": "ベベノム",
-    "chinese": "毒贝比",
-    "french": "Mandrillon"
-  },
+  "name": "Poipole",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 67,
-    "attack": 73,
-    "defense": 67,
-    "special_attack": 73,
-    "special_defense": 67,
-    "speed": 73
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 67
+    },
+    {
+      "name": "Attack",
+      "value": 73
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 73
+    },
+    {
+      "name": "Special Defense",
+      "value": 67
+    },
+    {
+      "name": "Speed",
+      "value": 73
+    }
+  ],
   "image": "images/poipole.jpg"
 }

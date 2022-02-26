@@ -1,21 +1,33 @@
 {
-  "id": 232,
-  "name": {
-    "english": "Donphan",
-    "japanese": "ドンファン",
-    "chinese": "顿甲",
-    "french": "Donphan"
-  },
+  "name": "Donphan",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 120,
-    "defense": 120,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 120
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/donphan.jpg"
 }

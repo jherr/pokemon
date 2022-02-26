@@ -1,21 +1,33 @@
 {
-  "id": 349,
-  "name": {
-    "english": "Feebas",
-    "japanese": "ヒンバス",
-    "chinese": "丑丑鱼",
-    "french": "Barpau"
-  },
+  "name": "Feebas",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 20,
-    "attack": 15,
-    "defense": 20,
-    "special_attack": 10,
-    "special_defense": 55,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 20
+    },
+    {
+      "name": "Attack",
+      "value": 15
+    },
+    {
+      "name": "Defense",
+      "value": 20
+    },
+    {
+      "name": "Special Attack",
+      "value": 10
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/feebas.jpg"
 }

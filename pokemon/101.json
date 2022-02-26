@@ -1,21 +1,33 @@
 {
-  "id": 101,
-  "name": {
-    "english": "Electrode",
-    "japanese": "マルマイン",
-    "chinese": "顽皮雷弹",
-    "french": "Électrode"
-  },
+  "name": "Electrode",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 50,
-    "defense": 70,
-    "special_attack": 80,
-    "special_defense": 80,
-    "speed": 150
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 150
+    }
+  ],
   "image": "images/electrode.jpg"
 }

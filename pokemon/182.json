@@ -1,21 +1,33 @@
 {
-  "id": 182,
-  "name": {
-    "english": "Bellossom",
-    "japanese": "キレイハナ",
-    "chinese": "美丽花",
-    "french": "Joliflor"
-  },
+  "name": "Bellossom",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 80,
-    "defense": 95,
-    "special_attack": 90,
-    "special_defense": 100,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/bellossom.jpg"
 }

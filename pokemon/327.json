@@ -1,21 +1,33 @@
 {
-  "id": 327,
-  "name": {
-    "english": "Spinda",
-    "japanese": "パッチール",
-    "chinese": "晃晃斑",
-    "french": "Spinda"
-  },
+  "name": "Spinda",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 60,
-    "defense": 60,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/spinda.jpg"
 }

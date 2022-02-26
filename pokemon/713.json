@@ -1,21 +1,33 @@
 {
-  "id": 713,
-  "name": {
-    "english": "Avalugg",
-    "japanese": "クレベース",
-    "chinese": "冰岩怪",
-    "french": "Séracrawl"
-  },
+  "name": "Avalugg",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 117,
-    "defense": 184,
-    "special_attack": 44,
-    "special_defense": 46,
-    "speed": 28
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 117
+    },
+    {
+      "name": "Defense",
+      "value": 184
+    },
+    {
+      "name": "Special Attack",
+      "value": 44
+    },
+    {
+      "name": "Special Defense",
+      "value": 46
+    },
+    {
+      "name": "Speed",
+      "value": 28
+    }
+  ],
   "image": "images/avalugg.jpg"
 }

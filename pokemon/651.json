@@ -1,21 +1,33 @@
 {
-  "id": 651,
-  "name": {
-    "english": "Quilladin",
-    "japanese": "ハリボーグ",
-    "chinese": "胖胖哈力",
-    "french": "Boguérisse"
-  },
+  "name": "Quilladin",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 61,
-    "attack": 78,
-    "defense": 95,
-    "special_attack": 56,
-    "special_defense": 58,
-    "speed": 57
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 61
+    },
+    {
+      "name": "Attack",
+      "value": 78
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 56
+    },
+    {
+      "name": "Special Defense",
+      "value": 58
+    },
+    {
+      "name": "Speed",
+      "value": 57
+    }
+  ],
   "image": "images/quilladin.jpg"
 }

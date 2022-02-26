@@ -1,21 +1,33 @@
 {
-  "id": 641,
-  "name": {
-    "english": "Tornadus",
-    "japanese": "トルネロス",
-    "chinese": "龙卷云",
-    "french": "Boréas"
-  },
+  "name": "Tornadus",
   "type": [
     "Flying"
   ],
-  "base": {
-    "hp": 79,
-    "attack": 115,
-    "defense": 70,
-    "special_attack": 125,
-    "special_defense": 80,
-    "speed": 111
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 79
+    },
+    {
+      "name": "Attack",
+      "value": 115
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 125
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 111
+    }
+  ],
   "image": "images/tornadus.jpg"
 }

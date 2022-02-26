@@ -1,21 +1,33 @@
 {
-  "id": 255,
-  "name": {
-    "english": "Torchic",
-    "japanese": "アチャモ",
-    "chinese": "火稚鸡",
-    "french": "Poussifeu"
-  },
+  "name": "Torchic",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 60,
-    "defense": 40,
-    "special_attack": 70,
-    "special_defense": 50,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/torchic.jpg"
 }

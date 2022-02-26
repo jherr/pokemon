@@ -1,22 +1,34 @@
 {
-  "id": 283,
-  "name": {
-    "english": "Surskit",
-    "japanese": "アメタマ",
-    "chinese": "溜溜糖球",
-    "french": "Arakdo"
-  },
+  "name": "Surskit",
   "type": [
     "Bug",
     "Water"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 30,
-    "defense": 32,
-    "special_attack": 50,
-    "special_defense": 52,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 32
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 52
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/surskit.jpg"
 }

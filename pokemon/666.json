@@ -1,22 +1,34 @@
 {
-  "id": 666,
-  "name": {
-    "english": "Vivillon",
-    "japanese": "ビビヨン",
-    "chinese": "彩粉蝶",
-    "french": "Prismillon"
-  },
+  "name": "Vivillon",
   "type": [
     "Bug",
     "Flying"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 52,
-    "defense": 50,
-    "special_attack": 90,
-    "special_defense": 50,
-    "speed": 89
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 52
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 89
+    }
+  ],
   "image": "images/vivillon.jpg"
 }

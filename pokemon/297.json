@@ -1,21 +1,33 @@
 {
-  "id": 297,
-  "name": {
-    "english": "Hariyama",
-    "japanese": "ハリテヤマ",
-    "chinese": "铁掌力士",
-    "french": "Hariyama"
-  },
+  "name": "Hariyama",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 144,
-    "attack": 120,
-    "defense": 60,
-    "special_attack": 40,
-    "special_defense": 60,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 144
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/hariyama.jpg"
 }

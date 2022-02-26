@@ -1,21 +1,33 @@
 {
-  "id": 361,
-  "name": {
-    "english": "Snorunt",
-    "japanese": "ユキワラシ",
-    "chinese": "雪童子",
-    "french": "Stalgamin"
-  },
+  "name": "Snorunt",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 50,
-    "defense": 50,
-    "special_attack": 50,
-    "special_defense": 50,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/snorunt.jpg"
 }

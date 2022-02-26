@@ -1,21 +1,33 @@
 {
-  "id": 173,
-  "name": {
-    "english": "Cleffa",
-    "japanese": "ピィ",
-    "chinese": "皮宝宝",
-    "french": "Mélo"
-  },
+  "name": "Cleffa",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 25,
-    "defense": 28,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 15
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 25
+    },
+    {
+      "name": "Defense",
+      "value": 28
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 15
+    }
+  ],
   "image": "images/cleffa.jpg"
 }

@@ -1,22 +1,34 @@
 {
-  "id": 46,
-  "name": {
-    "english": "Paras",
-    "japanese": "パラス",
-    "chinese": "派拉斯",
-    "french": "Paras"
-  },
+  "name": "Paras",
   "type": [
     "Bug",
     "Grass"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 70,
-    "defense": 55,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/paras.jpg"
 }

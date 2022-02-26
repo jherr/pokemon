@@ -1,21 +1,33 @@
 {
-  "id": 196,
-  "name": {
-    "english": "Espeon",
-    "japanese": "エーフィ",
-    "chinese": "太阳伊布",
-    "french": "Mentali"
-  },
+  "name": "Espeon",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 65,
-    "defense": 60,
-    "special_attack": 130,
-    "special_defense": 95,
-    "speed": 110
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 130
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
   "image": "images/espeon.jpg"
 }

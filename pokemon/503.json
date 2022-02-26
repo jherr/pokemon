@@ -1,21 +1,33 @@
 {
-  "id": 503,
-  "name": {
-    "english": "Samurott",
-    "japanese": "ダイケンキ",
-    "chinese": "大剑鬼",
-    "french": "Clamiral"
-  },
+  "name": "Samurott",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 100,
-    "defense": 85,
-    "special_attack": 108,
-    "special_defense": 70,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 108
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/samurott.jpg"
 }

@@ -1,22 +1,34 @@
 {
-  "id": 205,
-  "name": {
-    "english": "Forretress",
-    "japanese": "フォレトス",
-    "chinese": "佛烈托斯",
-    "french": "Foretress"
-  },
+  "name": "Forretress",
   "type": [
     "Bug",
     "Steel"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 90,
-    "defense": 140,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 140
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/forretress.jpg"
 }

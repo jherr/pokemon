@@ -1,21 +1,33 @@
 {
-  "id": 421,
-  "name": {
-    "english": "Cherrim",
-    "japanese": "チェリム",
-    "chinese": "樱花儿",
-    "french": "Ceriflor"
-  },
+  "name": "Cherrim",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 60,
-    "defense": 70,
-    "special_attack": 87,
-    "special_defense": 78,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 87
+    },
+    {
+      "name": "Special Defense",
+      "value": 78
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/cherrim.jpg"
 }

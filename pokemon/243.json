@@ -1,21 +1,33 @@
 {
-  "id": 243,
-  "name": {
-    "english": "Raikou",
-    "japanese": "ライコウ",
-    "chinese": "雷公",
-    "french": "Raikou"
-  },
+  "name": "Raikou",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 85,
-    "defense": 75,
-    "special_attack": 115,
-    "special_defense": 100,
-    "speed": 115
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 115
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 115
+    }
+  ],
   "image": "images/raikou.jpg"
 }

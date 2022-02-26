@@ -1,21 +1,33 @@
 {
-  "id": 506,
-  "name": {
-    "english": "Lillipup",
-    "japanese": "ヨーテリー",
-    "chinese": "小约克",
-    "french": "Ponchiot"
-  },
+  "name": "Lillipup",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 60,
-    "defense": 45,
-    "special_attack": 25,
-    "special_defense": 45,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/lillipup.jpg"
 }

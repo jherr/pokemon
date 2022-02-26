@@ -1,22 +1,34 @@
 {
-  "id": 724,
-  "name": {
-    "english": "Decidueye",
-    "japanese": "ジュナイパー",
-    "chinese": "狙射树枭",
-    "french": "Archéduc"
-  },
+  "name": "Decidueye",
   "type": [
     "Grass",
     "Ghost"
   ],
-  "base": {
-    "hp": 78,
-    "attack": 107,
-    "defense": 75,
-    "special_attack": 100,
-    "special_defense": 100,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 107
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/decidueye.jpg"
 }

@@ -1,22 +1,34 @@
 {
-  "id": 203,
-  "name": {
-    "english": "Girafarig",
-    "japanese": "キリンリキ",
-    "chinese": "麒麟奇",
-    "french": "Girafarig"
-  },
+  "name": "Girafarig",
   "type": [
     "Normal",
     "Psychic"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 80,
-    "defense": 65,
-    "special_attack": 90,
-    "special_defense": 65,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/girafarig.jpg"
 }

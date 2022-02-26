@@ -1,21 +1,33 @@
 {
-  "id": 387,
-  "name": {
-    "english": "Turtwig",
-    "japanese": "ナエトル",
-    "chinese": "草苗龟",
-    "french": "Tortipouss"
-  },
+  "name": "Turtwig",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 68,
-    "defense": 64,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 31
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 68
+    },
+    {
+      "name": "Defense",
+      "value": 64
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 31
+    }
+  ],
   "image": "images/turtwig.jpg"
 }

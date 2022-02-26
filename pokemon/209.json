@@ -1,21 +1,33 @@
 {
-  "id": 209,
-  "name": {
-    "english": "Snubbull",
-    "japanese": "ブルー",
-    "chinese": "布鲁",
-    "french": "Snubbull"
-  },
+  "name": "Snubbull",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 80,
-    "defense": 50,
-    "special_attack": 40,
-    "special_defense": 40,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/snubbull.jpg"
 }

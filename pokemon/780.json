@@ -1,22 +1,34 @@
 {
-  "id": 780,
-  "name": {
-    "english": "Drampa",
-    "japanese": "ジジーロン",
-    "chinese": "老翁龙",
-    "french": "Sinistrail"
-  },
+  "name": "Drampa",
   "type": [
     "Normal",
     "Dragon"
   ],
-  "base": {
-    "hp": 78,
-    "attack": 60,
-    "defense": 85,
-    "special_attack": 135,
-    "special_defense": 91,
-    "speed": 36
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 135
+    },
+    {
+      "name": "Special Defense",
+      "value": 91
+    },
+    {
+      "name": "Speed",
+      "value": 36
+    }
+  ],
   "image": "images/drampa.jpg"
 }

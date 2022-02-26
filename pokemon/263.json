@@ -1,21 +1,33 @@
 {
-  "id": 263,
-  "name": {
-    "english": "Zigzagoon",
-    "japanese": "ジグザグマ",
-    "chinese": "蛇纹熊",
-    "french": "Zigzaton"
-  },
+  "name": "Zigzagoon",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 38,
-    "attack": 30,
-    "defense": 41,
-    "special_attack": 30,
-    "special_defense": 41,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 41
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 41
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/zigzagoon.jpg"
 }

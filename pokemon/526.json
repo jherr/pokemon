@@ -1,21 +1,33 @@
 {
-  "id": 526,
-  "name": {
-    "english": "Gigalith",
-    "japanese": "ギガイアス",
-    "chinese": "庞岩怪",
-    "french": "Gigalithe"
-  },
+  "name": "Gigalith",
   "type": [
     "Rock"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 135,
-    "defense": 130,
-    "special_attack": 60,
-    "special_defense": 80,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 135
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/gigalith.jpg"
 }

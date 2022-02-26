@@ -1,21 +1,33 @@
 {
-  "id": 350,
-  "name": {
-    "english": "Milotic",
-    "japanese": "ミロカロス",
-    "chinese": "美纳斯",
-    "french": "Milobellus"
-  },
+  "name": "Milotic",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 60,
-    "defense": 79,
-    "special_attack": 100,
-    "special_defense": 125,
-    "speed": 81
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 79
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 125
+    },
+    {
+      "name": "Speed",
+      "value": 81
+    }
+  ],
   "image": "images/milotic.jpg"
 }

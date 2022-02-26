@@ -1,21 +1,33 @@
 {
-  "id": 685,
-  "name": {
-    "english": "Slurpuff",
-    "japanese": "ペロリーム",
-    "chinese": "胖甜妮",
-    "french": "Cupcanaille"
-  },
+  "name": "Slurpuff",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 82,
-    "attack": 80,
-    "defense": 86,
-    "special_attack": 85,
-    "special_defense": 75,
-    "speed": 72
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 82
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 86
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
   "image": "images/slurpuff.jpg"
 }

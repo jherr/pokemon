@@ -1,22 +1,34 @@
 {
-  "id": 395,
-  "name": {
-    "english": "Empoleon",
-    "japanese": "エンペルト",
-    "chinese": "帝王拿波",
-    "french": "Pingoléon"
-  },
+  "name": "Empoleon",
   "type": [
     "Water",
     "Steel"
   ],
-  "base": {
-    "hp": 84,
-    "attack": 86,
-    "defense": 88,
-    "special_attack": 111,
-    "special_defense": 101,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 84
+    },
+    {
+      "name": "Attack",
+      "value": 86
+    },
+    {
+      "name": "Defense",
+      "value": 88
+    },
+    {
+      "name": "Special Attack",
+      "value": 111
+    },
+    {
+      "name": "Special Defense",
+      "value": 101
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/empoleon.jpg"
 }

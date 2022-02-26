@@ -1,22 +1,34 @@
 {
-  "id": 618,
-  "name": {
-    "english": "Stunfisk",
-    "japanese": "マッギョ",
-    "chinese": "泥巴鱼",
-    "french": "Limonde"
-  },
+  "name": "Stunfisk",
   "type": [
     "Ground",
     "Electric"
   ],
-  "base": {
-    "hp": 109,
-    "attack": 66,
-    "defense": 84,
-    "special_attack": 81,
-    "special_defense": 99,
-    "speed": 32
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 109
+    },
+    {
+      "name": "Attack",
+      "value": 66
+    },
+    {
+      "name": "Defense",
+      "value": 84
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 99
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
   "image": "images/stunfisk.jpg"
 }

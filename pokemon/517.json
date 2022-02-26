@@ -1,21 +1,33 @@
 {
-  "id": 517,
-  "name": {
-    "english": "Munna",
-    "japanese": "ムンナ",
-    "chinese": "食梦梦",
-    "french": "Munna"
-  },
+  "name": "Munna",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 76,
-    "attack": 25,
-    "defense": 45,
-    "special_attack": 67,
-    "special_defense": 55,
-    "speed": 24
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 76
+    },
+    {
+      "name": "Attack",
+      "value": 25
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 67
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 24
+    }
+  ],
   "image": "images/munna.jpg"
 }

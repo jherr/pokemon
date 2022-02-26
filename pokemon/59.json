@@ -1,21 +1,33 @@
 {
-  "id": 59,
-  "name": {
-    "english": "Arcanine",
-    "japanese": "ウインディ",
-    "chinese": "风速狗",
-    "french": "Arcanin"
-  },
+  "name": "Arcanine",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 110,
-    "defense": 80,
-    "special_attack": 100,
-    "special_defense": 80,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/arcanine.jpg"
 }

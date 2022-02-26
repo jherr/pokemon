@@ -1,21 +1,33 @@
 {
-  "id": 428,
-  "name": {
-    "english": "Lopunny",
-    "japanese": "ミミロップ",
-    "chinese": "长耳兔",
-    "french": "Lockpin"
-  },
+  "name": "Lopunny",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 76,
-    "defense": 84,
-    "special_attack": 54,
-    "special_defense": 96,
-    "speed": 105
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 76
+    },
+    {
+      "name": "Defense",
+      "value": 84
+    },
+    {
+      "name": "Special Attack",
+      "value": 54
+    },
+    {
+      "name": "Special Defense",
+      "value": 96
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
   "image": "images/lopunny.jpg"
 }

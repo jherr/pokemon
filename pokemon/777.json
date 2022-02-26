@@ -1,22 +1,34 @@
 {
-  "id": 777,
-  "name": {
-    "english": "Togedemaru",
-    "japanese": "トゲデマル",
-    "chinese": "托戈德玛尔",
-    "french": "Mimiqui"
-  },
+  "name": "Togedemaru",
   "type": [
     "Electric",
     "Steel"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 98,
-    "defense": 63,
-    "special_attack": 40,
-    "special_defense": 73,
-    "speed": 96
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 98
+    },
+    {
+      "name": "Defense",
+      "value": 63
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 73
+    },
+    {
+      "name": "Speed",
+      "value": 96
+    }
+  ],
   "image": "images/togedemaru.jpg"
 }

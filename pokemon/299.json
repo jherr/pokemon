@@ -1,21 +1,33 @@
 {
-  "id": 299,
-  "name": {
-    "english": "Nosepass",
-    "japanese": "ノズパス",
-    "chinese": "朝北鼻",
-    "french": "Tarinor"
-  },
+  "name": "Nosepass",
   "type": [
     "Rock"
   ],
-  "base": {
-    "hp": 30,
-    "attack": 45,
-    "defense": 135,
-    "special_attack": 45,
-    "special_defense": 90,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 135
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/nosepass.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 98,
-  "name": {
-    "english": "Krabby",
-    "japanese": "クラブ",
-    "chinese": "大钳蟹",
-    "french": "Krabby"
-  },
+  "name": "Krabby",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 30,
-    "attack": 105,
-    "defense": 90,
-    "special_attack": 25,
-    "special_defense": 25,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/krabby.jpg"
 }

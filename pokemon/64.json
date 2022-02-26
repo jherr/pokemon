@@ -1,21 +1,33 @@
 {
-  "id": 64,
-  "name": {
-    "english": "Kadabra",
-    "japanese": "ユンゲラー",
-    "chinese": "勇基拉",
-    "french": "Kadabra"
-  },
+  "name": "Kadabra",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 35,
-    "defense": 30,
-    "special_attack": 120,
-    "special_defense": 70,
-    "speed": 105
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 120
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
   "image": "images/kadabra.jpg"
 }

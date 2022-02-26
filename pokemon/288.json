@@ -1,21 +1,33 @@
 {
-  "id": 288,
-  "name": {
-    "english": "Vigoroth",
-    "japanese": "ヤルキモノ",
-    "chinese": "过动猿",
-    "french": "Vigoroth"
-  },
+  "name": "Vigoroth",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 80,
-    "defense": 80,
-    "special_attack": 55,
-    "special_defense": 55,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/vigoroth.jpg"
 }

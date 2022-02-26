@@ -1,21 +1,33 @@
 {
-  "id": 789,
-  "name": {
-    "english": "Cosmog",
-    "japanese": "コスモッグ",
-    "chinese": "科斯莫古",
-    "french": "Cosmovum"
-  },
+  "name": "Cosmog",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 43,
-    "attack": 29,
-    "defense": 31,
-    "special_attack": 29,
-    "special_defense": 31,
-    "speed": 37
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 43
+    },
+    {
+      "name": "Attack",
+      "value": 29
+    },
+    {
+      "name": "Defense",
+      "value": 31
+    },
+    {
+      "name": "Special Attack",
+      "value": 29
+    },
+    {
+      "name": "Special Defense",
+      "value": 31
+    },
+    {
+      "name": "Speed",
+      "value": 37
+    }
+  ],
   "image": "images/cosmog.jpg"
 }

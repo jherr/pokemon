@@ -1,21 +1,33 @@
 {
-  "id": 471,
-  "name": {
-    "english": "Glaceon",
-    "japanese": "グレイシア",
-    "chinese": "冰伊布",
-    "french": "Givrali"
-  },
+  "name": "Glaceon",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 60,
-    "defense": 110,
-    "special_attack": 130,
-    "special_defense": 95,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 110
+    },
+    {
+      "name": "Special Attack",
+      "value": 130
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/glaceon.jpg"
 }

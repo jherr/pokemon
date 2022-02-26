@@ -1,21 +1,33 @@
 {
-  "id": 604,
-  "name": {
-    "english": "Eelektross",
-    "japanese": "シビルドン",
-    "chinese": "麻麻鳗鱼王",
-    "french": "Ohmassacre"
-  },
+  "name": "Eelektross",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 115,
-    "defense": 80,
-    "special_attack": 105,
-    "special_defense": 80,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 115
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/eelektross.jpg"
 }

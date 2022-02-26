@@ -1,21 +1,33 @@
 {
-  "id": 404,
-  "name": {
-    "english": "Luxio",
-    "japanese": "ルクシオ",
-    "chinese": "勒克猫",
-    "french": "Luxio"
-  },
+  "name": "Luxio",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 85,
-    "defense": 49,
-    "special_attack": 60,
-    "special_defense": 49,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 49
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 49
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/luxio.jpg"
 }

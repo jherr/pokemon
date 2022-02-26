@@ -1,22 +1,34 @@
 {
-  "id": 425,
-  "name": {
-    "english": "Drifloon",
-    "japanese": "フワンテ",
-    "chinese": "飘飘球",
-    "french": "Baudrive"
-  },
+  "name": "Drifloon",
   "type": [
     "Ghost",
     "Flying"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 50,
-    "defense": 34,
-    "special_attack": 60,
-    "special_defense": 44,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 34
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 44
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/drifloon.jpg"
 }

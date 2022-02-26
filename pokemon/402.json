@@ -1,21 +1,33 @@
 {
-  "id": 402,
-  "name": {
-    "english": "Kricketune",
-    "japanese": "コロトック",
-    "chinese": "音箱蟀",
-    "french": "Mélokrik"
-  },
+  "name": "Kricketune",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 77,
-    "attack": 85,
-    "defense": 51,
-    "special_attack": 55,
-    "special_defense": 51,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 77
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 51
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 51
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/kricketune.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 763,
-  "name": {
-    "english": "Tsareena",
-    "japanese": "アマージョ",
-    "chinese": "甜冷美后",
-    "french": "Sucreine"
-  },
+  "name": "Tsareena",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 72,
-    "attack": 120,
-    "defense": 98,
-    "special_attack": 50,
-    "special_defense": 98,
-    "speed": 72
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 72
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 98
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
   "image": "images/tsareena.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 447,
-  "name": {
-    "english": "Riolu",
-    "japanese": "リオル",
-    "chinese": "利欧路",
-    "french": "Riolu"
-  },
+  "name": "Riolu",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 70,
-    "defense": 40,
-    "special_attack": 35,
-    "special_defense": 40,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/riolu.jpg"
 }

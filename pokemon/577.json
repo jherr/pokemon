@@ -1,21 +1,33 @@
 {
-  "id": 577,
-  "name": {
-    "english": "Solosis",
-    "japanese": "ユニラン",
-    "chinese": "单卵细胞球",
-    "french": "Nucléos"
-  },
+  "name": "Solosis",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 30,
-    "defense": 40,
-    "special_attack": 105,
-    "special_defense": 50,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/solosis.jpg"
 }

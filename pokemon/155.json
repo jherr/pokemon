@@ -1,21 +1,33 @@
 {
-  "id": 155,
-  "name": {
-    "english": "Cyndaquil",
-    "japanese": "ヒノアラシ",
-    "chinese": "火球鼠",
-    "french": "Héricendre"
-  },
+  "name": "Cyndaquil",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 39,
-    "attack": 52,
-    "defense": 43,
-    "special_attack": 60,
-    "special_defense": 50,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 39
+    },
+    {
+      "name": "Attack",
+      "value": 52
+    },
+    {
+      "name": "Defense",
+      "value": 43
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/cyndaquil.jpg"
 }

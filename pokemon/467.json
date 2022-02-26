@@ -1,21 +1,33 @@
 {
-  "id": 467,
-  "name": {
-    "english": "Magmortar",
-    "japanese": "ブーバーン",
-    "chinese": "鸭嘴炎兽",
-    "french": "Maganon"
-  },
+  "name": "Magmortar",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 95,
-    "defense": 67,
-    "special_attack": 125,
-    "special_defense": 95,
-    "speed": 83
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 125
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 83
+    }
+  ],
   "image": "images/magmortar.jpg"
 }

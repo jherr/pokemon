@@ -1,21 +1,33 @@
 {
-  "id": 37,
-  "name": {
-    "english": "Vulpix",
-    "japanese": "ロコン",
-    "chinese": "六尾",
-    "french": "Goupix"
-  },
+  "name": "Vulpix",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 38,
-    "attack": 41,
-    "defense": 40,
-    "special_attack": 50,
-    "special_defense": 65,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 41
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/vulpix.jpg"
 }

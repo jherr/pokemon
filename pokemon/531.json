@@ -1,21 +1,33 @@
 {
-  "id": 531,
-  "name": {
-    "english": "Audino",
-    "japanese": "タブンネ",
-    "chinese": "差不多娃娃",
-    "french": "Nanméouïe"
-  },
+  "name": "Audino",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 103,
-    "attack": 60,
-    "defense": 86,
-    "special_attack": 60,
-    "special_defense": 86,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 103
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 86
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 86
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/audino.jpg"
 }

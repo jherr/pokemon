@@ -1,21 +1,33 @@
 {
-  "id": 356,
-  "name": {
-    "english": "Dusclops",
-    "japanese": "サマヨール",
-    "chinese": "彷徨夜灵",
-    "french": "Téraclope"
-  },
+  "name": "Dusclops",
   "type": [
     "Ghost"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 70,
-    "defense": 130,
-    "special_attack": 60,
-    "special_defense": 130,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/dusclops.jpg"
 }

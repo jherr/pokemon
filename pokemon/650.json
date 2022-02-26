@@ -1,21 +1,33 @@
 {
-  "id": 650,
-  "name": {
-    "english": "Chespin",
-    "japanese": "ハリマロン",
-    "chinese": "哈力栗",
-    "french": "Marisson"
-  },
+  "name": "Chespin",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 56,
-    "attack": 61,
-    "defense": 65,
-    "special_attack": 48,
-    "special_defense": 45,
-    "speed": 38
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 56
+    },
+    {
+      "name": "Attack",
+      "value": 61
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 48
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 38
+    }
+  ],
   "image": "images/chespin.jpg"
 }

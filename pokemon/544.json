@@ -1,22 +1,34 @@
 {
-  "id": 544,
-  "name": {
-    "english": "Whirlipede",
-    "japanese": "ホイーガ",
-    "chinese": "车轮球",
-    "french": "Scobolide"
-  },
+  "name": "Whirlipede",
   "type": [
     "Bug",
     "Poison"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 55,
-    "defense": 99,
-    "special_attack": 40,
-    "special_defense": 79,
-    "speed": 47
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 99
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 79
+    },
+    {
+      "name": "Speed",
+      "value": 47
+    }
+  ],
   "image": "images/whirlipede.jpg"
 }

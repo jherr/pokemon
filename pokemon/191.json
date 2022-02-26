@@ -1,21 +1,33 @@
 {
-  "id": 191,
-  "name": {
-    "english": "Sunkern",
-    "japanese": "ヒマナッツ",
-    "chinese": "向日种子",
-    "french": "Tournegrin"
-  },
+  "name": "Sunkern",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 30,
-    "attack": 30,
-    "defense": 30,
-    "special_attack": 30,
-    "special_defense": 30,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/sunkern.jpg"
 }

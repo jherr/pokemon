@@ -1,21 +1,33 @@
 {
-  "id": 56,
-  "name": {
-    "english": "Mankey",
-    "japanese": "マンキー",
-    "chinese": "猴怪",
-    "french": "Férosinge"
-  },
+  "name": "Mankey",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 80,
-    "defense": 35,
-    "special_attack": 35,
-    "special_defense": 45,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/mankey.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 656,
-  "name": {
-    "english": "Froakie",
-    "japanese": "ケロマツ",
-    "chinese": "呱呱泡蛙",
-    "french": "Grenousse"
-  },
+  "name": "Froakie",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 41,
-    "attack": 56,
-    "defense": 40,
-    "special_attack": 62,
-    "special_defense": 44,
-    "speed": 71
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 41
+    },
+    {
+      "name": "Attack",
+      "value": 56
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 62
+    },
+    {
+      "name": "Special Defense",
+      "value": 44
+    },
+    {
+      "name": "Speed",
+      "value": 71
+    }
+  ],
   "image": "images/froakie.jpg"
 }

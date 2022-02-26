@@ -1,21 +1,33 @@
 {
-  "id": 186,
-  "name": {
-    "english": "Politoed",
-    "japanese": "ニョロトノ",
-    "chinese": "蚊香蛙皇",
-    "french": "Tarpaud"
-  },
+  "name": "Politoed",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 75,
-    "defense": 75,
-    "special_attack": 90,
-    "special_defense": 100,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/politoed.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 749,
-  "name": {
-    "english": "Mudbray",
-    "japanese": "ドロバンコ",
-    "chinese": "泥驴仔",
-    "french": "Tiboudet"
-  },
+  "name": "Mudbray",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 100,
-    "defense": 70,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/mudbray.jpg"
 }

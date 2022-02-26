@@ -1,21 +1,33 @@
 {
-  "id": 96,
-  "name": {
-    "english": "Drowzee",
-    "japanese": "スリープ",
-    "chinese": "催眠貘",
-    "french": "Soporifik"
-  },
+  "name": "Drowzee",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 48,
-    "defense": 45,
-    "special_attack": 43,
-    "special_defense": 90,
-    "speed": 42
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 43
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 42
+    }
+  ],
   "image": "images/drowzee.jpg"
 }

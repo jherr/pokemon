@@ -1,21 +1,33 @@
 {
-  "id": 692,
-  "name": {
-    "english": "Clauncher",
-    "japanese": "ウデッポウ",
-    "chinese": "铁臂枪虾",
-    "french": "Flingouste"
-  },
+  "name": "Clauncher",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 53,
-    "defense": 62,
-    "special_attack": 58,
-    "special_defense": 63,
-    "speed": 44
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 53
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 58
+    },
+    {
+      "name": "Special Defense",
+      "value": 63
+    },
+    {
+      "name": "Speed",
+      "value": 44
+    }
+  ],
   "image": "images/clauncher.jpg"
 }

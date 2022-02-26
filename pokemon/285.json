@@ -1,21 +1,33 @@
 {
-  "id": 285,
-  "name": {
-    "english": "Shroomish",
-    "japanese": "キノココ",
-    "chinese": "蘑蘑菇",
-    "french": "Balignon"
-  },
+  "name": "Shroomish",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 40,
-    "defense": 60,
-    "special_attack": 40,
-    "special_defense": 60,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/shroomish.jpg"
 }

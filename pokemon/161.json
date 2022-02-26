@@ -1,21 +1,33 @@
 {
-  "id": 161,
-  "name": {
-    "english": "Sentret",
-    "japanese": "オタチ",
-    "chinese": "尾立",
-    "french": "Fouinette"
-  },
+  "name": "Sentret",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 46,
-    "defense": 34,
-    "special_attack": 35,
-    "special_defense": 45,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 46
+    },
+    {
+      "name": "Defense",
+      "value": 34
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/sentret.jpg"
 }

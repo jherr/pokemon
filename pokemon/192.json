@@ -1,21 +1,33 @@
 {
-  "id": 192,
-  "name": {
-    "english": "Sunflora",
-    "japanese": "キマワリ",
-    "chinese": "向日花怪",
-    "french": "Héliatronc"
-  },
+  "name": "Sunflora",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 75,
-    "defense": 55,
-    "special_attack": 105,
-    "special_defense": 85,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/sunflora.jpg"
 }

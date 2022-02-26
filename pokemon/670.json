@@ -1,21 +1,33 @@
 {
-  "id": 670,
-  "name": {
-    "english": "Floette",
-    "japanese": "フラエッテ",
-    "chinese": "花叶蒂",
-    "french": "FLOETTE"
-  },
+  "name": "Floette",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 54,
-    "attack": 45,
-    "defense": 47,
-    "special_attack": 75,
-    "special_defense": 98,
-    "speed": 52
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 54
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 47
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 98
+    },
+    {
+      "name": "Speed",
+      "value": 52
+    }
+  ],
   "image": "images/floette.jpg"
 }

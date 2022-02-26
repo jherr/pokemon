@@ -1,21 +1,33 @@
 {
-  "id": 588,
-  "name": {
-    "english": "Karrablast",
-    "japanese": "カブルモ",
-    "chinese": "盖盖虫",
-    "french": "Carabing"
-  },
+  "name": "Karrablast",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 75,
-    "defense": 45,
-    "special_attack": 40,
-    "special_defense": 45,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/karrablast.jpg"
 }

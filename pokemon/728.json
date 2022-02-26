@@ -1,21 +1,33 @@
 {
-  "id": 728,
-  "name": {
-    "english": "Popplio",
-    "japanese": "アシマリ",
-    "chinese": "球球海狮",
-    "french": "Otaquin"
-  },
+  "name": "Popplio",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 54,
-    "defense": 54,
-    "special_attack": 66,
-    "special_defense": 56,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 54
+    },
+    {
+      "name": "Defense",
+      "value": 54
+    },
+    {
+      "name": "Special Attack",
+      "value": 66
+    },
+    {
+      "name": "Special Defense",
+      "value": 56
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/popplio.jpg"
 }

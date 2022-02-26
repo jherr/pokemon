@@ -1,21 +1,33 @@
 {
-  "id": 477,
-  "name": {
-    "english": "Dusknoir",
-    "japanese": "ヨノワール",
-    "chinese": "黑夜魔灵",
-    "french": "Noctunoir"
-  },
+  "name": "Dusknoir",
   "type": [
     "Ghost"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 100,
-    "defense": 135,
-    "special_attack": 65,
-    "special_defense": 135,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 135
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 135
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/dusknoir.jpg"
 }

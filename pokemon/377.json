@@ -1,21 +1,33 @@
 {
-  "id": 377,
-  "name": {
-    "english": "Regirock",
-    "japanese": "レジロック",
-    "chinese": "雷吉洛克",
-    "french": "Regirock"
-  },
+  "name": "Regirock",
   "type": [
     "Rock"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 100,
-    "defense": 200,
-    "special_attack": 50,
-    "special_defense": 100,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 200
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/regirock.jpg"
 }

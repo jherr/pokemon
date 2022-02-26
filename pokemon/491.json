@@ -1,21 +1,33 @@
 {
-  "id": 491,
-  "name": {
-    "english": "Darkrai",
-    "japanese": "ダークライ",
-    "chinese": "达克莱伊",
-    "french": "Darkrai"
-  },
+  "name": "Darkrai",
   "type": [
     "Dark"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 90,
-    "defense": 90,
-    "special_attack": 135,
-    "special_defense": 90,
-    "speed": 125
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 135
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 125
+    }
+  ],
   "image": "images/darkrai.jpg"
 }

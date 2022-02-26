@@ -1,21 +1,33 @@
 {
-  "id": 311,
-  "name": {
-    "english": "Plusle",
-    "japanese": "プラスル",
-    "chinese": "正电拍拍",
-    "french": "Posipi"
-  },
+  "name": "Plusle",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 50,
-    "defense": 40,
-    "special_attack": 85,
-    "special_defense": 75,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/plusle.jpg"
 }

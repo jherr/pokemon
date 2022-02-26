@@ -1,21 +1,33 @@
 {
-  "id": 515,
-  "name": {
-    "english": "Panpour",
-    "japanese": "ヒヤップ",
-    "chinese": "冷水猴",
-    "french": "Flotajou"
-  },
+  "name": "Panpour",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 53,
-    "defense": 48,
-    "special_attack": 53,
-    "special_defense": 48,
-    "speed": 64
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 53
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 53
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 64
+    }
+  ],
   "image": "images/panpour.jpg"
 }

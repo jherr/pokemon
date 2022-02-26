@@ -1,21 +1,33 @@
 {
-  "id": 372,
-  "name": {
-    "english": "Shelgon",
-    "japanese": "コモルー",
-    "chinese": "甲壳龙",
-    "french": "Drackhaus"
-  },
+  "name": "Shelgon",
   "type": [
     "Dragon"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 95,
-    "defense": 100,
-    "special_attack": 60,
-    "special_defense": 50,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/shelgon.jpg"
 }

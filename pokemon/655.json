@@ -1,22 +1,34 @@
 {
-  "id": 655,
-  "name": {
-    "english": "Delphox",
-    "japanese": "マフォクシー",
-    "chinese": "妖火红狐",
-    "french": "Goupelin"
-  },
+  "name": "Delphox",
   "type": [
     "Fire",
     "Psychic"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 69,
-    "defense": 72,
-    "special_attack": 114,
-    "special_defense": 100,
-    "speed": 104
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 72
+    },
+    {
+      "name": "Special Attack",
+      "value": 114
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 104
+    }
+  ],
   "image": "images/delphox.jpg"
 }

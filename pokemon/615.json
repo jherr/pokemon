@@ -1,21 +1,33 @@
 {
-  "id": 615,
-  "name": {
-    "english": "Cryogonal",
-    "japanese": "フリージオ",
-    "chinese": "几何雪花",
-    "french": "Hexagel"
-  },
+  "name": "Cryogonal",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 50,
-    "defense": 50,
-    "special_attack": 95,
-    "special_defense": 135,
-    "speed": 105
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 135
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
   "image": "images/cryogonal.jpg"
 }

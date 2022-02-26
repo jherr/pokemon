@@ -1,21 +1,33 @@
 {
-  "id": 360,
-  "name": {
-    "english": "Wynaut",
-    "japanese": "ソーナノ",
-    "chinese": "小果然",
-    "french": "Okéoké"
-  },
+  "name": "Wynaut",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 23,
-    "defense": 48,
-    "special_attack": 23,
-    "special_defense": 48,
-    "speed": 23
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 23
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 23
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 23
+    }
+  ],
   "image": "images/wynaut.jpg"
 }

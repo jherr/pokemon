@@ -1,22 +1,34 @@
 {
-  "id": 193,
-  "name": {
-    "english": "Yanma",
-    "japanese": "ヤンヤンマ",
-    "chinese": "蜻蜻蜓",
-    "french": "Yanma"
-  },
+  "name": "Yanma",
   "type": [
     "Bug",
     "Flying"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 65,
-    "defense": 45,
-    "special_attack": 75,
-    "special_defense": 45,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/yanma.jpg"
 }

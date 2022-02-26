@@ -1,21 +1,33 @@
 {
-  "id": 202,
-  "name": {
-    "english": "Wobbuffet",
-    "japanese": "ソーナンス",
-    "chinese": "果然翁",
-    "french": "Qulbutoké"
-  },
+  "name": "Wobbuffet",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 190,
-    "attack": 33,
-    "defense": 58,
-    "special_attack": 33,
-    "special_defense": 58,
-    "speed": 33
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 190
+    },
+    {
+      "name": "Attack",
+      "value": 33
+    },
+    {
+      "name": "Defense",
+      "value": 58
+    },
+    {
+      "name": "Special Attack",
+      "value": 33
+    },
+    {
+      "name": "Special Defense",
+      "value": 58
+    },
+    {
+      "name": "Speed",
+      "value": 33
+    }
+  ],
   "image": "images/wobbuffet.jpg"
 }

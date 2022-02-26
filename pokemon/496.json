@@ -1,21 +1,33 @@
 {
-  "id": 496,
-  "name": {
-    "english": "Servine",
-    "japanese": "ジャノビー",
-    "chinese": "青藤蛇",
-    "french": "Lianaja"
-  },
+  "name": "Servine",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 60,
-    "defense": 75,
-    "special_attack": 60,
-    "special_defense": 75,
-    "speed": 83
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 83
+    }
+  ],
   "image": "images/servine.jpg"
 }

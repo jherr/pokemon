@@ -1,21 +1,33 @@
 {
-  "id": 293,
-  "name": {
-    "english": "Whismur",
-    "japanese": "ゴニョニョ",
-    "chinese": "咕妞妞",
-    "french": "Chuchmur"
-  },
+  "name": "Whismur",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 64,
-    "attack": 51,
-    "defense": 23,
-    "special_attack": 51,
-    "special_defense": 23,
-    "speed": 28
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 64
+    },
+    {
+      "name": "Attack",
+      "value": 51
+    },
+    {
+      "name": "Defense",
+      "value": 23
+    },
+    {
+      "name": "Special Attack",
+      "value": 51
+    },
+    {
+      "name": "Special Defense",
+      "value": 23
+    },
+    {
+      "name": "Speed",
+      "value": 28
+    }
+  ],
   "image": "images/whismur.jpg"
 }

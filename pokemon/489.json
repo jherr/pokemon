@@ -1,21 +1,33 @@
 {
-  "id": 489,
-  "name": {
-    "english": "Phione",
-    "japanese": "フィオネ",
-    "chinese": "霏欧纳",
-    "french": "Phione"
-  },
+  "name": "Phione",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 80,
-    "defense": 80,
-    "special_attack": 80,
-    "special_defense": 80,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/phione.jpg"
 }

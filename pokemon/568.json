@@ -1,21 +1,33 @@
 {
-  "id": 568,
-  "name": {
-    "english": "Trubbish",
-    "japanese": "ヤブクロン",
-    "chinese": "破破袋",
-    "french": "Miamiasme"
-  },
+  "name": "Trubbish",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 50,
-    "defense": 62,
-    "special_attack": 40,
-    "special_defense": 62,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 62
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 62
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/trubbish.jpg"
 }

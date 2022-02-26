@@ -1,21 +1,33 @@
 {
-  "id": 750,
-  "name": {
-    "english": "Mudsdale",
-    "japanese": "バンバドロ",
-    "chinese": "重泥挽马",
-    "french": "Bourrinos"
-  },
+  "name": "Mudsdale",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 125,
-    "defense": 100,
-    "special_attack": 55,
-    "special_defense": 85,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/mudsdale.jpg"
 }

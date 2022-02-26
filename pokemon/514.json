@@ -1,21 +1,33 @@
 {
-  "id": 514,
-  "name": {
-    "english": "Simisear",
-    "japanese": "バオッキー",
-    "chinese": "爆香猿",
-    "french": "Flamoutan"
-  },
+  "name": "Simisear",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 98,
-    "defense": 63,
-    "special_attack": 98,
-    "special_defense": 63,
-    "speed": 101
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 98
+    },
+    {
+      "name": "Defense",
+      "value": 63
+    },
+    {
+      "name": "Special Attack",
+      "value": 98
+    },
+    {
+      "name": "Special Defense",
+      "value": 63
+    },
+    {
+      "name": "Speed",
+      "value": 101
+    }
+  ],
   "image": "images/simisear.jpg"
 }

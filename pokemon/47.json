@@ -1,22 +1,34 @@
 {
-  "id": 47,
-  "name": {
-    "english": "Parasect",
-    "japanese": "パラセクト",
-    "chinese": "派拉斯特",
-    "french": "Parasect"
-  },
+  "name": "Parasect",
   "type": [
     "Bug",
     "Grass"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 95,
-    "defense": 80,
-    "special_attack": 60,
-    "special_defense": 80,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/parasect.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 179,
-  "name": {
-    "english": "Mareep",
-    "japanese": "メリープ",
-    "chinese": "咩利羊",
-    "french": "Wattouat"
-  },
+  "name": "Mareep",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 40,
-    "defense": 40,
-    "special_attack": 65,
-    "special_defense": 45,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/mareep.jpg"
 }

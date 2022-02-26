@@ -1,21 +1,33 @@
 {
-  "id": 417,
-  "name": {
-    "english": "Pachirisu",
-    "japanese": "パチリス",
-    "chinese": "帕奇利兹",
-    "french": "Pachirisu"
-  },
+  "name": "Pachirisu",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 45,
-    "defense": 70,
-    "special_attack": 45,
-    "special_defense": 90,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/pachirisu.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 335,
-  "name": {
-    "english": "Zangoose",
-    "japanese": "ザングース",
-    "chinese": "猫鼬斩",
-    "french": "Mangriff"
-  },
+  "name": "Zangoose",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 73,
-    "attack": 115,
-    "defense": 60,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 73
+    },
+    {
+      "name": "Attack",
+      "value": 115
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/zangoose.jpg"
 }

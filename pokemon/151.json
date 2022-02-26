@@ -1,21 +1,33 @@
 {
-  "id": 151,
-  "name": {
-    "english": "Mew",
-    "japanese": "ミュウ",
-    "chinese": "梦幻",
-    "french": "Mew"
-  },
+  "name": "Mew",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 100,
-    "defense": 100,
-    "special_attack": 100,
-    "special_defense": 100,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/mew.jpg"
 }

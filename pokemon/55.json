@@ -1,21 +1,33 @@
 {
-  "id": 55,
-  "name": {
-    "english": "Golduck",
-    "japanese": "ゴルダック",
-    "chinese": "哥达鸭",
-    "french": "Akwakwak"
-  },
+  "name": "Golduck",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 82,
-    "defense": 78,
-    "special_attack": 95,
-    "special_defense": 80,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 78
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/golduck.jpg"
 }

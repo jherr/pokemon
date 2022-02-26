@@ -1,21 +1,33 @@
 {
-  "id": 455,
-  "name": {
-    "english": "Carnivine",
-    "japanese": "マスキッパ",
-    "chinese": "尖牙笼",
-    "french": "Vortente"
-  },
+  "name": "Carnivine",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 74,
-    "attack": 100,
-    "defense": 72,
-    "special_attack": 90,
-    "special_defense": 72,
-    "speed": 46
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 74
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 72
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 72
+    },
+    {
+      "name": "Speed",
+      "value": 46
+    }
+  ],
   "image": "images/carnivine.jpg"
 }

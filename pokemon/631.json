@@ -1,21 +1,33 @@
 {
-  "id": 631,
-  "name": {
-    "english": "Heatmor",
-    "japanese": "クイタラン",
-    "chinese": "熔蚁兽",
-    "french": "Aflamanoir"
-  },
+  "name": "Heatmor",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 97,
-    "defense": 66,
-    "special_attack": 105,
-    "special_defense": 66,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 97
+    },
+    {
+      "name": "Defense",
+      "value": 66
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 66
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/heatmor.jpg"
 }

@@ -141,8 +141,8 @@
   },
   {
     "id": 29,
-    "name": "Nidoran♀",
-    "image": "images/nidoran♀.jpg"
+    "name": "Nidoran",
+    "image": "images/nidoran.jpg"
   },
   {
     "id": 30,
@@ -153,11 +153,6 @@
     "id": 31,
     "name": "Nidoqueen",
     "image": "images/nidoqueen.jpg"
-  },
-  {
-    "id": 32,
-    "name": "Nidoran♂",
-    "image": "images/nidoran♂.jpg"
   },
   {
     "id": 33,
@@ -598,11 +593,6 @@
     "id": 121,
     "name": "Starmie",
     "image": "images/starmie.jpg"
-  },
-  {
-    "id": 122,
-    "name": "Mr. Mime",
-    "image": "images/mr.-mime.jpg"
   },
   {
     "id": 123,
@@ -2185,11 +2175,6 @@
     "image": "images/bonsly.jpg"
   },
   {
-    "id": 439,
-    "name": "Mime Jr.",
-    "image": "images/mime-jr..jpg"
-  },
-  {
     "id": 440,
     "name": "Happiny",
     "image": "images/happiny.jpg"
@@ -2425,11 +2410,6 @@
     "image": "images/regigigas.jpg"
   },
   {
-    "id": 487,
-    "name": "Giratina",
-    "image": "images/giratina.jpg"
-  },
-  {
     "id": 488,
     "name": "Cresselia",
     "image": "images/cresselia.jpg"
@@ -2448,11 +2428,6 @@
     "id": 491,
     "name": "Darkrai",
     "image": "images/darkrai.jpg"
-  },
-  {
-    "id": 492,
-    "name": "Shaymin",
-    "image": "images/shaymin.jpg"
   },
   {
     "id": 493,
@@ -3335,11 +3310,6 @@
     "image": "images/pyroar.jpg"
   },
   {
-    "id": 669,
-    "name": "Flabébé",
-    "image": "images/flabébé.jpg"
-  },
-  {
     "id": 670,
     "name": "Floette",
     "image": "images/floette.jpg"
@@ -3715,11 +3685,6 @@
     "image": "images/rockruff.jpg"
   },
   {
-    "id": 745,
-    "name": "Lycanroc",
-    "image": "images/lycanroc.jpg"
-  },
-  {
     "id": 746,
     "name": "Wishiwashi",
     "image": "images/wishiwashi.jpg"
@@ -3848,11 +3813,6 @@
     "id": 771,
     "name": "Pyukumuku",
     "image": "images/pyukumuku.jpg"
-  },
-  {
-    "id": 772,
-    "name": "TypeNull",
-    "image": "images/typenull.jpg"
   },
   {
     "id": 773,

@@ -1,21 +1,33 @@
 {
-  "id": 693,
-  "name": {
-    "english": "Clawitzer",
-    "japanese": "ブロスター",
-    "chinese": "钢炮臂虾",
-    "french": "Gamblast"
-  },
+  "name": "Clawitzer",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 71,
-    "attack": 73,
-    "defense": 88,
-    "special_attack": 120,
-    "special_defense": 89,
-    "speed": 59
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 73
+    },
+    {
+      "name": "Defense",
+      "value": 88
+    },
+    {
+      "name": "Special Attack",
+      "value": 120
+    },
+    {
+      "name": "Special Defense",
+      "value": 89
+    },
+    {
+      "name": "Speed",
+      "value": 59
+    }
+  ],
   "image": "images/clawitzer.jpg"
 }

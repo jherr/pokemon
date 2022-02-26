@@ -1,21 +1,33 @@
 {
-  "id": 390,
-  "name": {
-    "english": "Chimchar",
-    "japanese": "ヒコザル",
-    "chinese": "小火焰猴",
-    "french": "Ouisticram"
-  },
+  "name": "Chimchar",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 44,
-    "attack": 58,
-    "defense": 44,
-    "special_attack": 58,
-    "special_defense": 44,
-    "speed": 61
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 44
+    },
+    {
+      "name": "Attack",
+      "value": 58
+    },
+    {
+      "name": "Defense",
+      "value": 44
+    },
+    {
+      "name": "Special Attack",
+      "value": 58
+    },
+    {
+      "name": "Special Defense",
+      "value": 44
+    },
+    {
+      "name": "Speed",
+      "value": 61
+    }
+  ],
   "image": "images/chimchar.jpg"
 }

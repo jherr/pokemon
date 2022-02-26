@@ -1,21 +1,33 @@
 {
-  "id": 28,
-  "name": {
-    "english": "Sandslash",
-    "japanese": "サンドパン",
-    "chinese": "穿山王",
-    "french": "Sablaireau"
-  },
+  "name": "Sandslash",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 100,
-    "defense": 110,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 110
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/sandslash.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 63,
-  "name": {
-    "english": "Abra",
-    "japanese": "ケーシィ",
-    "chinese": "凯西",
-    "french": "Abra"
-  },
+  "name": "Abra",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 25,
-    "attack": 20,
-    "defense": 15,
-    "special_attack": 105,
-    "special_defense": 55,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 25
+    },
+    {
+      "name": "Attack",
+      "value": 20
+    },
+    {
+      "name": "Defense",
+      "value": 15
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/abra.jpg"
 }

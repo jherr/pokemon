@@ -1,21 +1,33 @@
 {
-  "id": 379,
-  "name": {
-    "english": "Registeel",
-    "japanese": "レジスチル",
-    "chinese": "雷吉斯奇鲁",
-    "french": "Registeel"
-  },
+  "name": "Registeel",
   "type": [
     "Steel"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 75,
-    "defense": 150,
-    "special_attack": 75,
-    "special_defense": 150,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 150
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 150
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/registeel.jpg"
 }

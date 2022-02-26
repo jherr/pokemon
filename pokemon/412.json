@@ -1,21 +1,33 @@
 {
-  "id": 412,
-  "name": {
-    "english": "Burmy",
-    "japanese": "ミノムッチ",
-    "chinese": "结草儿",
-    "french": "Cheniti"
-  },
+  "name": "Burmy",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 29,
-    "defense": 45,
-    "special_attack": 29,
-    "special_defense": 45,
-    "speed": 36
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 29
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 29
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 36
+    }
+  ],
   "image": "images/burmy.jpg"
 }

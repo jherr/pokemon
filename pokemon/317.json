@@ -1,21 +1,33 @@
 {
-  "id": 317,
-  "name": {
-    "english": "Swalot",
-    "japanese": "マルノーム",
-    "chinese": "吞食兽",
-    "french": "Avaltout"
-  },
+  "name": "Swalot",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 73,
-    "defense": 83,
-    "special_attack": 73,
-    "special_defense": 83,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 73
+    },
+    {
+      "name": "Defense",
+      "value": 83
+    },
+    {
+      "name": "Special Attack",
+      "value": 73
+    },
+    {
+      "name": "Special Defense",
+      "value": 83
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/swalot.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 762,
-  "name": {
-    "english": "Steenee",
-    "japanese": "アママイコ",
-    "chinese": "甜舞妮",
-    "french": "Candine"
-  },
+  "name": "Steenee",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 52,
-    "attack": 40,
-    "defense": 48,
-    "special_attack": 40,
-    "special_defense": 48,
-    "speed": 62
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 52
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 62
+    }
+  ],
   "image": "images/steenee.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 556,
-  "name": {
-    "english": "Maractus",
-    "japanese": "マラカッチ",
-    "chinese": "沙铃仙人掌",
-    "french": "Maracachi"
-  },
+  "name": "Maractus",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 86,
-    "defense": 67,
-    "special_attack": 106,
-    "special_defense": 67,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 86
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 106
+    },
+    {
+      "name": "Special Defense",
+      "value": 67
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/maractus.jpg"
 }

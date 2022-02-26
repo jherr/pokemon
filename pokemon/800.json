@@ -1,21 +1,33 @@
 {
-  "id": 800,
-  "name": {
-    "english": "Necrozma",
-    "japanese": "ネクロズマ",
-    "chinese": "奈克洛兹玛",
-    "french": "Magearna"
-  },
+  "name": "Necrozma",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 97,
-    "attack": 107,
-    "defense": 101,
-    "special_attack": 127,
-    "special_defense": 89,
-    "speed": 79
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 97
+    },
+    {
+      "name": "Attack",
+      "value": 107
+    },
+    {
+      "name": "Defense",
+      "value": 101
+    },
+    {
+      "name": "Special Attack",
+      "value": 127
+    },
+    {
+      "name": "Special Defense",
+      "value": 89
+    },
+    {
+      "name": "Speed",
+      "value": 79
+    }
+  ],
   "image": "images/necrozma.jpg"
 }

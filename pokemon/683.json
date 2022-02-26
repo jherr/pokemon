@@ -1,21 +1,33 @@
 {
-  "id": 683,
-  "name": {
-    "english": "Aromatisse",
-    "japanese": "フレフワン",
-    "chinese": "芳香精",
-    "french": "Cocotine"
-  },
+  "name": "Aromatisse",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 101,
-    "attack": 72,
-    "defense": 72,
-    "special_attack": 99,
-    "special_defense": 89,
-    "speed": 29
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 101
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 72
+    },
+    {
+      "name": "Special Attack",
+      "value": 99
+    },
+    {
+      "name": "Special Defense",
+      "value": 89
+    },
+    {
+      "name": "Speed",
+      "value": 29
+    }
+  ],
   "image": "images/aromatisse.jpg"
 }

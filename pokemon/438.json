@@ -1,21 +1,33 @@
 {
-  "id": 438,
-  "name": {
-    "english": "Bonsly",
-    "japanese": "ウソハチ",
-    "chinese": "盆才怪",
-    "french": "Manzaï"
-  },
+  "name": "Bonsly",
   "type": [
     "Rock"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 80,
-    "defense": 95,
-    "special_attack": 10,
-    "special_defense": 45,
-    "speed": 10
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 10
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 10
+    }
+  ],
   "image": "images/bonsly.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 626,
-  "name": {
-    "english": "Bouffalant",
-    "japanese": "バッフロン",
-    "chinese": "爆炸头水牛",
-    "french": "Frison"
-  },
+  "name": "Bouffalant",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 110,
-    "defense": 95,
-    "special_attack": 40,
-    "special_defense": 95,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/bouffalant.jpg"
 }

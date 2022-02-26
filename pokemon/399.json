@@ -1,21 +1,33 @@
 {
-  "id": 399,
-  "name": {
-    "english": "Bidoof",
-    "japanese": "ビッパ",
-    "chinese": "大牙狸",
-    "french": "Keunotor"
-  },
+  "name": "Bidoof",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 59,
-    "attack": 45,
-    "defense": 40,
-    "special_attack": 35,
-    "special_defense": 40,
-    "speed": 31
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 59
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 31
+    }
+  ],
   "image": "images/bidoof.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 216,
-  "name": {
-    "english": "Teddiursa",
-    "japanese": "ヒメグマ",
-    "chinese": "熊宝宝",
-    "french": "Teddiursa"
-  },
+  "name": "Teddiursa",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 80,
-    "defense": 50,
-    "special_attack": 50,
-    "special_defense": 50,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/teddiursa.jpg"
 }

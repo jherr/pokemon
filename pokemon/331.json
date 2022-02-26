@@ -1,21 +1,33 @@
 {
-  "id": 331,
-  "name": {
-    "english": "Cacnea",
-    "japanese": "サボネア",
-    "chinese": "刺球仙人掌",
-    "french": "Cacnea"
-  },
+  "name": "Cacnea",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 85,
-    "defense": 40,
-    "special_attack": 85,
-    "special_defense": 40,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/cacnea.jpg"
 }

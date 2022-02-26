@@ -1,21 +1,33 @@
 {
-  "id": 294,
-  "name": {
-    "english": "Loudred",
-    "japanese": "ドゴーム",
-    "chinese": "吼爆弹",
-    "french": "Ramboum"
-  },
+  "name": "Loudred",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 84,
-    "attack": 71,
-    "defense": 43,
-    "special_attack": 71,
-    "special_defense": 43,
-    "speed": 48
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 84
+    },
+    {
+      "name": "Attack",
+      "value": 71
+    },
+    {
+      "name": "Defense",
+      "value": 43
+    },
+    {
+      "name": "Special Attack",
+      "value": 71
+    },
+    {
+      "name": "Special Defense",
+      "value": 43
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
   "image": "images/loudred.jpg"
 }

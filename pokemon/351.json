@@ -1,21 +1,33 @@
 {
-  "id": 351,
-  "name": {
-    "english": "Castform",
-    "japanese": "ポワルン",
-    "chinese": "飘浮泡泡",
-    "french": "Morphéo"
-  },
+  "name": "Castform",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 70,
-    "defense": 70,
-    "special_attack": 70,
-    "special_defense": 70,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/castform.jpg"
 }

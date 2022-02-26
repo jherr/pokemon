@@ -1,21 +1,33 @@
 {
-  "id": 509,
-  "name": {
-    "english": "Purrloin",
-    "japanese": "チョロネコ",
-    "chinese": "扒手猫",
-    "french": "Chacripan"
-  },
+  "name": "Purrloin",
   "type": [
     "Dark"
   ],
-  "base": {
-    "hp": 41,
-    "attack": 50,
-    "defense": 37,
-    "special_attack": 50,
-    "special_defense": 37,
-    "speed": 66
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 41
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 37
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 37
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
   "image": "images/purrloin.jpg"
 }

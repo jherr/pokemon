@@ -1,21 +1,33 @@
 {
-  "id": 539,
-  "name": {
-    "english": "Sawk",
-    "japanese": "ダゲキ",
-    "chinese": "打击鬼",
-    "french": "Karaclée"
-  },
+  "name": "Sawk",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 125,
-    "defense": 75,
-    "special_attack": 30,
-    "special_defense": 75,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/sawk.jpg"
 }

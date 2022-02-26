@@ -1,22 +1,34 @@
 {
-  "id": 15,
-  "name": {
-    "english": "Beedrill",
-    "japanese": "スピアー",
-    "chinese": "大针蜂",
-    "french": "Dardargnan"
-  },
+  "name": "Beedrill",
   "type": [
     "Bug",
     "Poison"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 90,
-    "defense": 40,
-    "special_attack": 45,
-    "special_defense": 80,
-    "speed": 75
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 75
+    }
+  ],
   "image": "images/beedrill.jpg"
 }

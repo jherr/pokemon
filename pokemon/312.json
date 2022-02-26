@@ -1,21 +1,33 @@
 {
-  "id": 312,
-  "name": {
-    "english": "Minun",
-    "japanese": "マイナン",
-    "chinese": "负电拍拍",
-    "french": "Négapi"
-  },
+  "name": "Minun",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 40,
-    "defense": 50,
-    "special_attack": 75,
-    "special_defense": 85,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/minun.jpg"
 }

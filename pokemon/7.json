@@ -1,21 +1,33 @@
 {
-  "id": 7,
-  "name": {
-    "english": "Squirtle",
-    "japanese": "ゼニガメ",
-    "chinese": "杰尼龟",
-    "french": "Carapuce"
-  },
+  "name": "Squirtle",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 44,
-    "attack": 48,
-    "defense": 65,
-    "special_attack": 50,
-    "special_defense": 64,
-    "speed": 43
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 44
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 64
+    },
+    {
+      "name": "Speed",
+      "value": 43
+    }
+  ],
   "image": "images/squirtle.jpg"
 }

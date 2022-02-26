@@ -1,21 +1,33 @@
 {
-  "id": 465,
-  "name": {
-    "english": "Tangrowth",
-    "japanese": "モジャンボ",
-    "chinese": "巨蔓藤",
-    "french": "Bouldeneu"
-  },
+  "name": "Tangrowth",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 100,
-    "defense": 125,
-    "special_attack": 110,
-    "special_defense": 50,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 125
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/tangrowth.jpg"
 }

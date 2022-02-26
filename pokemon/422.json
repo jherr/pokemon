@@ -1,21 +1,33 @@
 {
-  "id": 422,
-  "name": {
-    "english": "Shellos",
-    "japanese": "カラナクシ",
-    "chinese": "无壳海兔",
-    "french": "Sancoki"
-  },
+  "name": "Shellos",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 76,
-    "attack": 48,
-    "defense": 48,
-    "special_attack": 57,
-    "special_defense": 62,
-    "speed": 34
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 76
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 57
+    },
+    {
+      "name": "Special Defense",
+      "value": 62
+    },
+    {
+      "name": "Speed",
+      "value": 34
+    }
+  ],
   "image": "images/shellos.jpg"
 }

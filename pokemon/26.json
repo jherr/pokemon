@@ -1,21 +1,33 @@
 {
-  "id": 26,
-  "name": {
-    "english": "Raichu",
-    "japanese": "ライチュウ",
-    "chinese": "雷丘",
-    "french": "Raichu"
-  },
+  "name": "Raichu",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 90,
-    "defense": 55,
-    "special_attack": 90,
-    "special_defense": 80,
-    "speed": 110
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
   "image": "images/raichu.jpg"
 }

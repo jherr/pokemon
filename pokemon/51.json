@@ -1,21 +1,33 @@
 {
-  "id": 51,
-  "name": {
-    "english": "Dugtrio",
-    "japanese": "ダグトリオ",
-    "chinese": "三地鼠",
-    "french": "Triopikeur"
-  },
+  "name": "Dugtrio",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 100,
-    "defense": 50,
-    "special_attack": 50,
-    "special_defense": 70,
-    "speed": 120
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 120
+    }
+  ],
   "image": "images/dugtrio.jpg"
 }

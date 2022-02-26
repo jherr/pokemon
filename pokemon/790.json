@@ -1,21 +1,33 @@
 {
-  "id": 790,
-  "name": {
-    "english": "Cosmoem",
-    "japanese": "コスモウム",
-    "chinese": "科斯莫姆",
-    "french": "Solgaleo"
-  },
+  "name": "Cosmoem",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 43,
-    "attack": 29,
-    "defense": 131,
-    "special_attack": 29,
-    "special_defense": 131,
-    "speed": 37
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 43
+    },
+    {
+      "name": "Attack",
+      "value": 29
+    },
+    {
+      "name": "Defense",
+      "value": 131
+    },
+    {
+      "name": "Special Attack",
+      "value": 29
+    },
+    {
+      "name": "Special Defense",
+      "value": 131
+    },
+    {
+      "name": "Speed",
+      "value": 37
+    }
+  ],
   "image": "images/cosmoem.jpg"
 }

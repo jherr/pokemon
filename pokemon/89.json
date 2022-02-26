@@ -1,21 +1,33 @@
 {
-  "id": 89,
-  "name": {
-    "english": "Muk",
-    "japanese": "ベトベトン",
-    "chinese": "臭臭泥",
-    "french": "Grotadmorv"
-  },
+  "name": "Muk",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 105,
-    "attack": 105,
-    "defense": 75,
-    "special_attack": 65,
-    "special_defense": 100,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 105
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/muk.jpg"
 }

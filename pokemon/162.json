@@ -1,21 +1,33 @@
 {
-  "id": 162,
-  "name": {
-    "english": "Furret",
-    "japanese": "オオタチ",
-    "chinese": "大尾立",
-    "french": "Fouinar"
-  },
+  "name": "Furret",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 76,
-    "defense": 64,
-    "special_attack": 45,
-    "special_defense": 55,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 76
+    },
+    {
+      "name": "Defense",
+      "value": 64
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/furret.jpg"
 }

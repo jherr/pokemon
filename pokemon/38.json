@@ -1,21 +1,33 @@
 {
-  "id": 38,
-  "name": {
-    "english": "Ninetales",
-    "japanese": "キュウコン",
-    "chinese": "九尾",
-    "french": "Feunard"
-  },
+  "name": "Ninetales",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 73,
-    "attack": 76,
-    "defense": 75,
-    "special_attack": 81,
-    "special_defense": 100,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 73
+    },
+    {
+      "name": "Attack",
+      "value": 76
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/ninetales.jpg"
 }

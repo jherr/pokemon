@@ -1,21 +1,33 @@
 {
-  "id": 659,
-  "name": {
-    "english": "Bunnelby",
-    "japanese": "ホルビー",
-    "chinese": "掘掘兔",
-    "french": "Sapereau"
-  },
+  "name": "Bunnelby",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 38,
-    "attack": 36,
-    "defense": 38,
-    "special_attack": 32,
-    "special_defense": 36,
-    "speed": 57
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 36
+    },
+    {
+      "name": "Defense",
+      "value": 38
+    },
+    {
+      "name": "Special Attack",
+      "value": 32
+    },
+    {
+      "name": "Special Defense",
+      "value": 36
+    },
+    {
+      "name": "Speed",
+      "value": 57
+    }
+  ],
   "image": "images/bunnelby.jpg"
 }

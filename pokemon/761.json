@@ -1,21 +1,33 @@
 {
-  "id": 761,
-  "name": {
-    "english": "Bounsweet",
-    "japanese": "アマカジ",
-    "chinese": "甜竹竹",
-    "french": "Croquine"
-  },
+  "name": "Bounsweet",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 42,
-    "attack": 30,
-    "defense": 38,
-    "special_attack": 30,
-    "special_defense": 38,
-    "speed": 32
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 42
+    },
+    {
+      "name": "Attack",
+      "value": 30
+    },
+    {
+      "name": "Defense",
+      "value": 38
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 38
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
   "image": "images/bounsweet.jpg"
 }

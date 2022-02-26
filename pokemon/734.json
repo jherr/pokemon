@@ -1,21 +1,33 @@
 {
-  "id": 734,
-  "name": {
-    "english": "Yungoos",
-    "japanese": "ヤングース",
-    "chinese": "猫鼬少",
-    "french": "Manglouton"
-  },
+  "name": "Yungoos",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 48,
-    "attack": 70,
-    "defense": 30,
-    "special_attack": 30,
-    "special_defense": 30,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 48
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 30
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/yungoos.jpg"
 }

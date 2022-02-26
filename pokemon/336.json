@@ -1,21 +1,33 @@
 {
-  "id": 336,
-  "name": {
-    "english": "Seviper",
-    "japanese": "ハブネーク",
-    "chinese": "饭匙蛇",
-    "french": "Séviper"
-  },
+  "name": "Seviper",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 73,
-    "attack": 100,
-    "defense": 60,
-    "special_attack": 100,
-    "special_defense": 60,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 73
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/seviper.jpg"
 }

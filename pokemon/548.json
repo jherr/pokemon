@@ -1,21 +1,33 @@
 {
-  "id": 548,
-  "name": {
-    "english": "Petilil",
-    "japanese": "チュリネ",
-    "chinese": "百合根娃娃",
-    "french": "Chlorobule"
-  },
+  "name": "Petilil",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 35,
-    "defense": 50,
-    "special_attack": 70,
-    "special_defense": 50,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/petilil.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 273,
-  "name": {
-    "english": "Seedot",
-    "japanese": "タネボー",
-    "chinese": "橡实果",
-    "french": "Grainipiot"
-  },
+  "name": "Seedot",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 40,
-    "defense": 50,
-    "special_attack": 30,
-    "special_defense": 30,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/seedot.jpg"
 }

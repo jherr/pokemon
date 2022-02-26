@@ -1,21 +1,33 @@
 {
-  "id": 493,
-  "name": {
-    "english": "Arceus",
-    "japanese": "アルセウス",
-    "chinese": "阿尔宙斯",
-    "french": "Arceus"
-  },
+  "name": "Arceus",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 120,
-    "attack": 120,
-    "defense": 120,
-    "special_attack": 120,
-    "special_defense": 120,
-    "speed": 120
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 120
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 120
+    },
+    {
+      "name": "Special Attack",
+      "value": 120
+    },
+    {
+      "name": "Special Defense",
+      "value": 120
+    },
+    {
+      "name": "Speed",
+      "value": 120
+    }
+  ],
   "image": "images/arceus.jpg"
 }

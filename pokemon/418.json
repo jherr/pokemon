@@ -1,21 +1,33 @@
 {
-  "id": 418,
-  "name": {
-    "english": "Buizel",
-    "japanese": "ブイゼル",
-    "chinese": "泳圈鼬",
-    "french": "Mustébouée"
-  },
+  "name": "Buizel",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 65,
-    "defense": 35,
-    "special_attack": 60,
-    "special_defense": 30,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/buizel.jpg"
 }

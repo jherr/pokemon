@@ -1,21 +1,33 @@
 {
-  "id": 457,
-  "name": {
-    "english": "Lumineon",
-    "japanese": "ネオラント",
-    "chinese": "霓虹鱼",
-    "french": "Luminéon"
-  },
+  "name": "Lumineon",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 69,
-    "attack": 69,
-    "defense": 76,
-    "special_attack": 69,
-    "special_defense": 86,
-    "speed": 91
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 69
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 76
+    },
+    {
+      "name": "Special Attack",
+      "value": 69
+    },
+    {
+      "name": "Special Defense",
+      "value": 86
+    },
+    {
+      "name": "Speed",
+      "value": 91
+    }
+  ],
   "image": "images/lumineon.jpg"
 }

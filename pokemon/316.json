@@ -1,21 +1,33 @@
 {
-  "id": 316,
-  "name": {
-    "english": "Gulpin",
-    "japanese": "ゴクリン",
-    "chinese": "溶食兽",
-    "french": "Gloupti"
-  },
+  "name": "Gulpin",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 43,
-    "defense": 53,
-    "special_attack": 43,
-    "special_defense": 53,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 43
+    },
+    {
+      "name": "Defense",
+      "value": 53
+    },
+    {
+      "name": "Special Attack",
+      "value": 43
+    },
+    {
+      "name": "Special Defense",
+      "value": 53
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/gulpin.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 105,
-  "name": {
-    "english": "Marowak",
-    "japanese": "ガラガラ",
-    "chinese": "嘎啦嘎啦",
-    "french": "Ossatueur"
-  },
+  "name": "Marowak",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 80,
-    "defense": 110,
-    "special_attack": 50,
-    "special_defense": 80,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 110
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/marowak.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 367,
-  "name": {
-    "english": "Huntail",
-    "japanese": "ハンテール",
-    "chinese": "猎斑鱼",
-    "french": "Serpang"
-  },
+  "name": "Huntail",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 104,
-    "defense": 105,
-    "special_attack": 94,
-    "special_defense": 75,
-    "speed": 52
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 104
+    },
+    {
+      "name": "Defense",
+      "value": 105
+    },
+    {
+      "name": "Special Attack",
+      "value": 94
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 52
+    }
+  ],
   "image": "images/huntail.jpg"
 }

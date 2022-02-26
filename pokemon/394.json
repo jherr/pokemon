@@ -1,21 +1,33 @@
 {
-  "id": 394,
-  "name": {
-    "english": "Prinplup",
-    "japanese": "ポッタイシ",
-    "chinese": "波皇子",
-    "french": "Prinplouf"
-  },
+  "name": "Prinplup",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 64,
-    "attack": 66,
-    "defense": 68,
-    "special_attack": 81,
-    "special_defense": 76,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 64
+    },
+    {
+      "name": "Attack",
+      "value": 66
+    },
+    {
+      "name": "Defense",
+      "value": 68
+    },
+    {
+      "name": "Special Attack",
+      "value": 81
+    },
+    {
+      "name": "Special Defense",
+      "value": 76
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/prinplup.jpg"
 }

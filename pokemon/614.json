@@ -1,21 +1,33 @@
 {
-  "id": 614,
-  "name": {
-    "english": "Beartic",
-    "japanese": "ツンベアー",
-    "chinese": "冻原熊",
-    "french": "Polagriffe"
-  },
+  "name": "Beartic",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 130,
-    "defense": 80,
-    "special_attack": 70,
-    "special_defense": 80,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 130
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 80
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/beartic.jpg"
 }

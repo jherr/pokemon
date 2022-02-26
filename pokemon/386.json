@@ -1,21 +1,33 @@
 {
-  "id": 386,
-  "name": {
-    "english": "Deoxys",
-    "japanese": "デオキシス",
-    "chinese": "代欧奇希斯",
-    "french": "Deoxys"
-  },
+  "name": "Deoxys",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 150,
-    "defense": 50,
-    "special_attack": 150,
-    "special_defense": 50,
-    "speed": 150
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 150
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 150
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 150
+    }
+  ],
   "image": "images/deoxys.jpg"
 }

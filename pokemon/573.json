@@ -1,21 +1,33 @@
 {
-  "id": 573,
-  "name": {
-    "english": "Cinccino",
-    "japanese": "チラチーノ",
-    "chinese": "奇诺栗鼠",
-    "french": "Pashmilla"
-  },
+  "name": "Cinccino",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 95,
-    "defense": 60,
-    "special_attack": 65,
-    "special_defense": 60,
-    "speed": 115
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 115
+    }
+  ],
   "image": "images/cinccino.jpg"
 }

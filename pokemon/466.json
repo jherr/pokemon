@@ -1,21 +1,33 @@
 {
-  "id": 466,
-  "name": {
-    "english": "Electivire",
-    "japanese": "エレキブル",
-    "chinese": "电击魔兽",
-    "french": "Élekable"
-  },
+  "name": "Electivire",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 123,
-    "defense": 67,
-    "special_attack": 95,
-    "special_defense": 85,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 123
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/electivire.jpg"
 }

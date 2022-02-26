@@ -1,21 +1,33 @@
 {
-  "id": 712,
-  "name": {
-    "english": "Bergmite",
-    "japanese": "カチコール",
-    "chinese": "冰宝",
-    "french": "Grelaçon"
-  },
+  "name": "Bergmite",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 69,
-    "defense": 85,
-    "special_attack": 32,
-    "special_defense": 35,
-    "speed": 28
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 32
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 28
+    }
+  ],
   "image": "images/bergmite.jpg"
 }

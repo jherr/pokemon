@@ -1,21 +1,33 @@
 {
-  "id": 446,
-  "name": {
-    "english": "Munchlax",
-    "japanese": "ゴンベ",
-    "chinese": "小卡比兽",
-    "french": "Goinfrex"
-  },
+  "name": "Munchlax",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 135,
-    "attack": 85,
-    "defense": 40,
-    "special_attack": 40,
-    "special_defense": 85,
-    "speed": 5
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 135
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 5
+    }
+  ],
   "image": "images/munchlax.jpg"
 }

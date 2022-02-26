@@ -1,22 +1,34 @@
 {
-  "id": 435,
-  "name": {
-    "english": "Skuntank",
-    "japanese": "スカタンク",
-    "chinese": "坦克臭鼬",
-    "french": "Moufflair"
-  },
+  "name": "Skuntank",
   "type": [
     "Poison",
     "Dark"
   ],
-  "base": {
-    "hp": 103,
-    "attack": 93,
-    "defense": 67,
-    "special_attack": 71,
-    "special_defense": 61,
-    "speed": 84
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 103
+    },
+    {
+      "name": "Attack",
+      "value": 93
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 71
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 84
+    }
+  ],
   "image": "images/skuntank.jpg"
 }

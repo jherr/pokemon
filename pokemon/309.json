@@ -1,21 +1,33 @@
 {
-  "id": 309,
-  "name": {
-    "english": "Electrike",
-    "japanese": "ラクライ",
-    "chinese": "落雷兽",
-    "french": "Dynavolt"
-  },
+  "name": "Electrike",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 45,
-    "defense": 40,
-    "special_attack": 65,
-    "special_defense": 40,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/electrike.jpg"
 }

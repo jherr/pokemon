@@ -1,21 +1,33 @@
 {
-  "id": 405,
-  "name": {
-    "english": "Luxray",
-    "japanese": "レントラー",
-    "chinese": "伦琴猫",
-    "french": "Luxray"
-  },
+  "name": "Luxray",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 120,
-    "defense": 79,
-    "special_attack": 95,
-    "special_defense": 79,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 79
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 79
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/luxray.jpg"
 }

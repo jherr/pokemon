@@ -1,21 +1,33 @@
 {
-  "id": 23,
-  "name": {
-    "english": "Ekans",
-    "japanese": "アーボ",
-    "chinese": "阿柏蛇",
-    "french": "Abo"
-  },
+  "name": "Ekans",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 60,
-    "defense": 44,
-    "special_attack": 40,
-    "special_defense": 54,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 44
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 54
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/ekans.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 33,
-  "name": {
-    "english": "Nidorino",
-    "japanese": "ニドリーノ",
-    "chinese": "尼多力诺",
-    "french": "Nidorino"
-  },
+  "name": "Nidorino",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 61,
-    "attack": 72,
-    "defense": 57,
-    "special_attack": 55,
-    "special_defense": 55,
-    "speed": 65
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 61
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 57
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 65
+    }
+  ],
   "image": "images/nidorino.jpg"
 }

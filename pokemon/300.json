@@ -1,21 +1,33 @@
 {
-  "id": 300,
-  "name": {
-    "english": "Skitty",
-    "japanese": "エネコ",
-    "chinese": "向尾喵",
-    "french": "Skitty"
-  },
+  "name": "Skitty",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 45,
-    "defense": 45,
-    "special_attack": 35,
-    "special_defense": 35,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/skitty.jpg"
 }

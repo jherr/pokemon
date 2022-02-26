@@ -1,21 +1,33 @@
 {
-  "id": 613,
-  "name": {
-    "english": "Cubchoo",
-    "japanese": "クマシュン",
-    "chinese": "喷嚏熊",
-    "french": "Polarhume"
-  },
+  "name": "Cubchoo",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 70,
-    "defense": 40,
-    "special_attack": 60,
-    "special_defense": 40,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/cubchoo.jpg"
 }

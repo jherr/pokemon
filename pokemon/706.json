@@ -1,21 +1,33 @@
 {
-  "id": 706,
-  "name": {
-    "english": "Goodra",
-    "japanese": "ヌメルゴン",
-    "chinese": "黏美龙",
-    "french": "Muplodocus"
-  },
+  "name": "Goodra",
   "type": [
     "Dragon"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 100,
-    "defense": 70,
-    "special_attack": 110,
-    "special_defense": 150,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 150
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/goodra.jpg"
 }

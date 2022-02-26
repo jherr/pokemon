@@ -1,21 +1,33 @@
 {
-  "id": 328,
-  "name": {
-    "english": "Trapinch",
-    "japanese": "ナックラー",
-    "chinese": "大颚蚁",
-    "french": "Kraknoix"
-  },
+  "name": "Trapinch",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 100,
-    "defense": 45,
-    "special_attack": 45,
-    "special_defense": 45,
-    "speed": 10
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 10
+    }
+  ],
   "image": "images/trapinch.jpg"
 }

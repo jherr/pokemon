@@ -1,21 +1,33 @@
 {
-  "id": 128,
-  "name": {
-    "english": "Tauros",
-    "japanese": "ケンタロス",
-    "chinese": "肯泰罗",
-    "french": "Tauros"
-  },
+  "name": "Tauros",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 100,
-    "defense": 95,
-    "special_attack": 40,
-    "special_defense": 70,
-    "speed": 110
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
   "image": "images/tauros.jpg"
 }

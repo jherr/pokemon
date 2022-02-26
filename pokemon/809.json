@@ -1,21 +1,33 @@
 {
-  "id": 809,
-  "name": {
-    "english": "Melmetal",
-    "japanese": "メルメタル",
-    "chinese": "美录梅塔",
-    "french": ""
-  },
+  "name": "Melmetal",
   "type": [
     "Steel"
   ],
-  "base": {
-    "hp": 135,
-    "attack": 143,
-    "defense": 143,
-    "special_attack": 80,
-    "special_defense": 65,
-    "speed": 34
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 135
+    },
+    {
+      "name": "Attack",
+      "value": 143
+    },
+    {
+      "name": "Defense",
+      "value": 143
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 34
+    }
+  ],
   "image": "images/melmetal.jpg"
 }

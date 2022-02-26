@@ -1,22 +1,34 @@
 {
-  "id": 691,
-  "name": {
-    "english": "Dragalge",
-    "japanese": "ドラミドロ",
-    "chinese": "毒藻龙",
-    "french": "Kravarech"
-  },
+  "name": "Dragalge",
   "type": [
     "Poison",
     "Dragon"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 75,
-    "defense": 90,
-    "special_attack": 97,
-    "special_defense": 123,
-    "speed": 44
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 97
+    },
+    {
+      "name": "Special Defense",
+      "value": 123
+    },
+    {
+      "name": "Speed",
+      "value": 44
+    }
+  ],
   "image": "images/dragalge.jpg"
 }

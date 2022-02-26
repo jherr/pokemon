@@ -1,21 +1,33 @@
 {
-  "id": 326,
-  "name": {
-    "english": "Grumpig",
-    "japanese": "ブーピッグ",
-    "chinese": "噗噗猪",
-    "french": "Groret"
-  },
+  "name": "Grumpig",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 45,
-    "defense": 65,
-    "special_attack": 90,
-    "special_defense": 110,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/grumpig.jpg"
 }

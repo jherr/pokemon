@@ -1,21 +1,33 @@
 {
-  "id": 295,
-  "name": {
-    "english": "Exploud",
-    "japanese": "バクオング",
-    "chinese": "爆音怪",
-    "french": "Brouhabam"
-  },
+  "name": "Exploud",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 104,
-    "attack": 91,
-    "defense": 63,
-    "special_attack": 91,
-    "special_defense": 73,
-    "speed": 68
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 104
+    },
+    {
+      "name": "Attack",
+      "value": 91
+    },
+    {
+      "name": "Defense",
+      "value": 63
+    },
+    {
+      "name": "Special Attack",
+      "value": 91
+    },
+    {
+      "name": "Special Defense",
+      "value": 73
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
   "image": "images/exploud.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 19,
-  "name": {
-    "english": "Rattata",
-    "japanese": "コラッタ",
-    "chinese": "小拉达",
-    "french": "Rattata"
-  },
+  "name": "Rattata",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 30,
-    "attack": 56,
-    "defense": 35,
-    "special_attack": 25,
-    "special_defense": 35,
-    "speed": 72
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 56
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 72
+    }
+  ],
   "image": "images/rattata.jpg"
 }

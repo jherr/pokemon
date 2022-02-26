@@ -1,22 +1,34 @@
 {
-  "id": 741,
-  "name": {
-    "english": "Oricorio",
-    "japanese": "オドリドリ",
-    "chinese": "花舞鸟",
-    "french": "Plumeline"
-  },
+  "name": "Oricorio",
   "type": [
     "Fire",
     "Flying"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 70,
-    "defense": 70,
-    "special_attack": 98,
-    "special_defense": 70,
-    "speed": 93
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 98
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 93
+    }
+  ],
   "image": "images/oricorio.jpg"
 }

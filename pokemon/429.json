@@ -1,21 +1,33 @@
 {
-  "id": 429,
-  "name": {
-    "english": "Mismagius",
-    "japanese": "ムウマージ",
-    "chinese": "梦妖魔",
-    "french": "Magirêve"
-  },
+  "name": "Mismagius",
   "type": [
     "Ghost"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 60,
-    "defense": 60,
-    "special_attack": 105,
-    "special_defense": 105,
-    "speed": 105
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 60
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 105
+    },
+    {
+      "name": "Special Defense",
+      "value": 105
+    },
+    {
+      "name": "Speed",
+      "value": 105
+    }
+  ],
   "image": "images/mismagius.jpg"
 }

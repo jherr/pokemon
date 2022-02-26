@@ -1,21 +1,33 @@
 {
-  "id": 678,
-  "name": {
-    "english": "Meowstic",
-    "japanese": "ニャオニクス",
-    "chinese": "超能妙喵",
-    "french": "Mistigrix"
-  },
+  "name": "Meowstic",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 74,
-    "attack": 48,
-    "defense": 76,
-    "special_attack": 83,
-    "special_defense": 81,
-    "speed": 104
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 74
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 76
+    },
+    {
+      "name": "Special Attack",
+      "value": 83
+    },
+    {
+      "name": "Special Defense",
+      "value": 81
+    },
+    {
+      "name": "Speed",
+      "value": 104
+    }
+  ],
   "image": "images/meowstic.jpg"
 }

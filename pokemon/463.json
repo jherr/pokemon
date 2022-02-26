@@ -1,21 +1,33 @@
 {
-  "id": 463,
-  "name": {
-    "english": "Lickilicky",
-    "japanese": "ベロベルト",
-    "chinese": "大舌舔",
-    "french": "Coudlangue"
-  },
+  "name": "Lickilicky",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 110,
-    "attack": 85,
-    "defense": 95,
-    "special_attack": 80,
-    "special_defense": 95,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 110
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/lickilicky.jpg"
 }

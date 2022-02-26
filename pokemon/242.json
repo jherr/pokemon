@@ -1,21 +1,33 @@
 {
-  "id": 242,
-  "name": {
-    "english": "Blissey",
-    "japanese": "ハピナス",
-    "chinese": "幸福蛋",
-    "french": "Leuphorie"
-  },
+  "name": "Blissey",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 255,
-    "attack": 10,
-    "defense": 10,
-    "special_attack": 75,
-    "special_defense": 135,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 255
+    },
+    {
+      "name": "Attack",
+      "value": 10
+    },
+    {
+      "name": "Defense",
+      "value": 10
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 135
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/blissey.jpg"
 }

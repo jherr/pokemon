@@ -1,21 +1,33 @@
 {
-  "id": 764,
-  "name": {
-    "english": "Comfey",
-    "japanese": "キュワワー",
-    "chinese": "花疗环环",
-    "french": "Guérilande"
-  },
+  "name": "Comfey",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 51,
-    "attack": 52,
-    "defense": 90,
-    "special_attack": 82,
-    "special_defense": 110,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 51
+    },
+    {
+      "name": "Attack",
+      "value": 52
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 82
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/comfey.jpg"
 }

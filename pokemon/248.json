@@ -1,22 +1,34 @@
 {
-  "id": 248,
-  "name": {
-    "english": "Tyranitar",
-    "japanese": "バンギラス",
-    "chinese": "班基拉斯",
-    "french": "Tyranocif"
-  },
+  "name": "Tyranitar",
   "type": [
     "Rock",
     "Dark"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 134,
-    "defense": 110,
-    "special_attack": 95,
-    "special_defense": 100,
-    "speed": 61
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 134
+    },
+    {
+      "name": "Defense",
+      "value": 110
+    },
+    {
+      "name": "Special Attack",
+      "value": 95
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 61
+    }
+  ],
   "image": "images/tyranitar.jpg"
 }

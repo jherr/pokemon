@@ -1,21 +1,33 @@
 {
-  "id": 449,
-  "name": {
-    "english": "Hippopotas",
-    "japanese": "ヒポポタス",
-    "chinese": "沙河马",
-    "french": "Hippopotas"
-  },
+  "name": "Hippopotas",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 68,
-    "attack": 72,
-    "defense": 78,
-    "special_attack": 38,
-    "special_defense": 42,
-    "speed": 32
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 68
+    },
+    {
+      "name": "Attack",
+      "value": 72
+    },
+    {
+      "name": "Defense",
+      "value": 78
+    },
+    {
+      "name": "Special Attack",
+      "value": 38
+    },
+    {
+      "name": "Special Defense",
+      "value": 42
+    },
+    {
+      "name": "Speed",
+      "value": 32
+    }
+  ],
   "image": "images/hippopotas.jpg"
 }

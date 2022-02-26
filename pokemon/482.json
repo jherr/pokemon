@@ -1,21 +1,33 @@
 {
-  "id": 482,
-  "name": {
-    "english": "Azelf",
-    "japanese": "アグノム",
-    "chinese": "亚克诺姆",
-    "french": "Créfadet"
-  },
+  "name": "Azelf",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 125,
-    "defense": 70,
-    "special_attack": 125,
-    "special_defense": 70,
-    "speed": 115
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 125
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 125
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 115
+    }
+  ],
   "image": "images/azelf.jpg"
 }

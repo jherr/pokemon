@@ -1,21 +1,33 @@
 {
-  "id": 97,
-  "name": {
-    "english": "Hypno",
-    "japanese": "スリーパー",
-    "chinese": "引梦貘人",
-    "french": "Hypnomade"
-  },
+  "name": "Hypno",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 85,
-    "attack": 73,
-    "defense": 70,
-    "special_attack": 73,
-    "special_defense": 115,
-    "speed": 67
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 85
+    },
+    {
+      "name": "Attack",
+      "value": 73
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 73
+    },
+    {
+      "name": "Special Defense",
+      "value": 115
+    },
+    {
+      "name": "Speed",
+      "value": 67
+    }
+  ],
   "image": "images/hypno.jpg"
 }

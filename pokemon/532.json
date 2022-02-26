@@ -1,21 +1,33 @@
 {
-  "id": 532,
-  "name": {
-    "english": "Timburr",
-    "japanese": "ドッコラー",
-    "chinese": "搬运小匠",
-    "french": "Charpenti"
-  },
+  "name": "Timburr",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 80,
-    "defense": 55,
-    "special_attack": 25,
-    "special_defense": 35,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 25
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/timburr.jpg"
 }

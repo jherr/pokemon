@@ -1,22 +1,34 @@
 {
-  "id": 102,
-  "name": {
-    "english": "Exeggcute",
-    "japanese": "タマタマ",
-    "chinese": "蛋蛋",
-    "french": "Noeunoeuf"
-  },
+  "name": "Exeggcute",
   "type": [
     "Grass",
     "Psychic"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 40,
-    "defense": 80,
-    "special_attack": 60,
-    "special_defense": 45,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 40
+    },
+    {
+      "name": "Defense",
+      "value": 80
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/exeggcute.jpg"
 }

@@ -1,22 +1,34 @@
 {
-  "id": 85,
-  "name": {
-    "english": "Dodrio",
-    "japanese": "ドードリオ",
-    "chinese": "嘟嘟利",
-    "french": "Dodrio"
-  },
+  "name": "Dodrio",
   "type": [
     "Normal",
     "Flying"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 110,
-    "defense": 70,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 110
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 110
+    }
+  ],
   "image": "images/dodrio.jpg"
 }

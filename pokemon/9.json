@@ -1,21 +1,33 @@
 {
-  "id": 9,
-  "name": {
-    "english": "Blastoise",
-    "japanese": "カメックス",
-    "chinese": "水箭龟",
-    "french": "Tortank"
-  },
+  "name": "Blastoise",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 79,
-    "attack": 83,
-    "defense": 100,
-    "special_attack": 85,
-    "special_defense": 105,
-    "speed": 78
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 79
+    },
+    {
+      "name": "Attack",
+      "value": 83
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 105
+    },
+    {
+      "name": "Speed",
+      "value": 78
+    }
+  ],
   "image": "images/blastoise.jpg"
 }

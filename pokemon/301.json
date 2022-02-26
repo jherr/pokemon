@@ -1,21 +1,33 @@
 {
-  "id": 301,
-  "name": {
-    "english": "Delcatty",
-    "japanese": "エネコロロ",
-    "chinese": "优雅猫",
-    "french": "Delcatty"
-  },
+  "name": "Delcatty",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 65,
-    "defense": 65,
-    "special_attack": 55,
-    "special_defense": 55,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/delcatty.jpg"
 }

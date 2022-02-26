@@ -1,21 +1,33 @@
 {
-  "id": 157,
-  "name": {
-    "english": "Typhlosion",
-    "japanese": "バクフーン",
-    "chinese": "火暴兽",
-    "french": "Typhlosion"
-  },
+  "name": "Typhlosion",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 78,
-    "attack": 84,
-    "defense": 78,
-    "special_attack": 109,
-    "special_defense": 85,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 84
+    },
+    {
+      "name": "Defense",
+      "value": 78
+    },
+    {
+      "name": "Special Attack",
+      "value": 109
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/typhlosion.jpg"
 }

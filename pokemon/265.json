@@ -1,21 +1,33 @@
 {
-  "id": 265,
-  "name": {
-    "english": "Wurmple",
-    "japanese": "ケムッソ",
-    "chinese": "刺尾虫",
-    "french": "Chenipotte"
-  },
+  "name": "Wurmple",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 45,
-    "defense": 35,
-    "special_attack": 20,
-    "special_defense": 30,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 20
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/wurmple.jpg"
 }

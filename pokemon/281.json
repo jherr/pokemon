@@ -1,22 +1,34 @@
 {
-  "id": 281,
-  "name": {
-    "english": "Kirlia",
-    "japanese": "キルリア",
-    "chinese": "奇鲁莉安",
-    "french": "Kirlia"
-  },
+  "name": "Kirlia",
   "type": [
     "Psychic",
     "Fairy"
   ],
-  "base": {
-    "hp": 38,
-    "attack": 35,
-    "defense": 35,
-    "special_attack": 65,
-    "special_defense": 55,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/kirlia.jpg"
 }

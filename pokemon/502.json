@@ -1,21 +1,33 @@
 {
-  "id": 502,
-  "name": {
-    "english": "Dewott",
-    "japanese": "フタチマル",
-    "chinese": "双刃丸",
-    "french": "Mateloutre"
-  },
+  "name": "Dewott",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 75,
-    "defense": 60,
-    "special_attack": 83,
-    "special_defense": 60,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 83
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/dewott.jpg"
 }

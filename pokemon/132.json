@@ -1,21 +1,33 @@
 {
-  "id": 132,
-  "name": {
-    "english": "Ditto",
-    "japanese": "メタモン",
-    "chinese": "百变怪",
-    "french": "Métamorph"
-  },
+  "name": "Ditto",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 48,
-    "attack": 48,
-    "defense": 48,
-    "special_attack": 48,
-    "special_defense": 48,
-    "speed": 48
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 48
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 48
+    },
+    {
+      "name": "Special Attack",
+      "value": 48
+    },
+    {
+      "name": "Special Defense",
+      "value": 48
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
   "image": "images/ditto.jpg"
 }

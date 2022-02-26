@@ -1,21 +1,33 @@
 {
-  "id": 245,
-  "name": {
-    "english": "Suicune",
-    "japanese": "スイクン",
-    "chinese": "水君",
-    "french": "Suicune"
-  },
+  "name": "Suicune",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 75,
-    "defense": 115,
-    "special_attack": 90,
-    "special_defense": 115,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 115
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 115
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/suicune.jpg"
 }

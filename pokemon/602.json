@@ -1,21 +1,33 @@
 {
-  "id": 602,
-  "name": {
-    "english": "Tynamo",
-    "japanese": "シビシラス",
-    "chinese": "麻麻小鱼",
-    "french": "Anchwatt"
-  },
+  "name": "Tynamo",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 55,
-    "defense": 40,
-    "special_attack": 45,
-    "special_defense": 40,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/tynamo.jpg"
 }

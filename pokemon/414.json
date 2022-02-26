@@ -1,22 +1,34 @@
 {
-  "id": 414,
-  "name": {
-    "english": "Mothim",
-    "japanese": "ガーメイル",
-    "chinese": "绅士蛾",
-    "french": "Papilord"
-  },
+  "name": "Mothim",
   "type": [
     "Bug",
     "Flying"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 94,
-    "defense": 50,
-    "special_attack": 94,
-    "special_defense": 50,
-    "speed": 66
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 94
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 94
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
   "image": "images/mothim.jpg"
 }

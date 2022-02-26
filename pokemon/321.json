@@ -1,21 +1,33 @@
 {
-  "id": 321,
-  "name": {
-    "english": "Wailord",
-    "japanese": "ホエルオー",
-    "chinese": "吼鲸王",
-    "french": "Wailord"
-  },
+  "name": "Wailord",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 170,
-    "attack": 90,
-    "defense": 45,
-    "special_attack": 90,
-    "special_defense": 45,
-    "speed": 60
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 170
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 90
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 60
+    }
+  ],
   "image": "images/wailord.jpg"
 }

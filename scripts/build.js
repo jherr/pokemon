@@ -1,5 +1,14 @@
 const fs = require("fs");
 
+const name = {
+  hp: "HP",
+  attack: "Attack",
+  defense: "Defense",
+  special_attack: "Special Attack",
+  special_defense: "Special Defense",
+  speed: "Speed",
+};
+
 const index = [];
 for (const pokemon of JSON.parse(fs.readFileSync("./original.json"))) {
   const image = `images/${pokemon.name.english
@@ -17,7 +26,12 @@ for (const pokemon of JSON.parse(fs.readFileSync("./original.json"))) {
     `./pokemon/${pokemon.id}.json`,
     JSON.stringify(
       {
-        ...pokemon,
+        name: pokemon.name.english,
+        type: pokemon.type,
+        stats: Object.keys(pokemon.base).map((key) => ({
+          name: name[key],
+          value: pokemon.base[key],
+        })),
         image,
       },
       null,

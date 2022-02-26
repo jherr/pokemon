@@ -1,21 +1,33 @@
 {
-  "id": 352,
-  "name": {
-    "english": "Kecleon",
-    "japanese": "カクレオン",
-    "chinese": "变隐龙",
-    "french": "Kecleon"
-  },
+  "name": "Kecleon",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 90,
-    "defense": 70,
-    "special_attack": 60,
-    "special_defense": 120,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 120
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/kecleon.jpg"
 }

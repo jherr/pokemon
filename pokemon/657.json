@@ -1,21 +1,33 @@
 {
-  "id": 657,
-  "name": {
-    "english": "Frogadier",
-    "japanese": "ゲコガシラ",
-    "chinese": "呱头蛙",
-    "french": "Croâporal"
-  },
+  "name": "Frogadier",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 54,
-    "attack": 63,
-    "defense": 52,
-    "special_attack": 83,
-    "special_defense": 56,
-    "speed": 97
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 54
+    },
+    {
+      "name": "Attack",
+      "value": 63
+    },
+    {
+      "name": "Defense",
+      "value": 52
+    },
+    {
+      "name": "Special Attack",
+      "value": 83
+    },
+    {
+      "name": "Special Defense",
+      "value": 56
+    },
+    {
+      "name": "Speed",
+      "value": 97
+    }
+  ],
   "image": "images/frogadier.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 241,
-  "name": {
-    "english": "Miltank",
-    "japanese": "ミルタンク",
-    "chinese": "大奶罐",
-    "french": "Écrémeuh"
-  },
+  "name": "Miltank",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 95,
-    "attack": 80,
-    "defense": 105,
-    "special_attack": 40,
-    "special_defense": 70,
-    "speed": 100
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 95
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 105
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 100
+    }
+  ],
   "image": "images/miltank.jpg"
 }

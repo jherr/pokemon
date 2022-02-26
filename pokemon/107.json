@@ -1,21 +1,33 @@
 {
-  "id": 107,
-  "name": {
-    "english": "Hitmonchan",
-    "japanese": "エビワラー",
-    "chinese": "快拳郎",
-    "french": "Tygnon"
-  },
+  "name": "Hitmonchan",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 105,
-    "defense": 79,
-    "special_attack": 35,
-    "special_defense": 110,
-    "speed": 76
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 79
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 76
+    }
+  ],
   "image": "images/hitmonchan.jpg"
 }

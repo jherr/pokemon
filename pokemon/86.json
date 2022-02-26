@@ -1,21 +1,33 @@
 {
-  "id": 86,
-  "name": {
-    "english": "Seel",
-    "japanese": "パウワウ",
-    "chinese": "小海狮",
-    "french": "Otaria"
-  },
+  "name": "Seel",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 65,
-    "attack": 45,
-    "defense": 55,
-    "special_attack": 45,
-    "special_defense": 70,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 65
+    },
+    {
+      "name": "Attack",
+      "value": 45
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/seel.jpg"
 }

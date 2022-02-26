@@ -1,21 +1,33 @@
 {
-  "id": 555,
-  "name": {
-    "english": "Darmanitan",
-    "japanese": "ヒヒダルマ",
-    "chinese": "达摩狒狒",
-    "french": "Darumacho"
-  },
+  "name": "Darmanitan",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 105,
-    "attack": 140,
-    "defense": 55,
-    "special_attack": 30,
-    "special_defense": 55,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 105
+    },
+    {
+      "name": "Attack",
+      "value": 140
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/darmanitan.jpg"
 }

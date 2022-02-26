@@ -1,21 +1,33 @@
 {
-  "id": 450,
-  "name": {
-    "english": "Hippowdon",
-    "japanese": "カバルドン",
-    "chinese": "河马兽",
-    "french": "Hippodocus"
-  },
+  "name": "Hippowdon",
   "type": [
     "Ground"
   ],
-  "base": {
-    "hp": 108,
-    "attack": 112,
-    "defense": 118,
-    "special_attack": 68,
-    "special_defense": 72,
-    "speed": 47
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 108
+    },
+    {
+      "name": "Attack",
+      "value": 112
+    },
+    {
+      "name": "Defense",
+      "value": 118
+    },
+    {
+      "name": "Special Attack",
+      "value": 68
+    },
+    {
+      "name": "Special Defense",
+      "value": 72
+    },
+    {
+      "name": "Speed",
+      "value": 47
+    }
+  ],
   "image": "images/hippowdon.jpg"
 }

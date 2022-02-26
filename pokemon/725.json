@@ -1,21 +1,33 @@
 {
-  "id": 725,
-  "name": {
-    "english": "Litten",
-    "japanese": "ニャビー",
-    "chinese": "火斑喵",
-    "french": "Flamiaou"
-  },
+  "name": "Litten",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 65,
-    "defense": 40,
-    "special_attack": 60,
-    "special_defense": 40,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/litten.jpg"
 }

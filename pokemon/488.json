@@ -1,21 +1,33 @@
 {
-  "id": 488,
-  "name": {
-    "english": "Cresselia",
-    "japanese": "クレセリア",
-    "chinese": "克雷色利亚",
-    "french": "Cresselia"
-  },
+  "name": "Cresselia",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 120,
-    "attack": 70,
-    "defense": 120,
-    "special_attack": 75,
-    "special_defense": 130,
-    "speed": 85
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 120
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 120
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 85
+    }
+  ],
   "image": "images/cresselia.jpg"
 }

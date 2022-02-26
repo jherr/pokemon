@@ -1,21 +1,33 @@
 {
-  "id": 505,
-  "name": {
-    "english": "Watchog",
-    "japanese": "ミルホッグ",
-    "chinese": "步哨鼠",
-    "french": "Miradar"
-  },
+  "name": "Watchog",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 85,
-    "defense": 69,
-    "special_attack": 60,
-    "special_defense": 69,
-    "speed": 77
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 69
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 69
+    },
+    {
+      "name": "Speed",
+      "value": 77
+    }
+  ],
   "image": "images/watchog.jpg"
 }

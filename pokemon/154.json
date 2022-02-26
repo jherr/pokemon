@@ -1,21 +1,33 @@
 {
-  "id": 154,
-  "name": {
-    "english": "Meganium",
-    "japanese": "メガニウム",
-    "chinese": "大竺葵",
-    "french": "Méganium"
-  },
+  "name": "Meganium",
   "type": [
     "Grass"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 82,
-    "defense": 100,
-    "special_attack": 83,
-    "special_defense": 100,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 83
+    },
+    {
+      "name": "Special Defense",
+      "value": 100
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/meganium.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 569,
-  "name": {
-    "english": "Garbodor",
-    "japanese": "ダストダス",
-    "chinese": "灰尘山",
-    "french": "Miasmax"
-  },
+  "name": "Garbodor",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 95,
-    "defense": 82,
-    "special_attack": 60,
-    "special_defense": 82,
-    "speed": 75
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 82
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 82
+    },
+    {
+      "name": "Speed",
+      "value": 75
+    }
+  ],
   "image": "images/garbodor.jpg"
 }

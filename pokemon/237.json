@@ -1,21 +1,33 @@
 {
-  "id": 237,
-  "name": {
-    "english": "Hitmontop",
-    "japanese": "カポエラー",
-    "chinese": "战舞郎",
-    "french": "Kapoera"
-  },
+  "name": "Hitmontop",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 95,
-    "defense": 95,
-    "special_attack": 35,
-    "special_defense": 110,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 95
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/hitmontop.jpg"
 }

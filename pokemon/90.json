@@ -1,21 +1,33 @@
 {
-  "id": 90,
-  "name": {
-    "english": "Shellder",
-    "japanese": "シェルダー",
-    "chinese": "大舌贝",
-    "french": "Kokiyas"
-  },
+  "name": "Shellder",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 30,
-    "attack": 65,
-    "defense": 100,
-    "special_attack": 45,
-    "special_defense": 25,
-    "speed": 40
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 30
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 40
+    }
+  ],
   "image": "images/shellder.jpg"
 }

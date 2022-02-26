@@ -1,21 +1,33 @@
 {
-  "id": 584,
-  "name": {
-    "english": "Vanilluxe",
-    "japanese": "バイバニラ",
-    "chinese": "双倍多多冰",
-    "french": "Sorbouboul"
-  },
+  "name": "Vanilluxe",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 71,
-    "attack": 95,
-    "defense": 85,
-    "special_attack": 110,
-    "special_defense": 95,
-    "speed": 79
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 71
+    },
+    {
+      "name": "Attack",
+      "value": 95
+    },
+    {
+      "name": "Defense",
+      "value": 85
+    },
+    {
+      "name": "Special Attack",
+      "value": 110
+    },
+    {
+      "name": "Special Defense",
+      "value": 95
+    },
+    {
+      "name": "Speed",
+      "value": 79
+    }
+  ],
   "image": "images/vanilluxe.jpg"
 }

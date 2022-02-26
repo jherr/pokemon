@@ -1,21 +1,33 @@
 {
-  "id": 729,
-  "name": {
-    "english": "Brionne",
-    "japanese": "オシャマリ",
-    "chinese": "花漾海狮",
-    "french": "Otarlette"
-  },
+  "name": "Brionne",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 69,
-    "defense": 69,
-    "special_attack": 91,
-    "special_defense": 81,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 69
+    },
+    {
+      "name": "Defense",
+      "value": 69
+    },
+    {
+      "name": "Special Attack",
+      "value": 91
+    },
+    {
+      "name": "Special Defense",
+      "value": 81
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/brionne.jpg"
 }

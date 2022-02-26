@@ -1,21 +1,33 @@
 {
-  "id": 30,
-  "name": {
-    "english": "Nidorina",
-    "japanese": "ニドリーナ",
-    "chinese": "尼多娜",
-    "french": "Nidorina"
-  },
+  "name": "Nidorina",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 62,
-    "defense": 67,
-    "special_attack": 55,
-    "special_defense": 55,
-    "speed": 56
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 62
+    },
+    {
+      "name": "Defense",
+      "value": 67
+    },
+    {
+      "name": "Special Attack",
+      "value": 55
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 56
+    }
+  ],
   "image": "images/nidorina.jpg"
 }

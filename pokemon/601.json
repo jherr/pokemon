@@ -1,21 +1,33 @@
 {
-  "id": 601,
-  "name": {
-    "english": "Klinklang",
-    "japanese": "ギギギアル",
-    "chinese": "齿轮怪",
-    "french": "Cliticlic"
-  },
+  "name": "Klinklang",
   "type": [
     "Steel"
   ],
-  "base": {
-    "hp": 60,
-    "attack": 100,
-    "defense": 115,
-    "special_attack": 70,
-    "special_defense": 85,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 60
+    },
+    {
+      "name": "Attack",
+      "value": 100
+    },
+    {
+      "name": "Defense",
+      "value": 115
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 85
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/klinklang.jpg"
 }

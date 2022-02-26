@@ -1,21 +1,33 @@
 {
-  "id": 796,
-  "name": {
-    "english": "Xurkitree",
-    "japanese": "デンジュモク",
-    "chinese": "电束木",
-    "french": "Bamboiselle"
-  },
+  "name": "Xurkitree",
   "type": [
     "Electric"
   ],
-  "base": {
-    "hp": 83,
-    "attack": 89,
-    "defense": 71,
-    "special_attack": 173,
-    "special_defense": 71,
-    "speed": 83
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 83
+    },
+    {
+      "name": "Attack",
+      "value": 89
+    },
+    {
+      "name": "Defense",
+      "value": 71
+    },
+    {
+      "name": "Special Attack",
+      "value": 173
+    },
+    {
+      "name": "Special Defense",
+      "value": 71
+    },
+    {
+      "name": "Speed",
+      "value": 83
+    }
+  ],
   "image": "images/xurkitree.jpg"
 }

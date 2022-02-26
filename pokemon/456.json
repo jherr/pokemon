@@ -1,21 +1,33 @@
 {
-  "id": 456,
-  "name": {
-    "english": "Finneon",
-    "japanese": "ケイコウオ",
-    "chinese": "荧光鱼",
-    "french": "Écayon"
-  },
+  "name": "Finneon",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 49,
-    "attack": 49,
-    "defense": 56,
-    "special_attack": 49,
-    "special_defense": 61,
-    "speed": 66
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 49
+    },
+    {
+      "name": "Attack",
+      "value": 49
+    },
+    {
+      "name": "Defense",
+      "value": 56
+    },
+    {
+      "name": "Special Attack",
+      "value": 49
+    },
+    {
+      "name": "Special Defense",
+      "value": 61
+    },
+    {
+      "name": "Speed",
+      "value": 66
+    }
+  ],
   "image": "images/finneon.jpg"
 }

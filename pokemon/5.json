@@ -1,21 +1,33 @@
 {
-  "id": 5,
-  "name": {
-    "english": "Charmeleon",
-    "japanese": "リザード",
-    "chinese": "火恐龙",
-    "french": "Reptincel"
-  },
+  "name": "Charmeleon",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 58,
-    "attack": 64,
-    "defense": 58,
-    "special_attack": 80,
-    "special_defense": 65,
-    "speed": 80
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 58
+    },
+    {
+      "name": "Attack",
+      "value": 64
+    },
+    {
+      "name": "Defense",
+      "value": 58
+    },
+    {
+      "name": "Special Attack",
+      "value": 80
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 80
+    }
+  ],
   "image": "images/charmeleon.jpg"
 }

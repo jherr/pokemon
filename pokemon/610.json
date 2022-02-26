@@ -1,21 +1,33 @@
 {
-  "id": 610,
-  "name": {
-    "english": "Axew",
-    "japanese": "キバゴ",
-    "chinese": "牙牙",
-    "french": "Coupenotte"
-  },
+  "name": "Axew",
   "type": [
     "Dragon"
   ],
-  "base": {
-    "hp": 46,
-    "attack": 87,
-    "defense": 60,
-    "special_attack": 30,
-    "special_defense": 40,
-    "speed": 57
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 46
+    },
+    {
+      "name": "Attack",
+      "value": 87
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 30
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 57
+    }
+  ],
   "image": "images/axew.jpg"
 }

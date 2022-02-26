@@ -1,21 +1,33 @@
 {
-  "id": 60,
-  "name": {
-    "english": "Poliwag",
-    "japanese": "ニョロモ",
-    "chinese": "蚊香蝌蚪",
-    "french": "Ptitard"
-  },
+  "name": "Poliwag",
   "type": [
     "Water"
   ],
-  "base": {
-    "hp": 40,
-    "attack": 50,
-    "defense": 40,
-    "special_attack": 40,
-    "special_defense": 40,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 40
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/poliwag.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 664,
-  "name": {
-    "english": "Scatterbug",
-    "japanese": "コフキムシ",
-    "chinese": "粉蝶虫",
-    "french": "Lépidonille"
-  },
+  "name": "Scatterbug",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 38,
-    "attack": 35,
-    "defense": 40,
-    "special_attack": 27,
-    "special_defense": 25,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 38
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 27
+    },
+    {
+      "name": "Special Defense",
+      "value": 25
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/scatterbug.jpg"
 }

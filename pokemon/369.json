@@ -1,22 +1,34 @@
 {
-  "id": 369,
-  "name": {
-    "english": "Relicanth",
-    "japanese": "ジーランス",
-    "chinese": "古空棘鱼",
-    "french": "Relicanth"
-  },
+  "name": "Relicanth",
   "type": [
     "Water",
     "Rock"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 90,
-    "defense": 130,
-    "special_attack": 45,
-    "special_defense": 65,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/relicanth.jpg"
 }

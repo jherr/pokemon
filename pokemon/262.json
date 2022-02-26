@@ -1,21 +1,33 @@
 {
-  "id": 262,
-  "name": {
-    "english": "Mightyena",
-    "japanese": "グラエナ",
-    "chinese": "大狼犬",
-    "french": "Grahyèna"
-  },
+  "name": "Mightyena",
   "type": [
     "Dark"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 90,
-    "defense": 70,
-    "special_attack": 60,
-    "special_defense": 60,
-    "speed": 70
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 70
+    }
+  ],
   "image": "images/mightyena.jpg"
 }

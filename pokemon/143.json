@@ -1,21 +1,33 @@
 {
-  "id": 143,
-  "name": {
-    "english": "Snorlax",
-    "japanese": "カビゴン",
-    "chinese": "卡比兽",
-    "french": "Ronflex"
-  },
+  "name": "Snorlax",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 160,
-    "attack": 110,
-    "defense": 65,
-    "special_attack": 65,
-    "special_defense": 110,
-    "speed": 30
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 160
+    },
+    {
+      "name": "Attack",
+      "value": 110
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 110
+    },
+    {
+      "name": "Speed",
+      "value": 30
+    }
+  ],
   "image": "images/snorlax.jpg"
 }

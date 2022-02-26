@@ -1,21 +1,33 @@
 {
-  "id": 554,
-  "name": {
-    "english": "Darumaka",
-    "japanese": "ダルマッカ",
-    "chinese": "火红不倒翁",
-    "french": "Darumarond"
-  },
+  "name": "Darumaka",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 90,
-    "defense": 45,
-    "special_attack": 15,
-    "special_defense": 45,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 90
+    },
+    {
+      "name": "Defense",
+      "value": 45
+    },
+    {
+      "name": "Special Attack",
+      "value": 15
+    },
+    {
+      "name": "Special Defense",
+      "value": 45
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/darumaka.jpg"
 }

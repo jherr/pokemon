@@ -1,21 +1,33 @@
 {
-  "id": 29,
-  "name": {
-    "english": "Nidoran♀",
-    "japanese": "ニドラン♀",
-    "chinese": "尼多兰",
-    "french": "Nidoran♀"
-  },
+  "name": "Nidoran",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 55,
-    "attack": 47,
-    "defense": 52,
-    "special_attack": 40,
-    "special_defense": 40,
-    "speed": 41
-  },
-  "image": "images/nidoran♀.jpg"
+  "stats": [
+    {
+      "name": "HP",
+      "value": 55
+    },
+    {
+      "name": "Attack",
+      "value": 47
+    },
+    {
+      "name": "Defense",
+      "value": 52
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 41
+    }
+  ],
+  "image": "images/nidoran.jpg"
 }

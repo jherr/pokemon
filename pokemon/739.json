@@ -1,21 +1,33 @@
 {
-  "id": 739,
-  "name": {
-    "english": "Crabrawler",
-    "japanese": "マケンカニ",
-    "chinese": "好胜蟹",
-    "french": "Crabagarre"
-  },
+  "name": "Crabrawler",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 47,
-    "attack": 82,
-    "defense": 57,
-    "special_attack": 42,
-    "special_defense": 47,
-    "speed": 63
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 47
+    },
+    {
+      "name": "Attack",
+      "value": 82
+    },
+    {
+      "name": "Defense",
+      "value": 57
+    },
+    {
+      "name": "Special Attack",
+      "value": 42
+    },
+    {
+      "name": "Special Defense",
+      "value": 47
+    },
+    {
+      "name": "Speed",
+      "value": 63
+    }
+  ],
   "image": "images/crabrawler.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 525,
-  "name": {
-    "english": "Boldore",
-    "japanese": "ガントル",
-    "chinese": "地幔岩",
-    "french": "Géolithe"
-  },
+  "name": "Boldore",
   "type": [
     "Rock"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 105,
-    "defense": 105,
-    "special_attack": 50,
-    "special_defense": 40,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 105
+    },
+    {
+      "name": "Defense",
+      "value": 105
+    },
+    {
+      "name": "Special Attack",
+      "value": 50
+    },
+    {
+      "name": "Special Defense",
+      "value": 40
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/boldore.jpg"
 }

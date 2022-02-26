@@ -1,21 +1,33 @@
 {
-  "id": 240,
-  "name": {
-    "english": "Magby",
-    "japanese": "ブビィ",
-    "chinese": "鸭嘴宝宝",
-    "french": "Magby"
-  },
+  "name": "Magby",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 75,
-    "defense": 37,
-    "special_attack": 70,
-    "special_defense": 55,
-    "speed": 83
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 37
+    },
+    {
+      "name": "Special Attack",
+      "value": 70
+    },
+    {
+      "name": "Special Defense",
+      "value": 55
+    },
+    {
+      "name": "Speed",
+      "value": 83
+    }
+  ],
   "image": "images/magby.jpg"
 }

@@ -1,21 +1,33 @@
 {
-  "id": 88,
-  "name": {
-    "english": "Grimer",
-    "japanese": "ベトベター",
-    "chinese": "臭泥",
-    "french": "Tadmorv"
-  },
+  "name": "Grimer",
   "type": [
     "Poison"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 80,
-    "defense": 50,
-    "special_attack": 40,
-    "special_defense": 50,
-    "speed": 25
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 80
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 25
+    }
+  ],
   "image": "images/grimer.jpg"
 }

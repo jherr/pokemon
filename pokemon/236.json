@@ -1,21 +1,33 @@
 {
-  "id": 236,
-  "name": {
-    "english": "Tyrogue",
-    "japanese": "バルキー",
-    "chinese": "无畏小子",
-    "french": "Debugant"
-  },
+  "name": "Tyrogue",
   "type": [
     "Fighting"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 35,
-    "defense": 35,
-    "special_attack": 35,
-    "special_defense": 35,
-    "speed": 35
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 35
+    },
+    {
+      "name": "Defense",
+      "value": 35
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 35
+    },
+    {
+      "name": "Speed",
+      "value": 35
+    }
+  ],
   "image": "images/tyrogue.jpg"
 }

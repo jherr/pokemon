@@ -1,21 +1,33 @@
 {
-  "id": 621,
-  "name": {
-    "english": "Druddigon",
-    "japanese": "クリムガン",
-    "chinese": "赤面龙",
-    "french": "Drakkarmin"
-  },
+  "name": "Druddigon",
   "type": [
     "Dragon"
   ],
-  "base": {
-    "hp": 77,
-    "attack": 120,
-    "defense": 90,
-    "special_attack": 60,
-    "special_defense": 90,
-    "speed": 48
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 77
+    },
+    {
+      "name": "Attack",
+      "value": 120
+    },
+    {
+      "name": "Defense",
+      "value": 90
+    },
+    {
+      "name": "Special Attack",
+      "value": 60
+    },
+    {
+      "name": "Special Defense",
+      "value": 90
+    },
+    {
+      "name": "Speed",
+      "value": 48
+    }
+  ],
   "image": "images/druddigon.jpg"
 }

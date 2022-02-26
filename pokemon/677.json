@@ -1,21 +1,33 @@
 {
-  "id": 677,
-  "name": {
-    "english": "Espurr",
-    "japanese": "ニャスパー",
-    "chinese": "妙喵",
-    "french": "Psystigri"
-  },
+  "name": "Espurr",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 62,
-    "attack": 48,
-    "defense": 54,
-    "special_attack": 63,
-    "special_defense": 60,
-    "speed": 68
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 62
+    },
+    {
+      "name": "Attack",
+      "value": 48
+    },
+    {
+      "name": "Defense",
+      "value": 54
+    },
+    {
+      "name": "Special Attack",
+      "value": 63
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 68
+    }
+  ],
   "image": "images/espurr.jpg"
 }

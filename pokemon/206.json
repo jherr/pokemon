@@ -1,21 +1,33 @@
 {
-  "id": 206,
-  "name": {
-    "english": "Dunsparce",
-    "japanese": "ノコッチ",
-    "chinese": "土龙弟弟",
-    "french": "Insolourdo"
-  },
+  "name": "Dunsparce",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 100,
-    "attack": 70,
-    "defense": 70,
-    "special_attack": 65,
-    "special_defense": 65,
-    "speed": 45
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 100
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 70
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 45
+    }
+  ],
   "image": "images/dunsparce.jpg"
 }

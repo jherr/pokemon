@@ -1,22 +1,34 @@
 {
-  "id": 633,
-  "name": {
-    "english": "Deino",
-    "japanese": "モノズ",
-    "chinese": "单首龙",
-    "french": "Solochi"
-  },
+  "name": "Deino",
   "type": [
     "Dark",
     "Dragon"
   ],
-  "base": {
-    "hp": 52,
-    "attack": 65,
-    "defense": 50,
-    "special_attack": 45,
-    "special_defense": 50,
-    "speed": 38
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 52
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 50
+    },
+    {
+      "name": "Special Attack",
+      "value": 45
+    },
+    {
+      "name": "Special Defense",
+      "value": 50
+    },
+    {
+      "name": "Speed",
+      "value": 38
+    }
+  ],
   "image": "images/deino.jpg"
 }

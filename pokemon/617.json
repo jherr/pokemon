@@ -1,21 +1,33 @@
 {
-  "id": 617,
-  "name": {
-    "english": "Accelgor",
-    "japanese": "アギルダー",
-    "chinese": "敏捷虫",
-    "french": "Limaspeed"
-  },
+  "name": "Accelgor",
   "type": [
     "Bug"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 70,
-    "defense": 40,
-    "special_attack": 100,
-    "special_defense": 60,
-    "speed": 145
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 70
+    },
+    {
+      "name": "Defense",
+      "value": 40
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 60
+    },
+    {
+      "name": "Speed",
+      "value": 145
+    }
+  ],
   "image": "images/accelgor.jpg"
 }

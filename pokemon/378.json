@@ -1,21 +1,33 @@
 {
-  "id": 378,
-  "name": {
-    "english": "Regice",
-    "japanese": "レジアイス",
-    "chinese": "雷吉艾斯",
-    "french": "Regice"
-  },
+  "name": "Regice",
   "type": [
     "Ice"
   ],
-  "base": {
-    "hp": 80,
-    "attack": 50,
-    "defense": 100,
-    "special_attack": 100,
-    "special_defense": 200,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 80
+    },
+    {
+      "name": "Attack",
+      "value": 50
+    },
+    {
+      "name": "Defense",
+      "value": 100
+    },
+    {
+      "name": "Special Attack",
+      "value": 100
+    },
+    {
+      "name": "Special Defense",
+      "value": 200
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/regice.jpg"
 }

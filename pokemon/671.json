@@ -1,21 +1,33 @@
 {
-  "id": 671,
-  "name": {
-    "english": "Florges",
-    "japanese": "フラージェス",
-    "chinese": "花洁夫人",
-    "french": "Florges"
-  },
+  "name": "Florges",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 78,
-    "attack": 65,
-    "defense": 68,
-    "special_attack": 112,
-    "special_defense": 154,
-    "speed": 75
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 78
+    },
+    {
+      "name": "Attack",
+      "value": 65
+    },
+    {
+      "name": "Defense",
+      "value": 68
+    },
+    {
+      "name": "Special Attack",
+      "value": 112
+    },
+    {
+      "name": "Special Defense",
+      "value": 154
+    },
+    {
+      "name": "Speed",
+      "value": 75
+    }
+  ],
   "image": "images/florges.jpg"
 }

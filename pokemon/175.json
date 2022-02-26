@@ -1,21 +1,33 @@
 {
-  "id": 175,
-  "name": {
-    "english": "Togepi",
-    "japanese": "トゲピー",
-    "chinese": "波克比",
-    "french": "Togepi"
-  },
+  "name": "Togepi",
   "type": [
     "Fairy"
   ],
-  "base": {
-    "hp": 35,
-    "attack": 20,
-    "defense": 65,
-    "special_attack": 40,
-    "special_defense": 65,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 35
+    },
+    {
+      "name": "Attack",
+      "value": 20
+    },
+    {
+      "name": "Defense",
+      "value": 65
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/togepi.jpg"
 }

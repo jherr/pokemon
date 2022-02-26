@@ -1,21 +1,33 @@
 {
-  "id": 504,
-  "name": {
-    "english": "Patrat",
-    "japanese": "ミネズミ",
-    "chinese": "探探鼠",
-    "french": "Ratentif"
-  },
+  "name": "Patrat",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 55,
-    "defense": 39,
-    "special_attack": 35,
-    "special_defense": 39,
-    "speed": 42
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 55
+    },
+    {
+      "name": "Defense",
+      "value": 39
+    },
+    {
+      "name": "Special Attack",
+      "value": 35
+    },
+    {
+      "name": "Special Defense",
+      "value": 39
+    },
+    {
+      "name": "Speed",
+      "value": 42
+    }
+  ],
   "image": "images/patrat.jpg"
 }

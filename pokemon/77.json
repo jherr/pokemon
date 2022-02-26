@@ -1,21 +1,33 @@
 {
-  "id": 77,
-  "name": {
-    "english": "Ponyta",
-    "japanese": "ポニータ",
-    "chinese": "小火马",
-    "french": "Ponyta"
-  },
+  "name": "Ponyta",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 50,
-    "attack": 85,
-    "defense": 55,
-    "special_attack": 65,
-    "special_defense": 65,
-    "speed": 90
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 50
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 55
+    },
+    {
+      "name": "Special Attack",
+      "value": 65
+    },
+    {
+      "name": "Special Defense",
+      "value": 65
+    },
+    {
+      "name": "Speed",
+      "value": 90
+    }
+  ],
   "image": "images/ponyta.jpg"
 }

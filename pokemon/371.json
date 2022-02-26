@@ -1,21 +1,33 @@
 {
-  "id": 371,
-  "name": {
-    "english": "Bagon",
-    "japanese": "タツベイ",
-    "chinese": "宝贝龙",
-    "french": "Draby"
-  },
+  "name": "Bagon",
   "type": [
     "Dragon"
   ],
-  "base": {
-    "hp": 45,
-    "attack": 75,
-    "defense": 60,
-    "special_attack": 40,
-    "special_defense": 30,
-    "speed": 50
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 45
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 60
+    },
+    {
+      "name": "Special Attack",
+      "value": 40
+    },
+    {
+      "name": "Special Defense",
+      "value": 30
+    },
+    {
+      "name": "Speed",
+      "value": 50
+    }
+  ],
   "image": "images/bagon.jpg"
 }

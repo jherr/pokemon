@@ -1,21 +1,33 @@
 {
-  "id": 217,
-  "name": {
-    "english": "Ursaring",
-    "japanese": "リングマ",
-    "chinese": "圈圈熊",
-    "french": "Ursaring"
-  },
+  "name": "Ursaring",
   "type": [
     "Normal"
   ],
-  "base": {
-    "hp": 90,
-    "attack": 130,
-    "defense": 75,
-    "special_attack": 75,
-    "special_defense": 75,
-    "speed": 55
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 90
+    },
+    {
+      "name": "Attack",
+      "value": 130
+    },
+    {
+      "name": "Defense",
+      "value": 75
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 75
+    },
+    {
+      "name": "Speed",
+      "value": 55
+    }
+  ],
   "image": "images/ursaring.jpg"
 }

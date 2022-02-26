@@ -1,21 +1,33 @@
 {
-  "id": 324,
-  "name": {
-    "english": "Torkoal",
-    "japanese": "コータス",
-    "chinese": "煤炭龟",
-    "french": "Chartor"
-  },
+  "name": "Torkoal",
   "type": [
     "Fire"
   ],
-  "base": {
-    "hp": 70,
-    "attack": 85,
-    "defense": 140,
-    "special_attack": 85,
-    "special_defense": 70,
-    "speed": 20
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 70
+    },
+    {
+      "name": "Attack",
+      "value": 85
+    },
+    {
+      "name": "Defense",
+      "value": 140
+    },
+    {
+      "name": "Special Attack",
+      "value": 85
+    },
+    {
+      "name": "Special Defense",
+      "value": 70
+    },
+    {
+      "name": "Speed",
+      "value": 20
+    }
+  ],
   "image": "images/torkoal.jpg"
 }

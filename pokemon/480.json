@@ -1,21 +1,33 @@
 {
-  "id": 480,
-  "name": {
-    "english": "Uxie",
-    "japanese": "ユクシー",
-    "chinese": "由克希",
-    "french": "Créhelf"
-  },
+  "name": "Uxie",
   "type": [
     "Psychic"
   ],
-  "base": {
-    "hp": 75,
-    "attack": 75,
-    "defense": 130,
-    "special_attack": 75,
-    "special_defense": 130,
-    "speed": 95
-  },
+  "stats": [
+    {
+      "name": "HP",
+      "value": 75
+    },
+    {
+      "name": "Attack",
+      "value": 75
+    },
+    {
+      "name": "Defense",
+      "value": 130
+    },
+    {
+      "name": "Special Attack",
+      "value": 75
+    },
+    {
+      "name": "Special Defense",
+      "value": 130
+    },
+    {
+      "name": "Speed",
+      "value": 95
+    }
+  ],
   "image": "images/uxie.jpg"
 }
