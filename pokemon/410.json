@@ -17,5 +17,6 @@
     "special_attack": 42,
     "special_defense": 88,
     "speed": 30
-  }
+  },
+  "image": "images/shieldon.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 70,
     "speed": 48
-  }
+  },
+  "image": "images/scraggy.jpg"
 }

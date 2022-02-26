@@ -16,5 +16,6 @@
     "special_attack": 62,
     "special_defense": 60,
     "speed": 60
-  }
+  },
+  "image": "images/fennekin.jpg"
 }

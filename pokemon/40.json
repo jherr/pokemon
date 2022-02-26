@@ -17,5 +17,6 @@
     "special_attack": 85,
     "special_defense": 50,
     "speed": 45
-  }
+  },
+  "image": "images/wigglytuff.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 60,
     "speed": 50
-  }
+  },
+  "image": "images/piloswine.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 55,
     "speed": 98
-  }
+  },
+  "image": "images/basculin.jpg"
 }

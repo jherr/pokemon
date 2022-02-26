@@ -16,5 +16,6 @@
     "special_attack": 27,
     "special_defense": 30,
     "speed": 29
-  }
+  },
+  "image": "images/spewpa.jpg"
 }

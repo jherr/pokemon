@@ -17,5 +17,6 @@
     "special_attack": 70,
     "special_defense": 90,
     "speed": 70
-  }
+  },
+  "image": "images/poliwrath.jpg"
 }

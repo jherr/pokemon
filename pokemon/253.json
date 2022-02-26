@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 65,
     "speed": 95
-  }
+  },
+  "image": "images/grovyle.jpg"
 }

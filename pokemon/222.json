@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 95,
     "speed": 35
-  }
+  },
+  "image": "images/corsola.jpg"
 }

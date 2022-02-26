@@ -16,5 +16,6 @@
     "special_attack": 25,
     "special_defense": 41,
     "speed": 25
-  }
+  },
+  "image": "images/kricketot.jpg"
 }

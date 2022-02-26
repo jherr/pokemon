@@ -16,5 +16,6 @@
     "special_attack": 108,
     "special_defense": 70,
     "speed": 70
-  }
+  },
+  "image": "images/samurott.jpg"
 }

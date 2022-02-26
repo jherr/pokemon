@@ -16,5 +16,6 @@
     "special_attack": 100,
     "special_defense": 200,
     "speed": 50
-  }
+  },
+  "image": "images/regice.jpg"
 }

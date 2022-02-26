@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 35,
     "speed": 75
-  }
+  },
+  "image": "images/doduo.jpg"
 }

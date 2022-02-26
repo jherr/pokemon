@@ -16,5 +16,6 @@
     "special_attack": 110,
     "special_defense": 95,
     "speed": 65
-  }
+  },
+  "image": "images/vaporeon.jpg"
 }

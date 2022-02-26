@@ -17,5 +17,6 @@
     "special_attack": 55,
     "special_defense": 65,
     "speed": 45
-  }
+  },
+  "image": "images/golem.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 50,
     "speed": 45
-  }
+  },
+  "image": "images/chingling.jpg"
 }

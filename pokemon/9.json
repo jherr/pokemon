@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 105,
     "speed": 78
-  }
+  },
+  "image": "images/blastoise.jpg"
 }

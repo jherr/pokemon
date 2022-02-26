@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 60,
     "speed": 45
-  }
+  },
+  "image": "images/machoke.jpg"
 }

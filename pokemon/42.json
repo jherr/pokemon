@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 75,
     "speed": 90
-  }
+  },
+  "image": "images/golbat.jpg"
 }

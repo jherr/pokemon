@@ -16,5 +16,6 @@
     "special_attack": 125,
     "special_defense": 70,
     "speed": 115
-  }
+  },
+  "image": "images/azelf.jpg"
 }

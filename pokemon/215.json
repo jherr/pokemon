@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 75,
     "speed": 115
-  }
+  },
+  "image": "images/sneasel.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 70,
     "speed": 95
-  }
+  },
+  "image": "images/sawsbuck.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 63,
     "special_defense": 33,
     "speed": 45
-  }
+  },
+  "image": "images/shuppet.jpg"
 }

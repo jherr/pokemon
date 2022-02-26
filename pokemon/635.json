@@ -17,5 +17,6 @@
     "special_attack": 125,
     "special_defense": 90,
     "speed": 98
-  }
+  },
+  "image": "images/hydreigon.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 75,
     "speed": 60
-  }
+  },
+  "image": "images/toucannon.jpg"
 }

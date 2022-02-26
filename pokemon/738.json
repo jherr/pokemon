@@ -17,5 +17,6 @@
     "special_attack": 145,
     "special_defense": 75,
     "speed": 43
-  }
+  },
+  "image": "images/vikavolt.jpg"
 }

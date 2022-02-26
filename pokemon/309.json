@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 40,
     "speed": 65
-  }
+  },
+  "image": "images/electrike.jpg"
 }

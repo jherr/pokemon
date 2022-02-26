@@ -17,5 +17,6 @@
     "special_attack": 109,
     "special_defense": 94,
     "speed": 109
-  }
+  },
+  "image": "images/heliolisk.jpg"
 }

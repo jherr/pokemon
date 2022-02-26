@@ -16,5 +16,6 @@
     "special_attack": 112,
     "special_defense": 154,
     "speed": 75
-  }
+  },
+  "image": "images/florges.jpg"
 }

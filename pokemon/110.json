@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 70,
     "speed": 60
-  }
+  },
+  "image": "images/weezing.jpg"
 }

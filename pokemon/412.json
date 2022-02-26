@@ -16,5 +16,6 @@
     "special_attack": 29,
     "special_defense": 45,
     "speed": 36
-  }
+  },
+  "image": "images/burmy.jpg"
 }

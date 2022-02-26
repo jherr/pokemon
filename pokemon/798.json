@@ -17,5 +17,6 @@
     "special_attack": 59,
     "special_defense": 31,
     "speed": 109
-  }
+  },
+  "image": "images/kartana.jpg"
 }

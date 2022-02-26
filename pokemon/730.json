@@ -17,5 +17,6 @@
     "special_attack": 126,
     "special_defense": 116,
     "speed": 60
-  }
+  },
+  "image": "images/primarina.jpg"
 }

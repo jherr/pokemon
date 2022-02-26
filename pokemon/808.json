@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 35,
     "speed": 34
-  }
+  },
+  "image": "images/meltan.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 62,
     "speed": 65
-  }
+  },
+  "image": "images/trubbish.jpg"
 }

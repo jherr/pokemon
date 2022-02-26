@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 90,
     "speed": 102
-  }
+  },
+  "image": "images/furfrou.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 63,
     "speed": 116
-  }
+  },
+  "image": "images/zebstrika.jpg"
 }

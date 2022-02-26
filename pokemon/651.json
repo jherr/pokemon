@@ -16,5 +16,6 @@
     "special_attack": 56,
     "special_defense": 58,
     "speed": 57
-  }
+  },
+  "image": "images/quilladin.jpg"
 }

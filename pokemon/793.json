@@ -17,5 +17,6 @@
     "special_attack": 127,
     "special_defense": 131,
     "speed": 103
-  }
+  },
+  "image": "images/nihilego.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 100,
     "special_defense": 90,
     "speed": 90
-  }
+  },
+  "image": "images/groudon.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 95,
     "speed": 55
-  }
+  },
+  "image": "images/bouffalant.jpg"
 }

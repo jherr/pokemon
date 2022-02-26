@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 60,
     "speed": 42
-  }
+  },
+  "image": "images/sewaddle.jpg"
 }

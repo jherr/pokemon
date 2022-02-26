@@ -17,5 +17,6 @@
     "special_attack": 100,
     "special_defense": 110,
     "speed": 30
-  }
+  },
+  "image": "images/slowking.jpg"
 }

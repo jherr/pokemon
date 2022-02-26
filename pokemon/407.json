@@ -17,5 +17,6 @@
     "special_attack": 125,
     "special_defense": 105,
     "speed": 90
-  }
+  },
+  "image": "images/roserade.jpg"
 }

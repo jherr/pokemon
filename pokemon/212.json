@@ -17,5 +17,6 @@
     "special_attack": 55,
     "special_defense": 80,
     "speed": 65
-  }
+  },
+  "image": "images/scizor.jpg"
 }

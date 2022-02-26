@@ -16,5 +16,6 @@
     "special_attack": 70,
     "special_defense": 70,
     "speed": 70
-  }
+  },
+  "image": "images/castform.jpg"
 }

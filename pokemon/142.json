@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 75,
     "speed": 130
-  }
+  },
+  "image": "images/aerodactyl.jpg"
 }

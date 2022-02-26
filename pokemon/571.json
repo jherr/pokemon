@@ -16,5 +16,6 @@
     "special_attack": 120,
     "special_defense": 60,
     "speed": 105
-  }
+  },
+  "image": "images/zoroark.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 79,
     "speed": 47
-  }
+  },
+  "image": "images/whirlipede.jpg"
 }

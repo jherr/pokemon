@@ -16,5 +16,6 @@
     "special_attack": 94,
     "special_defense": 75,
     "speed": 52
-  }
+  },
+  "image": "images/huntail.jpg"
 }

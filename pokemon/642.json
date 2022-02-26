@@ -17,5 +17,6 @@
     "special_attack": 125,
     "special_defense": 80,
     "speed": 111
-  }
+  },
+  "image": "images/thundurus.jpg"
 }

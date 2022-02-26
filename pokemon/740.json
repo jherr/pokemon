@@ -17,5 +17,6 @@
     "special_attack": 62,
     "special_defense": 67,
     "speed": 43
-  }
+  },
+  "image": "images/crabominable.jpg"
 }

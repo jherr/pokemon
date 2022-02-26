@@ -17,5 +17,6 @@
     "special_attack": 103,
     "special_defense": 71,
     "speed": 122
-  }
+  },
+  "image": "images/greninja.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 86,
     "special_defense": 96,
     "speed": 70
-  }
+  },
+  "image": "images/noctowl.jpg"
 }

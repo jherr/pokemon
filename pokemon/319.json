@@ -17,5 +17,6 @@
     "special_attack": 95,
     "special_defense": 40,
     "speed": 95
-  }
+  },
+  "image": "images/sharpedo.jpg"
 }

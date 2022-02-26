@@ -17,5 +17,6 @@
     "special_attack": 103,
     "special_defense": 80,
     "speed": 97
-  }
+  },
+  "image": "images/sigilyph.jpg"
 }

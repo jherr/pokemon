@@ -17,5 +17,6 @@
     "special_attack": 61,
     "special_defense": 43,
     "speed": 70
-  }
+  },
+  "image": "images/helioptile.jpg"
 }

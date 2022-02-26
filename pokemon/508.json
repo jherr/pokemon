@@ -16,5 +16,6 @@
     "special_attack": 45,
     "special_defense": 90,
     "speed": 80
-  }
+  },
+  "image": "images/stoutland.jpg"
 }

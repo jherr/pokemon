@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 69,
     "speed": 77
-  }
+  },
+  "image": "images/watchog.jpg"
 }

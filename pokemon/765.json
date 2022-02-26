@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 110,
     "speed": 60
-  }
+  },
+  "image": "images/oranguru.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 105,
     "special_defense": 50,
     "speed": 20
-  }
+  },
+  "image": "images/solosis.jpg"
 }

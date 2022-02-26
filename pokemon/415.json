@@ -17,5 +17,6 @@
     "special_attack": 30,
     "special_defense": 42,
     "speed": 70
-  }
+  },
+  "image": "images/combee.jpg"
 }

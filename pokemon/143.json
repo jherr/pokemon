@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 110,
     "speed": 30
-  }
+  },
+  "image": "images/snorlax.jpg"
 }

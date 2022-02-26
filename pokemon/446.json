@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 85,
     "speed": 5
-  }
+  },
+  "image": "images/munchlax.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 47,
     "special_defense": 138,
     "speed": 30
-  }
+  },
+  "image": "images/bastiodon.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 120,
     "special_defense": 120,
     "speed": 120
-  }
+  },
+  "image": "images/arceus.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 25,
     "special_defense": 35,
     "speed": 72
-  }
+  },
+  "image": "images/rattata.jpg"
 }

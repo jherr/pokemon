@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 45,
     "speed": 60
-  }
+  },
+  "image": "images/karrablast.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 45,
     "speed": 68
-  }
+  },
+  "image": "images/drilbur.jpg"
 }

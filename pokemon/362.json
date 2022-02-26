@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 80,
     "speed": 80
-  }
+  },
+  "image": "images/glalie.jpg"
 }

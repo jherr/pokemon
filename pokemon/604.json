@@ -16,5 +16,6 @@
     "special_attack": 105,
     "special_defense": 80,
     "speed": 50
-  }
+  },
+  "image": "images/eelektross.jpg"
 }

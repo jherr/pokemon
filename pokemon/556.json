@@ -16,5 +16,6 @@
     "special_attack": 106,
     "special_defense": 67,
     "speed": 60
-  }
+  },
+  "image": "images/maractus.jpg"
 }

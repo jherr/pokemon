@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 55,
     "speed": 70
-  }
+  },
+  "image": "images/treecko.jpg"
 }

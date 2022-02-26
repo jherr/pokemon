@@ -17,5 +17,6 @@
     "special_attack": 31,
     "special_defense": 31,
     "speed": 70
-  }
+  },
+  "image": "images/spearow.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 55,
     "special_defense": 43,
     "speed": 72
-  }
+  },
+  "image": "images/woobat.jpg"
 }

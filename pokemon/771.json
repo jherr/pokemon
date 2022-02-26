@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 130,
     "speed": 5
-  }
+  },
+  "image": "images/pyukumuku.jpg"
 }

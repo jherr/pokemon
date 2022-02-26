@@ -16,5 +16,6 @@
     "special_attack": 20,
     "special_defense": 30,
     "speed": 20
-  }
+  },
+  "image": "images/wurmple.jpg"
 }

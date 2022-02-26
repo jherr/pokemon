@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 30,
     "speed": 85
-  }
+  },
+  "image": "images/buizel.jpg"
 }

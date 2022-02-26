@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 80,
     "speed": 70
-  }
+  },
+  "image": "images/butterfree.jpg"
 }

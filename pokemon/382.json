@@ -16,5 +16,6 @@
     "special_attack": 150,
     "special_defense": 140,
     "speed": 90
-  }
+  },
+  "image": "images/kyogre.jpg"
 }

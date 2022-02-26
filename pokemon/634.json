@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 70,
     "speed": 58
-  }
+  },
+  "image": "images/zweilous.jpg"
 }

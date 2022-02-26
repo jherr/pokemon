@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 45,
     "speed": 48
-  }
+  },
+  "image": "images/tyrunt.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 35,
     "special_defense": 45,
     "speed": 95
-  }
+  },
+  "image": "images/diglett.jpg"
 }

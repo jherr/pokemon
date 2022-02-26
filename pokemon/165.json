@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 80,
     "speed": 55
-  }
+  },
+  "image": "images/ledyba.jpg"
 }

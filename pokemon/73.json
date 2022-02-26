@@ -17,5 +17,6 @@
     "special_attack": 80,
     "special_defense": 120,
     "speed": 100
-  }
+  },
+  "image": "images/tentacruel.jpg"
 }

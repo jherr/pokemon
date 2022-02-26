@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 60,
     "speed": 100
-  }
+  },
+  "image": "images/staraptor.jpg"
 }

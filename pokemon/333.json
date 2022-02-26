@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 75,
     "speed": 50
-  }
+  },
+  "image": "images/swablu.jpg"
 }

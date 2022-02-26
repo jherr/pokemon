@@ -17,5 +17,6 @@
     "special_attack": 83,
     "special_defense": 65,
     "speed": 32
-  }
+  },
+  "image": "images/carracosta.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 45,
     "speed": 46
-  }
+  },
+  "image": "images/grubbin.jpg"
 }

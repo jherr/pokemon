@@ -16,5 +16,6 @@
     "special_attack": 43,
     "special_defense": 90,
     "speed": 42
-  }
+  },
+  "image": "images/drowzee.jpg"
 }

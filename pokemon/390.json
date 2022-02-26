@@ -16,5 +16,6 @@
     "special_attack": 58,
     "special_defense": 44,
     "speed": 61
-  }
+  },
+  "image": "images/chimchar.jpg"
 }

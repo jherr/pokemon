@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 95,
     "speed": 50
-  }
+  },
+  "image": "images/lickilicky.jpg"
 }

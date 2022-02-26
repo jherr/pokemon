@@ -16,5 +16,6 @@
     "special_attack": 70,
     "special_defense": 55,
     "speed": 85
-  }
+  },
+  "image": "images/staryu.jpg"
 }

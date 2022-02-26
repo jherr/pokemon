@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 135,
     "speed": 45
-  }
+  },
+  "image": "images/dusknoir.jpg"
 }

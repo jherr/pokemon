@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 45,
     "speed": 95
-  }
+  },
+  "image": "images/yanma.jpg"
 }

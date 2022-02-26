@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 50,
     "speed": 89
-  }
+  },
+  "image": "images/vivillon.jpg"
 }

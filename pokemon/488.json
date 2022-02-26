@@ -16,5 +16,6 @@
     "special_attack": 75,
     "special_defense": 130,
     "speed": 85
-  }
+  },
+  "image": "images/cresselia.jpg"
 }

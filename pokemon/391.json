@@ -17,5 +17,6 @@
     "special_attack": 78,
     "special_defense": 52,
     "speed": 81
-  }
+  },
+  "image": "images/monferno.jpg"
 }

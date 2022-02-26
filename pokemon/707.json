@@ -17,5 +17,6 @@
     "special_attack": 80,
     "special_defense": 87,
     "speed": 75
-  }
+  },
+  "image": "images/klefki.jpg"
 }

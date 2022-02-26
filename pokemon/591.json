@@ -17,5 +17,6 @@
     "special_attack": 85,
     "special_defense": 80,
     "speed": 30
-  }
+  },
+  "image": "images/amoonguss.jpg"
 }

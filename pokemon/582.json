@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 60,
     "speed": 44
-  }
+  },
+  "image": "images/vanillite.jpg"
 }

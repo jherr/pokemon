@@ -17,5 +17,6 @@
     "special_attack": 109,
     "special_defense": 66,
     "speed": 106
-  }
+  },
+  "image": "images/pyroar.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 128,
     "special_defense": 128,
     "speed": 90
-  }
+  },
+  "image": "images/meloetta.jpg"
 }

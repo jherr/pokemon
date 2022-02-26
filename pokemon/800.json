@@ -16,5 +16,6 @@
     "special_attack": 127,
     "special_defense": 89,
     "speed": 79
-  }
+  },
+  "image": "images/necrozma.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 120,
     "special_defense": 70,
     "speed": 105
-  }
+  },
+  "image": "images/kadabra.jpg"
 }

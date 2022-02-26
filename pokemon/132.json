@@ -16,5 +16,6 @@
     "special_attack": 48,
     "special_defense": 48,
     "speed": 48
-  }
+  },
+  "image": "images/ditto.jpg"
 }

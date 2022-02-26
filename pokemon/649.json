@@ -17,5 +17,6 @@
     "special_attack": 120,
     "special_defense": 95,
     "speed": 99
-  }
+  },
+  "image": "images/genesect.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 53,
     "special_defense": 142,
     "speed": 35
-  }
+  },
+  "image": "images/toxapex.jpg"
 }

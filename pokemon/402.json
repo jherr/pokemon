@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 51,
     "speed": 65
-  }
+  },
+  "image": "images/kricketune.jpg"
 }

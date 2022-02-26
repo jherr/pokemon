@@ -17,5 +17,6 @@
     "special_attack": 80,
     "special_defense": 105,
     "speed": 40
-  }
+  },
+  "image": "images/togetic.jpg"
 }

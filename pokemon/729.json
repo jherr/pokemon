@@ -16,5 +16,6 @@
     "special_attack": 91,
     "special_defense": 81,
     "speed": 50
-  }
+  },
+  "image": "images/brionne.jpg"
 }

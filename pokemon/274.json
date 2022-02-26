@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 40,
     "speed": 60
-  }
+  },
+  "image": "images/nuzleaf.jpg"
 }

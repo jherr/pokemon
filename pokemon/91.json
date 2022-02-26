@@ -17,5 +17,6 @@
     "special_attack": 85,
     "special_defense": 45,
     "speed": 70
-  }
+  },
+  "image": "images/cloyster.jpg"
 }

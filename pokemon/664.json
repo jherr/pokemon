@@ -16,5 +16,6 @@
     "special_attack": 27,
     "special_defense": 25,
     "speed": 35
-  }
+  },
+  "image": "images/scatterbug.jpg"
 }

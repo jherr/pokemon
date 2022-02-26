@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 38,
     "speed": 32
-  }
+  },
+  "image": "images/bounsweet.jpg"
 }

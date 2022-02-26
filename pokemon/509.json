@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 37,
     "speed": 66
-  }
+  },
+  "image": "images/purrloin.jpg"
 }

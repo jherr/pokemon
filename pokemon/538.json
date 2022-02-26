@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 85,
     "speed": 45
-  }
+  },
+  "image": "images/throh.jpg"
 }

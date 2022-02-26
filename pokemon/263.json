@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 41,
     "speed": 60
-  }
+  },
+  "image": "images/zigzagoon.jpg"
 }

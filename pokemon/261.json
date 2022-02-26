@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 30,
     "speed": 35
-  }
+  },
+  "image": "images/poochyena.jpg"
 }

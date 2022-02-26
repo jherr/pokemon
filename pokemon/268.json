@@ -16,5 +16,6 @@
     "special_attack": 25,
     "special_defense": 25,
     "speed": 15
-  }
+  },
+  "image": "images/cascoon.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 25,
     "speed": 20
-  }
+  },
+  "image": "images/jigglypuff.jpg"
 }

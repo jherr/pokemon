@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 150,
     "speed": 40
-  }
+  },
+  "image": "images/probopass.jpg"
 }

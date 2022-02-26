@@ -17,5 +17,6 @@
     "special_attack": 56,
     "special_defense": 52,
     "speed": 84
-  }
+  },
+  "image": "images/fletchinder.jpg"
 }

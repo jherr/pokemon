@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 115,
     "speed": 80
-  }
+  },
+  "image": "images/gallade.jpg"
 }

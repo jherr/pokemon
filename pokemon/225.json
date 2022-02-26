@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 45,
     "speed": 75
-  }
+  },
+  "image": "images/delibird.jpg"
 }

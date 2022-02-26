@@ -17,5 +17,6 @@
     "special_attack": 39,
     "special_defense": 56,
     "speed": 50
-  }
+  },
+  "image": "images/binacle.jpg"
 }

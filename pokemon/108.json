@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 75,
     "speed": 30
-  }
+  },
+  "image": "images/lickitung.jpg"
 }

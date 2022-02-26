@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 70,
     "speed": 85
-  }
+  },
+  "image": "images/pinsir.jpg"
 }

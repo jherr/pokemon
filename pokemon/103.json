@@ -17,5 +17,6 @@
     "special_attack": 125,
     "special_defense": 75,
     "speed": 55
-  }
+  },
+  "image": "images/exeggutor.jpg"
 }

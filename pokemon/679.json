@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 37,
     "speed": 28
-  }
+  },
+  "image": "images/honedge.jpg"
 }

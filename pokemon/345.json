@@ -17,5 +17,6 @@
     "special_attack": 61,
     "special_defense": 87,
     "speed": 23
-  }
+  },
+  "image": "images/lileep.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 55,
     "special_defense": 69,
     "speed": 112
-  }
+  },
+  "image": "images/scolipede.jpg"
 }

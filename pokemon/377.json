@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 100,
     "speed": 50
-  }
+  },
+  "image": "images/regirock.jpg"
 }

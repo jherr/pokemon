@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 30,
     "speed": 50
-  }
+  },
+  "image": "images/bagon.jpg"
 }

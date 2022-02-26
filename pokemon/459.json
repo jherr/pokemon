@@ -17,5 +17,6 @@
     "special_attack": 62,
     "special_defense": 60,
     "speed": 40
-  }
+  },
+  "image": "images/snover.jpg"
 }

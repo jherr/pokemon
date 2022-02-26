@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 75,
     "speed": 85
-  }
+  },
+  "image": "images/sawk.jpg"
 }

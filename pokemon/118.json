@@ -16,5 +16,6 @@
     "special_attack": 35,
     "special_defense": 50,
     "speed": 63
-  }
+  },
+  "image": "images/goldeen.jpg"
 }

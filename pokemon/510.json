@@ -16,5 +16,6 @@
     "special_attack": 88,
     "special_defense": 50,
     "speed": 106
-  }
+  },
+  "image": "images/liepard.jpg"
 }

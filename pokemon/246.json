@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 50,
     "speed": 41
-  }
+  },
+  "image": "images/larvitar.jpg"
 }

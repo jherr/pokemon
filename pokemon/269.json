@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 90,
     "speed": 65
-  }
+  },
+  "image": "images/dustox.jpg"
 }

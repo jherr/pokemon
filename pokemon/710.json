@@ -17,5 +17,6 @@
     "special_attack": 44,
     "special_defense": 55,
     "speed": 41
-  }
+  },
+  "image": "images/pumpkaboo.jpg"
 }

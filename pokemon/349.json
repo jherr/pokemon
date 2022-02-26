@@ -16,5 +16,6 @@
     "special_attack": 10,
     "special_defense": 55,
     "speed": 80
-  }
+  },
+  "image": "images/feebas.jpg"
 }

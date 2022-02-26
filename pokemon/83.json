@@ -17,5 +17,6 @@
     "special_attack": 58,
     "special_defense": 62,
     "speed": 60
-  }
+  },
+  "image": "images/farfetch'd.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 70,
     "special_defense": 85,
     "speed": 50
-  }
+  },
+  "image": "images/klang.jpg"
 }

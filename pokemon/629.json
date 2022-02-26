@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 65,
     "speed": 60
-  }
+  },
+  "image": "images/vullaby.jpg"
 }

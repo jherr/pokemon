@@ -17,5 +17,6 @@
     "special_attack": 20,
     "special_defense": 20,
     "speed": 50
-  }
+  },
+  "image": "images/weedle.jpg"
 }

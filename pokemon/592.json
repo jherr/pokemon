@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 85,
     "speed": 40
-  }
+  },
+  "image": "images/frillish.jpg"
 }

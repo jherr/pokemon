@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 110,
     "speed": 100
-  }
+  },
+  "image": "images/regigigas.jpg"
 }

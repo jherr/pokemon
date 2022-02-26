@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 65,
     "speed": 30
-  }
+  },
+  "image": "images/sudowoodo.jpg"
 }

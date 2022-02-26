@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 105,
     "speed": 20
-  }
+  },
+  "image": "images/escavalier.jpg"
 }

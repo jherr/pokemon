@@ -17,5 +17,6 @@
     "special_attack": 130,
     "special_defense": 90,
     "speed": 70
-  }
+  },
+  "image": "images/volcanion.jpg"
 }

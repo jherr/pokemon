@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 44,
     "speed": 70
-  }
+  },
+  "image": "images/drifloon.jpg"
 }

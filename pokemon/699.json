@@ -17,5 +17,6 @@
     "special_attack": 99,
     "special_defense": 92,
     "speed": 58
-  }
+  },
+  "image": "images/aurorus.jpg"
 }

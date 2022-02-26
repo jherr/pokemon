@@ -16,5 +16,6 @@
     "special_attack": 49,
     "special_defense": 65,
     "speed": 45
-  }
+  },
+  "image": "images/chikorita.jpg"
 }

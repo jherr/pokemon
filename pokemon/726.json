@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 50,
     "speed": 90
-  }
+  },
+  "image": "images/torracat.jpg"
 }

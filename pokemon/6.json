@@ -17,5 +17,6 @@
     "special_attack": 109,
     "special_defense": 85,
     "speed": 100
-  }
+  },
+  "image": "images/charizard.jpg"
 }

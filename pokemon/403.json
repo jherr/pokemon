@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 34,
     "speed": 45
-  }
+  },
+  "image": "images/shinx.jpg"
 }

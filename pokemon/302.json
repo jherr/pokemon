@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 65,
     "speed": 50
-  }
+  },
+  "image": "images/sableye.jpg"
 }

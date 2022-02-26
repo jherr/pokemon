@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 129,
     "speed": 108
-  }
+  },
+  "image": "images/virizion.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 120,
     "special_defense": 89,
     "speed": 59
-  }
+  },
+  "image": "images/clawitzer.jpg"
 }

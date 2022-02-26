@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 65,
     "speed": 30
-  }
+  },
+  "image": "images/oddish.jpg"
 }

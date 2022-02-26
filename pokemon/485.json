@@ -17,5 +17,6 @@
     "special_attack": 130,
     "special_defense": 106,
     "speed": 77
-  }
+  },
+  "image": "images/heatran.jpg"
 }

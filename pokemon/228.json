@@ -17,5 +17,6 @@
     "special_attack": 80,
     "special_defense": 50,
     "speed": 65
-  }
+  },
+  "image": "images/houndour.jpg"
 }

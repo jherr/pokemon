@@ -17,5 +17,6 @@
     "special_attack": 48,
     "special_defense": 48,
     "speed": 109
-  }
+  },
+  "image": "images/durant.jpg"
 }

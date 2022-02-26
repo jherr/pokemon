@@ -16,5 +16,6 @@
     "special_attack": 45,
     "special_defense": 70,
     "speed": 45
-  }
+  },
+  "image": "images/seel.jpg"
 }

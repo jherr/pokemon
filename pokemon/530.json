@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 65,
     "speed": 88
-  }
+  },
+  "image": "images/excadrill.jpg"
 }

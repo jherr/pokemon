@@ -16,5 +16,6 @@
     "special_attack": 130,
     "special_defense": 95,
     "speed": 110
-  }
+  },
+  "image": "images/espeon.jpg"
 }

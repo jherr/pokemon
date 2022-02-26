@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 100,
     "speed": 81
-  }
+  },
+  "image": "images/gyarados.jpg"
 }

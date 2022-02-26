@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 35,
     "speed": 35
-  }
+  },
+  "image": "images/corphish.jpg"
 }

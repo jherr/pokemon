@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 55,
     "speed": 60
-  }
+  },
+  "image": "images/meditite.jpg"
 }

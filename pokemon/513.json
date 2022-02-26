@@ -16,5 +16,6 @@
     "special_attack": 53,
     "special_defense": 48,
     "speed": 64
-  }
+  },
+  "image": "images/pansear.jpg"
 }

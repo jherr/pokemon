@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 50,
     "speed": 35
-  }
+  },
+  "image": "images/golett.jpg"
 }

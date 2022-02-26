@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 72,
     "speed": 108
-  }
+  },
+  "image": "images/cobalion.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 135,
     "special_defense": 91,
     "speed": 36
-  }
+  },
+  "image": "images/drampa.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 115,
     "special_defense": 100,
     "speed": 115
-  }
+  },
+  "image": "images/raikou.jpg"
 }

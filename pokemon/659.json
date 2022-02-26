@@ -16,5 +16,6 @@
     "special_attack": 32,
     "special_defense": 36,
     "speed": 57
-  }
+  },
+  "image": "images/bunnelby.jpg"
 }

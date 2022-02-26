@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 66,
     "speed": 115
-  }
+  },
+  "image": "images/ambipom.jpg"
 }

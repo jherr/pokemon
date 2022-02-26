@@ -17,5 +17,6 @@
     "special_attack": 100,
     "special_defense": 85,
     "speed": 115
-  }
+  },
+  "image": "images/starmie.jpg"
 }

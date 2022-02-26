@@ -16,5 +16,6 @@
     "special_attack": 100,
     "special_defense": 125,
     "speed": 81
-  }
+  },
+  "image": "images/milotic.jpg"
 }

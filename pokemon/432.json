@@ -16,5 +16,6 @@
     "special_attack": 64,
     "special_defense": 59,
     "speed": 112
-  }
+  },
+  "image": "images/purugly.jpg"
 }

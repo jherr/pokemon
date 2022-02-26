@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 65,
     "speed": 115
-  }
+  },
+  "image": "images/persian.jpg"
 }

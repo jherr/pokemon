@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 80,
     "speed": 42
-  }
+  },
+  "image": "images/swadloon.jpg"
 }

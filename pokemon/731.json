@@ -17,5 +17,6 @@
     "special_attack": 30,
     "special_defense": 30,
     "speed": 65
-  }
+  },
+  "image": "images/pikipek.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 85,
     "speed": 35
-  }
+  },
+  "image": "images/mudsdale.jpg"
 }

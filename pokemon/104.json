@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 50,
     "speed": 35
-  }
+  },
+  "image": "images/cubone.jpg"
 }

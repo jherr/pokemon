@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 40,
     "speed": 35
-  }
+  },
+  "image": "images/cacnea.jpg"
 }

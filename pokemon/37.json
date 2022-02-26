@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 65,
     "speed": 65
-  }
+  },
+  "image": "images/vulpix.jpg"
 }

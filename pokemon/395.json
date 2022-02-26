@@ -17,5 +17,6 @@
     "special_attack": 111,
     "special_defense": 101,
     "speed": 60
-  }
+  },
+  "image": "images/empoleon.jpg"
 }

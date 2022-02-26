@@ -17,5 +17,6 @@
     "special_attack": 41,
     "special_defense": 41,
     "speed": 74
-  }
+  },
+  "image": "images/stunky.jpg"
 }

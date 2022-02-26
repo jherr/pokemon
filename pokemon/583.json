@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 75,
     "speed": 59
-  }
+  },
+  "image": "images/vanillish.jpg"
 }

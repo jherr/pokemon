@@ -17,5 +17,6 @@
     "special_attack": 120,
     "special_defense": 115,
     "speed": 80
-  }
+  },
+  "image": "images/togekiss.jpg"
 }

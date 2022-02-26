@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 60,
     "speed": 103
-  }
+  },
+  "image": "images/emolga.jpg"
 }

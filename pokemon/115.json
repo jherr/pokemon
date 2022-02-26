@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 80,
     "speed": 90
-  }
+  },
+  "image": "images/kangaskhan.jpg"
 }

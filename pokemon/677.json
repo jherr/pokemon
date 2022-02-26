@@ -16,5 +16,6 @@
     "special_attack": 63,
     "special_defense": 60,
     "speed": 68
-  }
+  },
+  "image": "images/espurr.jpg"
 }

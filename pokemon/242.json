@@ -16,5 +16,6 @@
     "special_attack": 75,
     "special_defense": 135,
     "speed": 55
-  }
+  },
+  "image": "images/blissey.jpg"
 }

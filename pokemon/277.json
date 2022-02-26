@@ -17,5 +17,6 @@
     "special_attack": 75,
     "special_defense": 50,
     "speed": 125
-  }
+  },
+  "image": "images/swellow.jpg"
 }

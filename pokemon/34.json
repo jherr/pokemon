@@ -17,5 +17,6 @@
     "special_attack": 85,
     "special_defense": 75,
     "speed": 85
-  }
+  },
+  "image": "images/nidoking.jpg"
 }

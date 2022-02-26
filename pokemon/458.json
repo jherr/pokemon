@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 120,
     "speed": 50
-  }
+  },
+  "image": "images/mantyke.jpg"
 }

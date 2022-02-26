@@ -17,5 +17,6 @@
     "special_attack": 81,
     "special_defense": 95,
     "speed": 95
-  }
+  },
+  "image": "images/zygarde.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 125,
     "special_defense": 95,
     "speed": 83
-  }
+  },
+  "image": "images/magmortar.jpg"
 }

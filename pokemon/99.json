@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 50,
     "speed": 75
-  }
+  },
+  "image": "images/kingler.jpg"
 }

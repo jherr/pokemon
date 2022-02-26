@@ -16,5 +16,6 @@
     "special_attack": 35,
     "special_defense": 110,
     "speed": 76
-  }
+  },
+  "image": "images/hitmonchan.jpg"
 }

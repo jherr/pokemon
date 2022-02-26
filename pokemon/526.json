@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 80,
     "speed": 25
-  }
+  },
+  "image": "images/gigalith.jpg"
 }

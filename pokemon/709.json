@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 82,
     "speed": 56
-  }
+  },
+  "image": "images/trevenant.jpg"
 }

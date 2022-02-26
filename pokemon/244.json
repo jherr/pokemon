@@ -16,5 +16,6 @@
     "special_attack": 90,
     "special_defense": 75,
     "speed": 100
-  }
+  },
+  "image": "images/entei.jpg"
 }

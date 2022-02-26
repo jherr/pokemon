@@ -17,5 +17,6 @@
     "special_attack": 65,
     "special_defense": 20,
     "speed": 65
-  }
+  },
+  "image": "images/carvanha.jpg"
 }

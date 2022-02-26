@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 20,
     "speed": 15
-  }
+  },
+  "image": "images/igglybuff.jpg"
 }

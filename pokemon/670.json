@@ -16,5 +16,6 @@
     "special_attack": 75,
     "special_defense": 98,
     "speed": 52
-  }
+  },
+  "image": "images/floette.jpg"
 }

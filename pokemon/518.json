@@ -16,5 +16,6 @@
     "special_attack": 107,
     "special_defense": 95,
     "speed": 29
-  }
+  },
+  "image": "images/musharna.jpg"
 }

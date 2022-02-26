@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 98,
     "speed": 72
-  }
+  },
+  "image": "images/tsareena.jpg"
 }

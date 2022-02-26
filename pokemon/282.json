@@ -17,5 +17,6 @@
     "special_attack": 125,
     "special_defense": 115,
     "speed": 80
-  }
+  },
+  "image": "images/gardevoir.jpg"
 }

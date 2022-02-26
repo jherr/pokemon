@@ -17,5 +17,6 @@
     "special_attack": 81,
     "special_defense": 99,
     "speed": 32
-  }
+  },
+  "image": "images/stunfisk.jpg"
 }

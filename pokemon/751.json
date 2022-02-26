@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 72,
     "speed": 27
-  }
+  },
+  "image": "images/dewpider.jpg"
 }

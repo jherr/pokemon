@@ -16,5 +16,6 @@
     "special_attack": 33,
     "special_defense": 58,
     "speed": 33
-  }
+  },
+  "image": "images/wobbuffet.jpg"
 }

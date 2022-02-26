@@ -17,5 +17,6 @@
     "special_attack": 127,
     "special_defense": 73,
     "speed": 121
-  }
+  },
+  "image": "images/naganadel.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 83,
     "special_defense": 113,
     "speed": 60
-  }
+  },
+  "image": "images/sliggoo.jpg"
 }

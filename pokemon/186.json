@@ -16,5 +16,6 @@
     "special_attack": 90,
     "special_defense": 100,
     "speed": 70
-  }
+  },
+  "image": "images/politoed.jpg"
 }

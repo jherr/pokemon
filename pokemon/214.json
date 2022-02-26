@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 95,
     "speed": 85
-  }
+  },
+  "image": "images/heracross.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 73,
     "special_defense": 83,
     "speed": 55
-  }
+  },
+  "image": "images/swalot.jpg"
 }

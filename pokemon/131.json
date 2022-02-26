@@ -17,5 +17,6 @@
     "special_attack": 85,
     "special_defense": 95,
     "speed": 60
-  }
+  },
+  "image": "images/lapras.jpg"
 }

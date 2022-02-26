@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 55,
     "speed": 90
-  }
+  },
+  "image": "images/delcatty.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 38,
     "special_defense": 42,
     "speed": 32
-  }
+  },
+  "image": "images/hippopotas.jpg"
 }

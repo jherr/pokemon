@@ -16,5 +16,6 @@
     "special_attack": 25,
     "special_defense": 45,
     "speed": 55
-  }
+  },
+  "image": "images/lillipup.jpg"
 }

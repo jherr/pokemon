@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 65,
     "speed": 85
-  }
+  },
+  "image": "images/stantler.jpg"
 }

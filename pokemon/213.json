@@ -17,5 +17,6 @@
     "special_attack": 10,
     "special_defense": 230,
     "speed": 5
-  }
+  },
+  "image": "images/shuckle.jpg"
 }

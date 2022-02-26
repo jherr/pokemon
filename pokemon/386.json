@@ -16,5 +16,6 @@
     "special_attack": 150,
     "special_defense": 50,
     "speed": 150
-  }
+  },
+  "image": "images/deoxys.jpg"
 }

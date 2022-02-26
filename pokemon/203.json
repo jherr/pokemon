@@ -17,5 +17,6 @@
     "special_attack": 90,
     "special_defense": 65,
     "speed": 85
-  }
+  },
+  "image": "images/girafarig.jpg"
 }

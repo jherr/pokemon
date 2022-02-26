@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 40,
     "speed": 64
-  }
+  },
+  "image": "images/tympole.jpg"
 }

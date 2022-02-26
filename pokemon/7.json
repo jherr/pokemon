@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 64,
     "speed": 43
-  }
+  },
+  "image": "images/squirtle.jpg"
 }

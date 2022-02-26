@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 70,
     "speed": 120
-  }
+  },
+  "image": "images/dugtrio.jpg"
 }

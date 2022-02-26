@@ -16,5 +16,6 @@
     "special_attack": 75,
     "special_defense": 60,
     "speed": 75
-  }
+  },
+  "image": "images/absol.jpg"
 }

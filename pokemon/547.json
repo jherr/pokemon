@@ -17,5 +17,6 @@
     "special_attack": 77,
     "special_defense": 75,
     "speed": 116
-  }
+  },
+  "image": "images/whimsicott.jpg"
 }

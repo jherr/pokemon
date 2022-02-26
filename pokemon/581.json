@@ -17,5 +17,6 @@
     "special_attack": 87,
     "special_defense": 63,
     "speed": 98
-  }
+  },
+  "image": "images/swanna.jpg"
 }

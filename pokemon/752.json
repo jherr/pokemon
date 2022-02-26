@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 132,
     "speed": 42
-  }
+  },
+  "image": "images/araquanid.jpg"
 }

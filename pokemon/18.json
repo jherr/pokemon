@@ -17,5 +17,6 @@
     "special_attack": 70,
     "special_defense": 70,
     "speed": 101
-  }
+  },
+  "image": "images/pidgeot.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 65,
     "speed": 95
-  }
+  },
+  "image": "images/leafeon.jpg"
 }

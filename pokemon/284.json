@@ -17,5 +17,6 @@
     "special_attack": 100,
     "special_defense": 82,
     "speed": 80
-  }
+  },
+  "image": "images/masquerain.jpg"
 }

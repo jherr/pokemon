@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 40,
     "speed": 70
-  }
+  },
+  "image": "images/litten.jpg"
 }

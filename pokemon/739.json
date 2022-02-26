@@ -16,5 +16,6 @@
     "special_attack": 42,
     "special_defense": 47,
     "speed": 63
-  }
+  },
+  "image": "images/crabrawler.jpg"
 }

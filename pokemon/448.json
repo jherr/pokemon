@@ -17,5 +17,6 @@
     "special_attack": 115,
     "special_defense": 70,
     "speed": 90
-  }
+  },
+  "image": "images/lucario.jpg"
 }

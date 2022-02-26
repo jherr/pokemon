@@ -17,5 +17,6 @@
     "special_attack": 69,
     "special_defense": 71,
     "speed": 58
-  }
+  },
+  "image": "images/pangoro.jpg"
 }

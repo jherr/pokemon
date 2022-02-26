@@ -17,5 +17,6 @@
     "special_attack": 110,
     "special_defense": 154,
     "speed": 90
-  }
+  },
+  "image": "images/ho-oh.jpg"
 }

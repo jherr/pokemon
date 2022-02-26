@@ -17,5 +17,6 @@
     "special_attack": 97,
     "special_defense": 60,
     "speed": 108
-  }
+  },
+  "image": "images/galvantula.jpg"
 }

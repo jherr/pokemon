@@ -16,5 +16,6 @@
     "special_attack": 44,
     "special_defense": 46,
     "speed": 28
-  }
+  },
+  "image": "images/avalugg.jpg"
 }

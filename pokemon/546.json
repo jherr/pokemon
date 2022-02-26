@@ -17,5 +17,6 @@
     "special_attack": 37,
     "special_defense": 50,
     "speed": 66
-  }
+  },
+  "image": "images/cottonee.jpg"
 }

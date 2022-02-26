@@ -16,5 +16,6 @@
     "special_attack": 61,
     "special_defense": 56,
     "speed": 40
-  }
+  },
+  "image": "images/piplup.jpg"
 }

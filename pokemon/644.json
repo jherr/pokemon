@@ -17,5 +17,6 @@
     "special_attack": 120,
     "special_defense": 100,
     "speed": 90
-  }
+  },
+  "image": "images/zekrom.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 115,
     "speed": 58
-  }
+  },
+  "image": "images/scrafty.jpg"
 }

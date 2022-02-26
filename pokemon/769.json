@@ -17,5 +17,6 @@
     "special_attack": 70,
     "special_defense": 45,
     "speed": 15
-  }
+  },
+  "image": "images/sandygast.jpg"
 }

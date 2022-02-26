@@ -16,5 +16,6 @@
     "special_attack": 45,
     "special_defense": 25,
     "speed": 40
-  }
+  },
+  "image": "images/shellder.jpg"
 }

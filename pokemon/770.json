@@ -17,5 +17,6 @@
     "special_attack": 100,
     "special_defense": 75,
     "speed": 35
-  }
+  },
+  "image": "images/palossand.jpg"
 }

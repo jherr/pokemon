@@ -16,5 +16,6 @@
     "special_attack": 43,
     "special_defense": 53,
     "speed": 40
-  }
+  },
+  "image": "images/gulpin.jpg"
 }

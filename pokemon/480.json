@@ -16,5 +16,6 @@
     "special_attack": 75,
     "special_defense": 130,
     "speed": 95
-  }
+  },
+  "image": "images/uxie.jpg"
 }

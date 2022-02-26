@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 55,
     "speed": 25
-  }
+  },
+  "image": "images/paras.jpg"
 }

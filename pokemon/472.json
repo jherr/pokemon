@@ -17,5 +17,6 @@
     "special_attack": 45,
     "special_defense": 75,
     "speed": 95
-  }
+  },
+  "image": "images/gliscor.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 30,
     "special_defense": 40,
     "speed": 57
-  }
+  },
+  "image": "images/axew.jpg"
 }

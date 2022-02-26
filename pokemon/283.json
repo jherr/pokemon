@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 52,
     "speed": 65
-  }
+  },
+  "image": "images/surskit.jpg"
 }

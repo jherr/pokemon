@@ -16,5 +16,6 @@
     "special_attack": 63,
     "special_defense": 45,
     "speed": 45
-  }
+  },
+  "image": "images/oshawott.jpg"
 }

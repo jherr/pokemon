@@ -17,5 +17,6 @@
     "special_attack": 24,
     "special_defense": 86,
     "speed": 23
-  }
+  },
+  "image": "images/bronzor.jpg"
 }

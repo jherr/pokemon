@@ -17,5 +17,6 @@
     "special_attack": 70,
     "special_defense": 80,
     "speed": 45
-  }
+  },
+  "image": "images/armaldo.jpg"
 }

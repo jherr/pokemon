@@ -16,5 +16,6 @@
     "special_attack": 70,
     "special_defense": 50,
     "speed": 30
-  }
+  },
+  "image": "images/petilil.jpg"
 }

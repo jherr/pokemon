@@ -16,5 +16,6 @@
     "special_attack": 90,
     "special_defense": 115,
     "speed": 85
-  }
+  },
+  "image": "images/suicune.jpg"
 }

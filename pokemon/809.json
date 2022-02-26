@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 65,
     "speed": 34
-  }
+  },
+  "image": "images/melmetal.jpg"
 }

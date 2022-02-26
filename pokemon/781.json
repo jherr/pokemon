@@ -17,5 +17,6 @@
     "special_attack": 86,
     "special_defense": 90,
     "speed": 40
-  }
+  },
+  "image": "images/dhelmise.jpg"
 }

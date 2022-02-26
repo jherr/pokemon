@@ -17,5 +17,6 @@
     "special_attack": 110,
     "special_defense": 80,
     "speed": 100
-  }
+  },
+  "image": "images/salamence.jpg"
 }

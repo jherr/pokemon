@@ -16,5 +16,6 @@
     "special_attack": 62,
     "special_defense": 53,
     "speed": 35
-  }
+  },
+  "image": "images/cherubi.jpg"
 }

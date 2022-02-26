@@ -16,5 +16,6 @@
     "special_attack": 15,
     "special_defense": 65,
     "speed": 30
-  }
+  },
+  "image": "images/happiny.jpg"
 }

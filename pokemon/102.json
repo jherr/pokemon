@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 45,
     "speed": 40
-  }
+  },
+  "image": "images/exeggcute.jpg"
 }

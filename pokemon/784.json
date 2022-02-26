@@ -17,5 +17,6 @@
     "special_attack": 100,
     "special_defense": 105,
     "speed": 85
-  }
+  },
+  "image": "images/kommo-o.jpg"
 }

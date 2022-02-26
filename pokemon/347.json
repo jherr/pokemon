@@ -17,5 +17,6 @@
     "special_attack": 40,
     "special_defense": 50,
     "speed": 75
-  }
+  },
+  "image": "images/anorith.jpg"
 }

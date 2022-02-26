@@ -17,5 +17,6 @@
     "special_attack": 110,
     "special_defense": 130,
     "speed": 110
-  }
+  },
+  "image": "images/latias.jpg"
 }

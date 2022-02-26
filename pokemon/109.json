@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 45,
     "speed": 35
-  }
+  },
+  "image": "images/koffing.jpg"
 }

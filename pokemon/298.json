@@ -17,5 +17,6 @@
     "special_attack": 20,
     "special_defense": 40,
     "speed": 20
-  }
+  },
+  "image": "images/azurill.jpg"
 }

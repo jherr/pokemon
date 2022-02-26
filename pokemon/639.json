@@ -17,5 +17,6 @@
     "special_attack": 72,
     "special_defense": 90,
     "speed": 108
-  }
+  },
+  "image": "images/terrakion.jpg"
 }

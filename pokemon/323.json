@@ -17,5 +17,6 @@
     "special_attack": 105,
     "special_defense": 75,
     "speed": 40
-  }
+  },
+  "image": "images/camerupt.jpg"
 }

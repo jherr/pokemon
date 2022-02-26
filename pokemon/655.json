@@ -17,5 +17,6 @@
     "special_attack": 114,
     "special_defense": 100,
     "speed": 104
-  }
+  },
+  "image": "images/delphox.jpg"
 }

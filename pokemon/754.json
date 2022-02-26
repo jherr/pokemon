@@ -16,5 +16,6 @@
     "special_attack": 80,
     "special_defense": 90,
     "speed": 45
-  }
+  },
+  "image": "images/lurantis.jpg"
 }

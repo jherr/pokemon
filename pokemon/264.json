@@ -16,5 +16,6 @@
     "special_attack": 50,
     "special_defense": 61,
     "speed": 100
-  }
+  },
+  "image": "images/linoone.jpg"
 }

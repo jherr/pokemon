@@ -16,5 +16,6 @@
     "special_attack": 105,
     "special_defense": 85,
     "speed": 120
-  }
+  },
+  "image": "images/sceptile.jpg"
 }

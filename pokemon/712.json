@@ -16,5 +16,6 @@
     "special_attack": 32,
     "special_defense": 35,
     "speed": 28
-  }
+  },
+  "image": "images/bergmite.jpg"
 }

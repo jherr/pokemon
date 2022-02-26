@@ -16,5 +16,6 @@
     "special_attack": 23,
     "special_defense": 48,
     "speed": 23
-  }
+  },
+  "image": "images/wynaut.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 135,
     "special_defense": 95,
     "speed": 120
-  }
+  },
+  "image": "images/alakazam.jpg"
 }

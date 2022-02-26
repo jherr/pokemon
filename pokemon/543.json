@@ -17,5 +17,6 @@
     "special_attack": 30,
     "special_defense": 39,
     "speed": 57
-  }
+  },
+  "image": "images/venipede.jpg"
 }

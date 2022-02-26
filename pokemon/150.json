@@ -16,5 +16,6 @@
     "special_attack": 154,
     "special_defense": 90,
     "speed": 130
-  }
+  },
+  "image": "images/mewtwo.jpg"
 }

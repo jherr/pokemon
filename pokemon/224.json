@@ -16,5 +16,6 @@
     "special_attack": 105,
     "special_defense": 75,
     "speed": 45
-  }
+  },
+  "image": "images/octillery.jpg"
 }

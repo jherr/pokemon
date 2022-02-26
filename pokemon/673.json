@@ -16,5 +16,6 @@
     "special_attack": 97,
     "special_defense": 81,
     "speed": 68
-  }
+  },
+  "image": "images/gogoat.jpg"
 }

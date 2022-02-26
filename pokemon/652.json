@@ -17,5 +17,6 @@
     "special_attack": 74,
     "special_defense": 75,
     "speed": 64
-  }
+  },
+  "image": "images/chesnaught.jpg"
 }

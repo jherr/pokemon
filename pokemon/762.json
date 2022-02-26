@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 48,
     "speed": 62
-  }
+  },
+  "image": "images/steenee.jpg"
 }

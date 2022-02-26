@@ -16,5 +16,6 @@
     "special_attack": 83,
     "special_defense": 81,
     "speed": 104
-  }
+  },
+  "image": "images/meowstic.jpg"
 }

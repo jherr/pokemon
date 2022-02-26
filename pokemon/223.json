@@ -16,5 +16,6 @@
     "special_attack": 65,
     "special_defense": 35,
     "speed": 65
-  }
+  },
+  "image": "images/remoraid.jpg"
 }

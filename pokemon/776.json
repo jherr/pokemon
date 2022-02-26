@@ -17,5 +17,6 @@
     "special_attack": 91,
     "special_defense": 85,
     "speed": 36
-  }
+  },
+  "image": "images/turtonator.jpg"
 }

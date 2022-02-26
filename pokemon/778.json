@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 105,
     "speed": 96
-  }
+  },
+  "image": "images/mimikyu.jpg"
 }

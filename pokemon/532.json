@@ -16,5 +16,6 @@
     "special_attack": 25,
     "special_defense": 35,
     "speed": 35
-  }
+  },
+  "image": "images/timburr.jpg"
 }

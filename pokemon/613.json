@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 40,
     "speed": 40
-  }
+  },
+  "image": "images/cubchoo.jpg"
 }

@@ -17,5 +17,6 @@
     "special_attack": 50,
     "special_defense": 150,
     "speed": 50
-  }
+  },
+  "image": "images/carbink.jpg"
 }

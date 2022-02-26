@@ -16,5 +16,6 @@
     "special_attack": 44,
     "special_defense": 56,
     "speed": 85
-  }
+  },
+  "image": "images/buneary.jpg"
 }

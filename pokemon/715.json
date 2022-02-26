@@ -17,5 +17,6 @@
     "special_attack": 97,
     "special_defense": 80,
     "speed": 123
-  }
+  },
+  "image": "images/noivern.jpg"
 }

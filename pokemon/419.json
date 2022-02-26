@@ -16,5 +16,6 @@
     "special_attack": 85,
     "special_defense": 50,
     "speed": 115
-  }
+  },
+  "image": "images/floatzel.jpg"
 }

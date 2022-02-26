@@ -16,5 +16,6 @@
     "special_attack": 105,
     "special_defense": 95,
     "speed": 60
-  }
+  },
+  "image": "images/porygon2.jpg"
 }

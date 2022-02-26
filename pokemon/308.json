@@ -17,5 +17,6 @@
     "special_attack": 60,
     "special_defense": 75,
     "speed": 80
-  }
+  },
+  "image": "images/medicham.jpg"
 }

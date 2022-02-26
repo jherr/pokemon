@@ -17,5 +17,6 @@
     "special_attack": 35,
     "special_defense": 35,
     "speed": 55
-  }
+  },
+  "image": "images/dwebble.jpg"
 }

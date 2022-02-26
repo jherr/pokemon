@@ -16,5 +16,6 @@
     "special_attack": 70,
     "special_defense": 40,
     "speed": 20
-  }
+  },
+  "image": "images/slugma.jpg"
 }

@@ -16,5 +16,6 @@
     "special_attack": 40,
     "special_defense": 60,
     "speed": 80
-  }
+  },
+  "image": "images/passimian.jpg"
 }

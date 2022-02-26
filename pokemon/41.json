@@ -17,5 +17,6 @@
     "special_attack": 30,
     "special_defense": 40,
     "speed": 55
-  }
+  },
+  "image": "images/zubat.jpg"
 }

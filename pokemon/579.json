@@ -16,5 +16,6 @@
     "special_attack": 125,
     "special_defense": 85,
     "speed": 30
-  }
+  },
+  "image": "images/reuniclus.jpg"
 }

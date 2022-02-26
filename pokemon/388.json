@@ -16,5 +16,6 @@
     "special_attack": 55,
     "special_defense": 65,
     "speed": 36
-  }
+  },
+  "image": "images/grotle.jpg"
 }

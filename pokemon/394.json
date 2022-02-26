@@ -16,5 +16,6 @@
     "special_attack": 81,
     "special_defense": 76,
     "speed": 50
-  }
+  },
+  "image": "images/prinplup.jpg"
 }

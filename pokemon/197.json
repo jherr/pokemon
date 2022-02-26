@@ -16,5 +16,6 @@
     "special_attack": 60,
     "special_defense": 130,
     "speed": 65
-  }
+  },
+  "image": "images/umbreon.jpg"
 }

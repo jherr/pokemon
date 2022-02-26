@@ -16,5 +16,6 @@
     "special_attack": 110,
     "special_defense": 150,
     "speed": 80
-  }
+  },
+  "image": "images/goodra.jpg"
 }
