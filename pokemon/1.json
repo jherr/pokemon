@@ -1,6 +1,6 @@
 {
   "name": "Bulbasaur",
-  "description": "Cool dinosaur",
+  "description": "Cool dinosaur with a new description",
   "type": [
     "Grazz",
     "Poison"
